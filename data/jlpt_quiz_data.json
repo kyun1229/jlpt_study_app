@@ -4,7 +4,7 @@
       "surface": "人",
       "onyomi": "ジン、ニン",
       "kunyomi": "ひと、-り、-と",
-      "meaning": "사람",
+      "meaning": "사람 인, 사람",
       "related_kanji": [
         "大人",
         "人",
@@ -33,8 +33,8 @@
     {
       "surface": "大",
       "onyomi": "ダイ、タイ",
-      "kunyomi": "おお-、おお.きい、-おお.いに",
-      "meaning": "큰",
+      "kunyomi": "おお-、おおきい、-おおいに",
+      "meaning": "큰 대, 큰",
       "related_kanji": [
         "大丈夫",
         "大変",
@@ -63,8 +63,8 @@
     {
       "surface": "分",
       "onyomi": "ブン、フン、ブ",
-      "kunyomi": "わ.ける、わ.け、わ.かれる、わ.かる、わ.かつ",
-      "meaning": "부분, 시간의 분, 세그먼트, 공유하다, 학위, 운명, 의무, 이해하다, 알다, 비율, 1%, 기회, 샤쿠/100",
+      "kunyomi": "わける、わかれる、わかる",
+      "meaning": "나눌 분, 나누다, 이해하다, 분(시간)",
       "related_kanji": [
         "分かる",
         "自分",
@@ -90,8 +90,8 @@
     {
       "surface": "一",
       "onyomi": "イチ、イツ",
-      "kunyomi": "ひと-、ひと.つ",
-      "meaning": "하나, 한 획 (번호 1)",
+      "kunyomi": "ひと、ひとつ",
+      "meaning": "한 일, 하나",
       "related_kanji": [
         "一",
         "一緒",
@@ -120,8 +120,8 @@
     {
       "surface": "見",
       "onyomi": "ケン",
-      "kunyomi": "み.る、み.える、み.せる",
-      "meaning": "보다, 희망, 기회, 아이디어, 의견, 보이는",
+      "kunyomi": "みる、みえる、みせる",
+      "meaning": "볼 견, 보다, 보이다, 보여주다",
       "related_kanji": [
         "見る",
         "見せる"
@@ -140,9 +140,9 @@
     },
     {
       "surface": "出",
-      "onyomi": "シュツ、スイ",
-      "kunyomi": "で.る、-で、だ.す、-だ.す、い.でる、い.だす",
-      "meaning": "출구, 떠나다, 나가다, 나오다, 끄다, 돌출하다",
+      "onyomi": "シュツ",
+      "kunyomi": "でる、だす",
+      "meaning": "날 출, 나오다(でる), 꺼내다(だす)",
       "related_kanji": [
         "出る",
         "出す",
@@ -172,7 +172,7 @@
       "surface": "日",
       "onyomi": "ニチ、ジツ",
       "kunyomi": "ひ、-び、-か",
-      "meaning": "낮, 태양, 일본, 일 수 세는 기계",
+      "meaning": "날 일, 해, 날, 일본",
       "related_kanji": [
         "今日",
         "明日",
@@ -201,8 +201,8 @@
     {
       "surface": "行",
       "onyomi": "コウ、ギョウ、アン",
-      "kunyomi": "い.く、ゆ.く、-ゆ.き、-ゆき、-い.き、-いき、おこな.う、おこ.なう",
-      "meaning": "가는, 여정, 수행하다, 행동, 행동하다, 선, 행, 은행",
+      "kunyomi": "いく、ゆく、おこなう",
+      "meaning": "다닐 행, 가다, 행하다",
       "related_kanji": [
         "行く",
         "飛行機",
@@ -228,8 +228,8 @@
     {
       "surface": "前",
       "onyomi": "ゼン",
-      "kunyomi": "まえ、-まえ",
-      "meaning": "앞에, 전에",
+      "kunyomi": "まえ",
+      "meaning": "앞 전, 앞에",
       "related_kanji": [
         "名前",
         "前",
@@ -253,7 +253,7 @@
       "surface": "時",
       "onyomi": "ジ",
       "kunyomi": "とき、-どき",
-      "meaning": "시간",
+      "meaning": "때 시, 시간",
       "related_kanji": [
         "時間",
         "時々",
@@ -279,8 +279,8 @@
     {
       "surface": "生",
       "onyomi": "セイ、ショウ",
-      "kunyomi": "い.きる、い.かす、い.ける、う.まれる、うま.れる、う.まれ、うまれ、う.む、お.う、は.える、は.やす、き、なま、なま-、な.る、な.す、む.す、-う",
-      "meaning": "삶, 진짜의, 출생",
+      "kunyomi": "いきる、うまれる、はえる",
+      "meaning": "날 생, 삶, 살다, 태어나다, (풀 등이)나다",
       "related_kanji": [
         "先生",
         "生徒",
@@ -307,7 +307,7 @@
       "surface": "本",
       "onyomi": "ホン",
       "kunyomi": "もと",
-      "meaning": "책, 현재, 주요한, 기원, 진실, 진짜, 자루",
+      "meaning": "근본 본, 책, 근본(もと)",
       "related_kanji": [
         "本当",
         "本",
@@ -330,8 +330,8 @@
     {
       "surface": "中",
       "onyomi": "チュウ",
-      "kunyomi": "なか、うち、あた.る",
-      "meaning": "안에, 중간, 의미, 센터",
+      "kunyomi": "なか",
+      "meaning": "가운데 중, 안에, 중간",
       "related_kanji": [
         "中"
       ],
@@ -349,7 +349,7 @@
       "surface": "今",
       "onyomi": "コン、キン",
       "kunyomi": "いま",
-      "meaning": "지금",
+      "meaning": "이제 금, 지금",
       "related_kanji": [
         "今",
         "今日",
@@ -376,7 +376,7 @@
       "surface": "間",
       "onyomi": "カン、ケン",
       "kunyomi": "あいだ、ま、あい",
-      "meaning": "간격, 우주",
+      "meaning": "사이 간, 사이, 틈",
       "related_kanji": [
         "時間"
       ],
@@ -394,7 +394,7 @@
       "surface": "年",
       "onyomi": "ネン",
       "kunyomi": "とし",
-      "meaning": "년",
+      "meaning": "해 년, 년",
       "related_kanji": [
         "年",
         "今年",
@@ -423,8 +423,8 @@
     {
       "surface": "子",
       "onyomi": "シ、ス、ツ",
-      "kunyomi": "こ、-こ、ね",
-      "meaning": "아이, 쥐띠, 오후 11시-오전 1시, 쥐",
+      "kunyomi": "こ、-こ",
+      "meaning": "아들 자, 아이",
       "related_kanji": [
         "子供",
         "女の子",
@@ -450,8 +450,8 @@
     {
       "surface": "長",
       "onyomi": "チョウ",
-      "kunyomi": "なが.い、おさ",
-      "meaning": "긴, 지도자, 우월한, 고위",
+      "kunyomi": "ながい、おさ",
+      "meaning": "길 장, 길다, 지도자(おさ)",
       "related_kanji": [
         "長い"
       ],
@@ -468,8 +468,8 @@
     {
       "surface": "上",
       "onyomi": "ジョウ、ショウ、シャン",
-      "kunyomi": "うえ、-うえ、うわ-、かみ、あ.げる、-あ.げる、あ.がる、-あ.がる、あ.がり、-あ.がり、のぼ.る、のぼ.り、のぼ.せる、のぼ.す、たてまつ.る",
-      "meaning": "위에, 위로",
+      "kunyomi": "うえ、あげる、のぼる",
+      "meaning": "위 상, 위, 위로",
       "related_kanji": [
         "上げる",
         "上手",
@@ -498,8 +498,8 @@
     {
       "surface": "入",
       "onyomi": "ニュウ、ジュ",
-      "kunyomi": "い.る、-い.る、-い.り、い.れる、-い.れ、はい.る",
-      "meaning": "입력, 삽입하다",
+      "kunyomi": "はいる, いれる",
+      "meaning": "들 입, 들어가다(はいる), 삽입하다(いれる)",
       "related_kanji": [
         "入る",
         "入れる"
@@ -519,8 +519,9 @@
     {
       "surface": "後",
       "onyomi": "ゴ、コウ",
-      "kunyomi": "のち、うし.ろ、うしろ、あと、おく.れる",
-      "meaning": "뒤에, 뒤, 나중에",
+      "kunyomi": "あと、うしろ",
+      "kunyomi_added": "のち、おくれる",
+      "meaning": "뒤 후, 뒤, 나중에",
       "related_kanji": [
         "後",
         "後ろ",
@@ -538,13 +539,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[추가] kunyomi에 'のち(나중에, 시간적 의미)'와 'おくれる(늦다)' 누락되어 있었음"
     },
     {
       "surface": "気",
       "onyomi": "キ、ケ",
       "kunyomi": "き",
-      "meaning": "정신, 마음, 공기, 대기, 기분",
+      "meaning": "기운 기, 정신, 기운, 공기",
       "related_kanji": [
         "元気",
         "病気",
@@ -570,8 +572,8 @@
     {
       "surface": "来",
       "onyomi": "ライ、タイ",
-      "kunyomi": "く.る、きた.る、きた.す、き.たす、き.たる、き、こ",
-      "meaning": "오다, 기한, 다음, 원인, 되다",
+      "kunyomi": "くる、きたる",
+      "meaning": "올 래, 오다, 다음",
       "related_kanji": [
         "来る",
         "出来る",
@@ -597,8 +599,8 @@
     {
       "surface": "話",
       "onyomi": "ワ",
-      "kunyomi": "はな.す、はなし",
-      "meaning": "이야기, 말하다",
+      "kunyomi": "はなす、はなし",
+      "meaning": "말씀 화, 말하다(はなす), 이야기(はなし)",
       "related_kanji": [
         "話",
         "話す",
@@ -616,13 +618,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[수정] 한자 이름이 '말씀 언'으로 되어있으나 話는 '말씀 화'가 정확함. 言이 '말씀 언'임"
     },
     {
       "surface": "女",
       "onyomi": "ジョ、ニョ、ニョウ",
       "kunyomi": "おんな、め",
-      "meaning": "여자, 여성",
+      "meaning": "계집 녀, 여자, 여성",
       "related_kanji": [
         "女",
         "女の子"
@@ -643,7 +646,7 @@
       "surface": "国",
       "onyomi": "コク",
       "kunyomi": "くに",
-      "meaning": "나라",
+      "meaning": "나라 국, 나라",
       "related_kanji": [
         "国",
         "外国",
@@ -666,8 +669,8 @@
     {
       "surface": "金",
       "onyomi": "キン、コン、ゴン",
-      "kunyomi": "かね、かな-、-がね",
-      "meaning": "금",
+      "kunyomi": "かね",
+      "meaning": "쇠 금, 금",
       "related_kanji": [
         "お金",
         "金曜日"
@@ -687,8 +690,8 @@
     {
       "surface": "高",
       "onyomi": "コウ",
-      "kunyomi": "たか.い、たか、-だか、たか.まる、たか.める",
-      "meaning": "키가 큰, 높은, 비싼",
+      "kunyomi": "たかい",
+      "meaning": "높을 고, 높은, 비싼",
       "related_kanji": [
         "高い"
       ],
@@ -705,8 +708,9 @@
     {
       "surface": "下",
       "onyomi": "カ、ゲ",
-      "kunyomi": "した、しも、もと、さ.げる、さ.がる、くだ.る、くだ.り、くだ.す、-くだ.す、くだ.さる、お.ろす、お.りる",
-      "meaning": "아래, 내려, 내려가다, 주다, 낮은, 열등한",
+      "kunyomi": "した、くだる、くださる",
+      "kunyomi_added": "しも、もと、さげる、さがる、おろす、おりる",
+      "meaning": "아래 하, 아래, 내려가다, 주시다",
       "related_kanji": [
         "下",
         "下手",
@@ -727,13 +731,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[추가] kunyomi에 'しも, もと, さげる(내리다), さがる(내려가다), おろす(내리다), おりる(내리다)' 누락"
     },
     {
       "surface": "学",
       "onyomi": "ガク",
-      "kunyomi": "まな.ぶ",
-      "meaning": "공부하다, 학습, 과학",
+      "kunyomi": "まなぶ",
+      "meaning": "배울 학, 공부하다, 학습",
       "related_kanji": [
         "学校",
         "大学",
@@ -759,8 +764,8 @@
     {
       "surface": "先",
       "onyomi": "セン",
-      "kunyomi": "さき、ま.ず",
-      "meaning": "전에, 앞에, 이전, 미래, 선행",
+      "kunyomi": "さき、まず",
+      "meaning": "먼저 선, 앞(さき), 먼저(まず)",
       "related_kanji": [
         "先生",
         "先",
@@ -786,8 +791,8 @@
     {
       "surface": "外",
       "onyomi": "ガイ、ゲ",
-      "kunyomi": "そと、ほか、はず.す、はず.れる、と-",
-      "meaning": "밖에",
+      "kunyomi": "そと、ほか、はずす",
+      "meaning": "바깥 외, 밖, 그 외, 벗어나게 하다",
       "related_kanji": [
         "外",
         "外国",
@@ -810,8 +815,8 @@
     {
       "surface": "何",
       "onyomi": "カ",
-      "kunyomi": "なに、なん、なに-、なん-",
-      "meaning": "무엇",
+      "kunyomi": "なに、なん",
+      "meaning": "어찌 하, 무엇",
       "related_kanji": [
         "何",
         "何時",
@@ -838,7 +843,7 @@
       "surface": "男",
       "onyomi": "ダン、ナン",
       "kunyomi": "おとこ、お",
-      "meaning": "남성",
+      "meaning": "사내 남, 남성",
       "related_kanji": [
         "男",
         "男の子"
@@ -858,8 +863,8 @@
     {
       "surface": "名",
       "onyomi": "メイ、ミョウ",
-      "kunyomi": "な、-な",
-      "meaning": "이름, 알겠습니다, 저명한, 평판",
+      "kunyomi": "な",
+      "meaning": "이름 명, 이름",
       "related_kanji": [
         "名前",
         "有名"
@@ -880,7 +885,7 @@
       "surface": "月",
       "onyomi": "ゲツ、ガツ",
       "kunyomi": "つき",
-      "meaning": "월, 달",
+      "meaning": "달 월, 달, 월",
       "related_kanji": [
         "来月",
         "今月",
@@ -909,8 +914,9 @@
     {
       "surface": "小",
       "onyomi": "ショウ",
-      "kunyomi": "ちい.さい、こ-、お-、さ-",
-      "meaning": "작은",
+      "kunyomi": "ちいさい",
+      "kunyomi_added": "こ、お",
+      "meaning": "작을 소, 작다",
       "related_kanji": [
         "小さい",
         "小さな"
@@ -925,13 +931,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[추가] kunyomi에 'こ(小犬こいぬ, 小麦こむぎ 등)', 'お(小川おがわ 등)' 누락"
     },
     {
       "surface": "聞",
       "onyomi": "ブン、モン",
-      "kunyomi": "き.く、き.こえる",
-      "meaning": "듣다, 묻다",
+      "kunyomi": "きく、きこえる",
+      "meaning": "들을 문, 듣다(きく), 들리다(きこえる)",
       "related_kanji": [
         "聞く",
         "新聞"
@@ -951,8 +958,8 @@
     {
       "surface": "食",
       "onyomi": "ショク、ジキ",
-      "kunyomi": "く.う、く.らう、た.べる、は.む",
-      "meaning": "먹다, 음식",
+      "kunyomi": "たべる、くう、くらう",
+      "meaning": "먹을 식, 먹다, 음식",
       "related_kanji": [
         "食べる",
         "食べ物",
@@ -975,8 +982,8 @@
     {
       "surface": "書",
       "onyomi": "ショ",
-      "kunyomi": "か.く、-が.き、-がき",
-      "meaning": "쓰다",
+      "kunyomi": "かく",
+      "meaning": "글 서, 쓰다",
       "related_kanji": [
         "書く",
         "辞書",
@@ -1000,7 +1007,7 @@
       "surface": "山",
       "onyomi": "サン、セン",
       "kunyomi": "やま",
-      "meaning": "산",
+      "meaning": "뫼 산, 산",
       "related_kanji": [
         "山",
         "沢山"
@@ -1021,7 +1028,7 @@
       "surface": "電",
       "onyomi": "デン",
       "kunyomi": "いなずま",
-      "meaning": "전기",
+      "meaning": "번개 전, 전기",
       "related_kanji": [
         "電話",
         "電気",
@@ -1044,8 +1051,8 @@
     {
       "surface": "二",
       "onyomi": "ニ、ジ",
-      "kunyomi": "ふた、ふた.つ、ふたたび",
-      "meaning": "둘, 二部首 (번호 7)",
+      "kunyomi": "ふた、ふたつ",
+      "meaning": "두 이, 둘",
       "related_kanji": [
         "二",
         "二人",
@@ -1069,7 +1076,7 @@
       "surface": "車",
       "onyomi": "シャ",
       "kunyomi": "くるま",
-      "meaning": "자동차",
+      "meaning": "수레 차, 자동차",
       "related_kanji": [
         "車",
         "自転車",
@@ -1095,8 +1102,8 @@
     {
       "surface": "水",
       "onyomi": "スイ",
-      "kunyomi": "みず、みず-",
-      "meaning": "물",
+      "kunyomi": "みず",
+      "meaning": "물 수, 물",
       "related_kanji": [
         "水"
       ],
@@ -1114,7 +1121,7 @@
       "surface": "木",
       "onyomi": "ボク、モク",
       "kunyomi": "き、こ-",
-      "meaning": "나무, 나무",
+      "meaning": "나무 목, 나무",
       "related_kanji": [
         "木"
       ],
@@ -1132,7 +1139,7 @@
       "surface": "母",
       "onyomi": "ボ",
       "kunyomi": "はは、も",
-      "meaning": "어머니",
+      "meaning": "어미 모, 어머니",
       "related_kanji": [
         "お母さん"
       ],
@@ -1150,7 +1157,7 @@
       "surface": "校",
       "onyomi": "コウ、キョウ",
       "kunyomi": "",
-      "meaning": "시험, 학교, 인쇄, 증거, 수정",
+      "meaning": "학교 교, 학교",
       "related_kanji": [
         "学校"
       ],
@@ -1168,7 +1175,7 @@
       "surface": "父",
       "onyomi": "フ",
       "kunyomi": "ちち",
-      "meaning": "아버지",
+      "meaning": "아비 부, 아버지",
       "related_kanji": [
         "お父さん"
       ],
@@ -1186,7 +1193,7 @@
       "surface": "白",
       "onyomi": "ハク、ビャク",
       "kunyomi": "しろ、しら-、しろ.い",
-      "meaning": "하얀",
+      "meaning": "흰 백, 하얀",
       "related_kanji": [
         "面白い",
         "白",
@@ -1209,8 +1216,8 @@
     {
       "surface": "語",
       "onyomi": "ゴ",
-      "kunyomi": "かた.る、かた.らう",
-      "meaning": "단어, 연설, 언어",
+      "kunyomi": "かたる、ことば",
+      "meaning": "말씀 어, 이야기하다",
       "related_kanji": [
         "英語"
       ],
@@ -1222,13 +1229,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[수정] kunyomi의 'ことば'는 語의 훈독이 아님. ことば는 言葉(언+엽)의 읽기. 語의 정확한 훈독은 'かたる, かたらう'"
     },
     {
       "surface": "十",
       "onyomi": "ジュウ、ジッ、ジュッ",
       "kunyomi": "とお、と、そ",
-      "meaning": "열",
+      "meaning": "열 십, 열",
       "related_kanji": [
         "十"
       ],
@@ -1246,7 +1254,7 @@
       "surface": "万",
       "onyomi": "マン、バン",
       "kunyomi": "よろず",
-      "meaning": "만, 10,000",
+      "meaning": "일만 만, 만, 모든(よろず)",
       "related_kanji": [
         "万",
         "万年筆"
@@ -1268,6 +1276,7 @@
       "onyomi": "ユウ",
       "kunyomi": "とも",
       "meaning": "친구",
+      "meaning_added": "벗 우, 친구",
       "related_kanji": [
         "友達"
       ],
@@ -1279,13 +1288,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[추가] meaning에 한자 이름 '벗 우' 누락. 정확한 형식은 '벗 우, 친구'"
     },
     {
       "surface": "川",
       "onyomi": "セン",
       "kunyomi": "かわ",
-      "meaning": "스트림, 강",
+      "meaning": "내 천, 강",
       "related_kanji": [
         "川"
       ],
@@ -1302,8 +1312,8 @@
     {
       "surface": "三",
       "onyomi": "サン、ゾウ",
-      "kunyomi": "み、み.つ、みっ.つ",
-      "meaning": "셋",
+      "kunyomi": "み、みつ、みっつ",
+      "meaning": "석 삼,셋",
       "related_kanji": [
         "三",
         "三つ"
@@ -1323,8 +1333,8 @@
     {
       "surface": "天",
       "onyomi": "テン",
-      "kunyomi": "あまつ",
-      "meaning": "천국, 하늘, 제국의",
+      "kunyomi": "あめ、あま",
+      "meaning": "하늘 천, 천국, 하늘, 제국의",
       "related_kanji": [
         "天気"
       ],
@@ -1336,13 +1346,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[추가] kunyomi에 'あめ(天地あめつち)', 'あま(天の川あまのがわ)' 누락"
     },
     {
       "surface": "東",
       "onyomi": "トウ",
       "kunyomi": "ひがし",
-      "meaning": "동쪽",
+      "meaning": "동녘 동, 동쪽",
       "related_kanji": [
         "東"
       ],
@@ -1360,7 +1371,7 @@
       "surface": "半",
       "onyomi": "ハン",
       "kunyomi": "なかば",
-      "meaning": "절반, 중간, 홀수, 세미, 부분",
+      "meaning": "반 반,절반, 중간",
       "related_kanji": [
         "半分"
       ],
@@ -1378,7 +1389,7 @@
       "surface": "北",
       "onyomi": "ホク",
       "kunyomi": "きた",
-      "meaning": "북",
+      "meaning": "북녘 북, 북",
       "related_kanji": [
         "北"
       ],
@@ -1395,8 +1406,8 @@
     {
       "surface": "火",
       "onyomi": "カ",
-      "kunyomi": "ひ、-び、ほ-",
-      "meaning": "불",
+      "kunyomi": "ひ、",
+      "meaning": "불 화, 불",
       "related_kanji": [
         "火曜日"
       ],
@@ -1414,7 +1425,7 @@
       "surface": "土",
       "onyomi": "ド、ト",
       "kunyomi": "つち",
-      "meaning": "토양, 지구, 땅, 터키",
+      "meaning": "흙 토, 땅, 흙",
       "related_kanji": [
         "土曜日"
       ],
@@ -1432,7 +1443,7 @@
       "surface": "南",
       "onyomi": "ナン、ナ",
       "kunyomi": "みなみ",
-      "meaning": "남쪽",
+      "meaning": "남녘 남, 남쪽",
       "related_kanji": [
         "南"
       ],
@@ -1450,7 +1461,7 @@
       "surface": "千",
       "onyomi": "セン",
       "kunyomi": "ち",
-      "meaning": "천",
+      "meaning": "일천 천, 천",
       "related_kanji": [
         "千"
       ],
@@ -1468,7 +1479,7 @@
       "surface": "西",
       "onyomi": "セイ、サイ、ス",
       "kunyomi": "にし",
-      "meaning": "서쪽, 스페인",
+      "meaning": "서녘 서, 서쪽",
       "related_kanji": [
         "西"
       ],
@@ -1485,8 +1496,8 @@
     {
       "surface": "毎",
       "onyomi": "マイ",
-      "kunyomi": "ごと、-ごと.に",
-      "meaning": "모든",
+      "kunyomi": "-",
+      "meaning": "매양 매, 모든",
       "related_kanji": [
         "毎日",
         "毎年",
@@ -1515,8 +1526,8 @@
     {
       "surface": "休",
       "onyomi": "キュウ",
-      "kunyomi": "やす.む、やす.まる、やす.める",
-      "meaning": "휴식, 휴일, 은퇴하다, 잠",
+      "kunyomi": "やすむ",
+      "meaning": "쉴 휴, 휴식",
       "related_kanji": [
         "休む",
         "休み",
@@ -1539,8 +1550,8 @@
     {
       "surface": "八",
       "onyomi": "ハチ、ハツ",
-      "kunyomi": "や、や.つ、やっ.つ、よう",
-      "meaning": "여덟, 八部首 (제12번)",
+      "kunyomi": "や、やつ、やっつ、よう",
+      "meaning": "여덟 팔, 여덟",
       "related_kanji": [
         "八",
         "八百屋"
@@ -1560,8 +1571,9 @@
     {
       "surface": "読",
       "onyomi": "ドク、トク、トウ",
-      "kunyomi": "よ.む、-よ.み",
+      "kunyomi": "よむ、-よみ",
       "meaning": "읽다",
+      "meaning_added": "읽을 독, 읽다",
       "related_kanji": [
         "読む"
       ],
@@ -1573,13 +1585,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[추가] meaning에 한자 이름 '읽을 독' 누락. 정확한 형식은 '읽을 독, 읽다'"
     },
     {
       "surface": "五",
       "onyomi": "ゴ",
-      "kunyomi": "いつ、いつ.つ",
-      "meaning": "다섯",
+      "kunyomi": "いつ、いつつ",
+      "meaning": "다섯 오, 다섯",
       "related_kanji": [
         "五",
         "五つ"
@@ -1599,8 +1612,8 @@
     {
       "surface": "四",
       "onyomi": "シ",
-      "kunyomi": "よ、よ.つ、よっ.つ、よん",
-      "meaning": "넷",
+      "kunyomi": "よ、よつ、よっつ、よん",
+      "meaning": "넉 사, 넷",
       "related_kanji": [
         "四",
         "四つ"
@@ -1621,7 +1634,7 @@
       "surface": "百",
       "onyomi": "ヒャク、ビャク",
       "kunyomi": "もも",
-      "meaning": "백",
+      "meaning": "일백 백, 백",
       "related_kanji": [
         "百"
       ],
@@ -1638,8 +1651,8 @@
     {
       "surface": "円",
       "onyomi": "エン",
-      "kunyomi": "まる.い、まる、まど、まど.か、まろ.やか",
-      "meaning": "원, 엔, 둥근",
+      "kunyomi": "まるい",
+      "meaning": "둥글 원, 엔, 둥근",
       "related_kanji": [
         "円",
         "円形",
@@ -1660,13 +1673,14 @@
       ],
       "pos": "한자",
       "level": "N5",
-      "kind": "kanji"
+      "kind": "kanji",
+      "notes": "[참고] kunyomi 'まるい'는 형용사형. 기본 훈독은 'まる'. 円い는 2D 원형, 丸い는 3D 구형을 의미"
     },
     {
       "surface": "午",
       "onyomi": "ゴ",
-      "kunyomi": "うま",
-      "meaning": "정오, 말자리, 오전 11시-오후 1시, 말 (马)",
+      "kunyomi": "-",
+      "meaning": "낮 오, 정오",
       "related_kanji": [
         "午後",
         "午前"
@@ -1686,8 +1700,8 @@
     {
       "surface": "七",
       "onyomi": "シチ",
-      "kunyomi": "なな、なな.つ、なの",
-      "meaning": "일곱",
+      "kunyomi": "なな、ななつ、なの",
+      "meaning": "일곱 칠, 일곱",
       "related_kanji": [
         "七",
         "七つ"
@@ -1708,7 +1722,7 @@
       "surface": "左",
       "onyomi": "サ、シャ",
       "kunyomi": "ひだり",
-      "meaning": "왼쪽",
+      "meaning": "왼 좌, 왼쪽",
       "related_kanji": [
         "左"
       ],
@@ -1726,7 +1740,7 @@
       "surface": "右",
       "onyomi": "ウ、ユウ",
       "kunyomi": "みぎ",
-      "meaning": "오른쪽",
+      "meaning": "오른 우, 오른쪽",
       "related_kanji": [
         "右"
       ],
@@ -1743,8 +1757,8 @@
     {
       "surface": "雨",
       "onyomi": "ウ",
-      "kunyomi": "あめ、あま-、-さめ",
-      "meaning": "비",
+      "kunyomi": "あめ",
+      "meaning": "비 우, 비",
       "related_kanji": [
         "雨"
       ],
@@ -1761,8 +1775,8 @@
     {
       "surface": "六",
       "onyomi": "ロク、リク",
-      "kunyomi": "む、む.つ、むっ.つ、むい",
-      "meaning": "여섯",
+      "kunyomi": "む、むつ、むっつ、むい",
+      "meaning": "여섯 육, 여섯",
       "related_kanji": [
         "六"
       ],
@@ -1779,8 +1793,8 @@
     {
       "surface": "九",
       "onyomi": "キュウ、ク",
-      "kunyomi": "ここの、ここの.つ",
-      "meaning": "아홉",
+      "kunyomi": "ここの、ここのつ",
+      "meaning": "아홉 구, 아홉",
       "related_kanji": [
         "九つ"
       ],
@@ -1795,12 +1809,16 @@
       "kind": "kanji"
     }
   ],
+
+
+
+
   "n4_kanji": [
     {
       "surface": "事",
       "onyomi": "ジ、ズ",
-      "kunyomi": "こと、つか.う、つか.える",
-      "meaning": "일, 사건, 사실",
+      "kunyomi": "こと",
+      "meaning": "일 사, 일, 사건, 사실",
       "related_kanji": [
         "大事",
         "事故",
@@ -1826,8 +1844,8 @@
     {
       "surface": "会",
       "onyomi": "カイ、エ",
-      "kunyomi": "あ.う、あ.わせる、あつ.まる",
-      "meaning": "회의, 만나다, 파티, 협회, 인터뷰, 가입하다",
+      "kunyomi": "あう",
+      "meaning": "모일 회, 만나다, 모이다",
       "related_kanji": [
         "機会",
         "教会",
@@ -1853,8 +1871,8 @@
     {
       "surface": "自",
       "onyomi": "ジ、シ",
-      "kunyomi": "みずか.ら、おの.ずから、おの.ずと",
-      "meaning": "자신",
+      "kunyomi": "みずから、おのずから",
+      "meaning": "스스로 자, 자신",
       "related_kanji": [
         "自由"
       ],
@@ -1871,8 +1889,8 @@
     {
       "surface": "手",
       "onyomi": "シュ、ズ",
-      "kunyomi": "て、て-、-て、た-",
-      "meaning": "손",
+      "kunyomi": "て",
+      "meaning": "손 수, 손",
       "related_kanji": [
         "手伝う",
         "運転手",
@@ -1895,8 +1913,8 @@
     {
       "surface": "言",
       "onyomi": "ゲン、ゴン",
-      "kunyomi": "い.う、こと",
-      "meaning": "말하다, 단어",
+      "kunyomi": "いう、こと",
+      "meaning": "말씀 언, 말하다(いう), 언어, 말",
       "related_kanji": [
         "言葉",
         "言語",
@@ -1923,7 +1941,7 @@
       "surface": "者",
       "onyomi": "シャ",
       "kunyomi": "もの",
-      "meaning": "누군가, 사람",
+      "meaning": "사람 자, 사람",
       "related_kanji": [
         "歯医者"
       ],
@@ -1940,8 +1958,8 @@
     {
       "surface": "同",
       "onyomi": "ドウ",
-      "kunyomi": "おな.じ",
-      "meaning": "같은, 동의하다, 동등한",
+      "kunyomi": "おなじ",
+      "meaning": "같을 동, 같다, 동의하다",
       "related_kanji": [
         "同じ",
         "同時",
@@ -1967,8 +1985,8 @@
     {
       "surface": "方",
       "onyomi": "ホウ",
-      "kunyomi": "かた、-かた、-がた",
-      "meaning": "방향, 사람, 대안",
+      "kunyomi": "かた、ほう",
+      "meaning": "모 방, 방향, 방법",
       "related_kanji": [
         "仕方",
         "両方"
@@ -1988,8 +2006,8 @@
     {
       "surface": "目",
       "onyomi": "モク、ボク",
-      "kunyomi": "め、-め、ま-",
-      "meaning": "눈, 수업, 보다, 통찰력, 경험, 돌봄, 호의",
+      "kunyomi": "め",
+      "meaning": "눈 목, 눈, 견해, 관점",
       "related_kanji": [
         "目",
         "目的",
@@ -2016,7 +2034,7 @@
       "surface": "理",
       "onyomi": "リ",
       "kunyomi": "ことわり",
-      "meaning": "논리, 배열, 이유, 정의, 진리",
+      "meaning": "다스릴 리, 논리",
       "related_kanji": [
         "無理",
         "理由",
@@ -2040,7 +2058,7 @@
       "surface": "力",
       "onyomi": "リョク、リキ、リイ",
       "kunyomi": "ちから",
-      "meaning": "힘, 강한, 긴장, 견디다, 발휘하다",
+      "meaning": "힘 력, 힘",
       "related_kanji": [
         "力"
       ],
@@ -2058,7 +2076,7 @@
       "surface": "場",
       "onyomi": "ジョウ、チョウ",
       "kunyomi": "ば",
-      "meaning": "위치, 장소",
+      "meaning": "마당 장, 위치, 장소",
       "related_kanji": [
         "場所",
         "場合",
@@ -2087,8 +2105,8 @@
     {
       "surface": "思",
       "onyomi": "シ",
-      "kunyomi": "おも.う、おもえら.く、おぼ.す",
-      "meaning": "생각하다",
+      "kunyomi": "おもう",
+      "meaning": "생각 사, 생각하다",
       "related_kanji": [
         "思う",
         "思い出す"
@@ -2108,8 +2126,8 @@
     {
       "surface": "動",
       "onyomi": "ドウ",
-      "kunyomi": "うご.く、うご.かす",
-      "meaning": "움직이다, 운동, 변화, 혼란, 이동, 흔들다",
+      "kunyomi": "うごく、うごかす",
+      "meaning": "움직일 동, 움직이다",
       "related_kanji": [
         "動く",
         "動物園"
@@ -2129,8 +2147,8 @@
     {
       "surface": "家",
       "onyomi": "カ、ケ",
-      "kunyomi": "いえ、や、うち",
-      "meaning": "집, 가족, 전문가, 연주자",
+      "kunyomi": "いえ、や",
+      "meaning": "집 가, 집",
       "related_kanji": [
         "家内"
       ],
@@ -2146,7 +2164,7 @@
       "surface": "地",
       "onyomi": "チ、ジ",
       "kunyomi": "",
-      "meaning": "땅, 지구",
+      "meaning": "땅 지, 땅",
       "related_kanji": [
         "地理",
         "地震"
@@ -2166,8 +2184,8 @@
     {
       "surface": "体",
       "onyomi": "タイ、テイ",
-      "kunyomi": "からだ、かたち",
-      "meaning": "몸, 물질, 객체, 현실, 이미지 카운터",
+      "kunyomi": "からだ",
+      "meaning": "몸 체, 몸",
       "related_kanji": [
         "大体"
       ],
@@ -2182,8 +2200,8 @@
     {
       "surface": "作",
       "onyomi": "サク、サ",
-      "kunyomi": "つく.る、つく.り、-づく.り",
-      "meaning": "만들다, 생산, 준비하다, 짓다",
+      "kunyomi": "つくる",
+      "meaning": "지을 작, 만들다",
       "related_kanji": [
         "作る",
         "作品",
@@ -2209,8 +2227,8 @@
     {
       "surface": "持",
       "onyomi": "ジ",
-      "kunyomi": "も.つ、-も.ち、も.てる",
-      "meaning": "잡다, 가지다",
+      "kunyomi": "もつ",
+      "meaning": "가질 지, 잡다, 가지다",
       "related_kanji": [
         "気持ち"
       ],
@@ -2227,8 +2245,8 @@
     {
       "surface": "明",
       "onyomi": "メイ、ミョウ、ミン",
-      "kunyomi": "あ.かり、あか.るい、あか.るむ、あか.らむ、あき.らか、あ.ける、-あ.け、あ.く、あ.くる、あ.かす",
-      "meaning": "밝은, 빛",
+      "kunyomi": "あかるい、あきらか",
+      "meaning": "밝을 명, 밝다, 빛",
       "related_kanji": [
         "説明"
       ],
@@ -2245,8 +2263,8 @@
     {
       "surface": "私",
       "onyomi": "シ",
-      "kunyomi": "わたくし、わたし",
-      "meaning": "사적인, 나",
+      "kunyomi": "わたし, わたくし",
+      "meaning": "사사로울 사, 나",
       "related_kanji": [
         "私",
         "私立",
@@ -2272,8 +2290,8 @@
     {
       "surface": "発",
       "onyomi": "ハツ、ホツ",
-      "kunyomi": "た.つ、あば.く、おこ.る、つか.わす、はな.つ",
-      "meaning": "출발, 방출, 출판하다, 방출하다, 시작하다, 공개하다, 총성 카운터",
+      "kunyomi": "-",
+      "meaning": "필 발, 쏘다, 발생하다, 일어나다, 출발",
       "related_kanji": [
         "発音"
       ],
@@ -2288,8 +2306,8 @@
     {
       "surface": "心",
       "onyomi": "シン",
-      "kunyomi": "こころ、-ごころ",
-      "meaning": "심장, 마음, 정신, 심방부수 (61번)",
+      "kunyomi": "こころ",
+      "meaning": "마음 심, 마음, 정신",
       "related_kanji": [
         "安心",
         "心"
@@ -2310,7 +2328,7 @@
       "surface": "意",
       "onyomi": "イ",
       "kunyomi": "",
-      "meaning": "아이디어, 마음, 심장, 맛, 생각, 욕망, 돌봄, 좋아함",
+      "meaning": "뜻 의, 마음, 생각, 의도",
       "related_kanji": [
         "用意",
         "意見",
@@ -2333,8 +2351,8 @@
     {
       "surface": "度",
       "onyomi": "ド、ト、タク",
-      "kunyomi": "たび、-た.い",
-      "meaning": "정도, 횟수, 제도, 발생 횟수 카운터, 고려하다, 태도",
+      "kunyomi": "たび",
+      "meaning": "법도 도, 정도, 횟수",
       "related_kanji": [
         "今度",
         "一度"
@@ -2354,8 +2372,8 @@
     {
       "surface": "知",
       "onyomi": "チ",
-      "kunyomi": "し.る、し.らせる",
-      "meaning": "알다, 지혜",
+      "kunyomi": "しる、しらせる",
+      "meaning": "알 지, 알다",
       "related_kanji": [
         "知らせる",
         "ご存知"
@@ -2375,8 +2393,8 @@
     {
       "surface": "立",
       "onyomi": "リツ、リュウ、リットル",
-      "kunyomi": "た.つ、-た.つ、た.ち-、た.てる、-た.てる、た.て-、たて-、-た.て、-だ.て、-だ.てる",
-      "meaning": "일어서다, 일어나다, 설정하다, 세우다",
+      "kunyomi": "たつ、たてる",
+      "meaning": "설 립, 일어서다, 세우다",
       "related_kanji": [
         "役に立つ",
         "立てる"
@@ -2396,8 +2414,8 @@
     {
       "surface": "通",
       "onyomi": "ツウ、ツ",
-      "kunyomi": "とお.る、とお.り、-とお.り、-どお.り、とお.す、とお.し、-どお.し、かよ.う",
-      "meaning": "통하다, 지나가다, 대로, 출퇴근하다, 통",
+      "kunyomi": "とおる、とおす",
+      "meaning": "통할 통, 통하다, 지나가다",
       "related_kanji": [
         "普通",
         "通る",
@@ -2424,7 +2442,7 @@
       "surface": "不",
       "onyomi": "フ、ブ",
       "kunyomi": "",
-      "meaning": "부정적인, 비非, 나쁜, 못생긴, 서투른",
+      "meaning": "아니 부, 부정적인",
       "related_kanji": [
         "不便"
       ],
@@ -2442,7 +2460,7 @@
       "surface": "員",
       "onyomi": "イン",
       "kunyomi": "",
-      "meaning": "직원, 회원, 숫자, 책임자",
+      "meaning": "인원 원, 직원, 회원",
       "related_kanji": [
         "店員",
         "公務員"
@@ -2462,8 +2480,8 @@
     {
       "surface": "物",
       "onyomi": "ブツ、モツ",
-      "kunyomi": "もの、もの-",
-      "meaning": "것, 객체, 문제",
+      "kunyomi": "もの",
+      "meaning": "만물 물, 것, 물건",
       "related_kanji": [
         "贈り物",
         "着物",
@@ -2490,7 +2508,7 @@
       "surface": "的",
       "onyomi": "テキ",
       "kunyomi": "まと",
-      "meaning": "정곡, 표시, 목표, 객체, 형용사 어미",
+      "meaning": "과녁 적, 목표, 과녁",
       "related_kanji": [
         "目的",
         "的確",
@@ -2516,8 +2534,8 @@
     {
       "surface": "問",
       "onyomi": "モン",
-      "kunyomi": "と.う、と.い、とん",
-      "meaning": "질문, 묻다, 문제",
+      "kunyomi": "とう、とい",
+      "meaning": "물을 문, 질문, 묻다, 문제",
       "related_kanji": [
         "問題",
         "質問",
@@ -2543,8 +2561,8 @@
     {
       "surface": "用",
       "onyomi": "ヨウ",
-      "kunyomi": "もち.いる",
-      "meaning": "사용, 이용, 용도, 사용하다, 고용하다",
+      "kunyomi": "もちいる",
+      "meaning": "쓸 용, 사용하다, 이용하다",
       "related_kanji": [
         "用意",
         "利用",
@@ -2570,8 +2588,8 @@
     {
       "surface": "新",
       "onyomi": "シン",
-      "kunyomi": "あたら.しい、あら.た、あら-、にい-",
-      "meaning": "새로운",
+      "kunyomi": "あたらしい",
+      "meaning": "새로울 신, 새로운",
       "related_kanji": [
         "新聞社"
       ],
@@ -2589,7 +2607,7 @@
       "surface": "田",
       "onyomi": "デン",
       "kunyomi": "た",
-      "meaning": "논밭, 논",
+      "meaning": "밭 전, 논",
       "related_kanji": [
         "田舎"
       ],
@@ -2606,8 +2624,8 @@
     {
       "surface": "代",
       "onyomi": "ダイ、タイ",
-      "kunyomi": "か.わる、かわ.る、かわ.り、か.わり、-がわ.り、-が.わり、か.える、よ、しろ",
-      "meaning": "대체하다, 변화, 변환하다, 교체하다, 기간, 나이, -대, 세대, 충전, 비율, 요금",
+      "kunyomi": "かわる, かえる",
+      "meaning": "대신할 대, 대신하다(かわる), 대리하다(かえる), 값, 비용",
       "related_kanji": [
         "時代",
         "代わり"
@@ -2628,7 +2646,7 @@
       "surface": "世",
       "onyomi": "セイ、セ、ソウ",
       "kunyomi": "よ",
-      "meaning": "세대, 세계, 사회, 공공의",
+      "meaning": "세상 세,세계",
       "related_kanji": [
         "世界"
       ],
@@ -2645,8 +2663,8 @@
     {
       "surface": "死",
       "onyomi": "シ",
-      "kunyomi": "し.ぬ、し.に-",
-      "meaning": "죽음, 죽다",
+      "kunyomi": "しぬ",
+      "meaning": "죽을 사, 죽다",
       "related_kanji": [
         "死ぬ",
         "死亡",
@@ -2672,8 +2690,8 @@
     {
       "surface": "開",
       "onyomi": "カイ",
-      "kunyomi": "ひら.く、ひら.き、-びら.き、ひら.ける、あ.く、あ.ける",
-      "meaning": "열다, 펼치다, 봉인 해제",
+      "kunyomi": "ひらく、あく",
+      "meaning": "열 개, 열다",
       "related_kanji": [
         "開く"
       ],
@@ -2691,7 +2709,7 @@
       "surface": "社",
       "onyomi": "シャ",
       "kunyomi": "やしろ",
-      "meaning": "회사, 기업, 사무실, 협회, 신사",
+      "meaning": "모일 사, 회사, 사회 신사(やしろ)",
       "related_kanji": [
         "社長",
         "社会",
@@ -2717,8 +2735,8 @@
     {
       "surface": "無",
       "onyomi": "ム、ブ",
-      "kunyomi": "な.い",
-      "meaning": "무(無), 없음, 아닌, 아무것도, 무효, 아니요",
+      "kunyomi": "ない",
+      "meaning": "없을 무, 없음, 아닌",
       "related_kanji": [
         "無理"
       ],
@@ -2735,8 +2753,8 @@
     {
       "surface": "強",
       "onyomi": "キョウ、ゴウ",
-      "kunyomi": "つよ.い、つよ.まる、つよ.める、し.いる、こわ.い",
-      "meaning": "강한",
+      "kunyomi": "つよい",
+      "meaning": "강할 강, 강한",
       "related_kanji": [
         "強い",
         "強化",
@@ -2762,8 +2780,8 @@
     {
       "surface": "野",
       "onyomi": "ヤ、ショ",
-      "kunyomi": "の、の-",
-      "meaning": "평원, 들판, 시골의, 민간 생활",
+      "kunyomi": "の",
+      "meaning": "들 야, 평원",
       "related_kanji": [
         "野原",
         "野菜",
@@ -2789,8 +2807,8 @@
     {
       "surface": "教",
       "onyomi": "キョウ",
-      "kunyomi": "おし.える、おそ.わる",
-      "meaning": "가르치다, 믿음, 교리",
+      "kunyomi": "おしえる、おそわる",
+      "meaning": "가르칠 교, 가르치다, 배우다",
       "related_kanji": [
         "教会",
         "教育"
@@ -2810,8 +2828,8 @@
     {
       "surface": "正",
       "onyomi": "セイ、ショウ",
-      "kunyomi": "ただ.しい、ただ.す、まさ、まさ.に",
-      "meaning": "올바른, 정의, 의로운, 10**40",
+      "kunyomi": "ただしい、まさ",
+      "meaning": "바를 정, 올바른, 정의",
       "related_kanji": [
         "正しい"
       ],
@@ -2829,7 +2847,7 @@
       "surface": "業",
       "onyomi": "ギョウ、ゴウ",
       "kunyomi": "わざ",
-      "meaning": "일, 직업, 학업, 공연",
+      "meaning": "업 업, 일, 직업, 학업",
       "related_kanji": [
         "卒業",
         "工業",
@@ -2853,7 +2871,7 @@
       "surface": "題",
       "onyomi": "ダイ",
       "kunyomi": "",
-      "meaning": "주제",
+      "meaning": "제목 제, 제목, 주제",
       "related_kanji": [
         "問題",
         "題名",
@@ -2879,8 +2897,8 @@
     {
       "surface": "使",
       "onyomi": "シ",
-      "kunyomi": "つか.う、つか.い、-つか.い、-づか.い",
-      "meaning": "사용하다, 임무에 파견하다, 주문, 메신저, 특사, 대사, 원인",
+      "kunyomi": "つかう",
+      "meaning": "부릴 사, 사용하다",
       "related_kanji": [
         "使う",
         "使用",
@@ -2906,8 +2924,8 @@
     {
       "surface": "考",
       "onyomi": "コウ",
-      "kunyomi": "かんが.える、かんが.え",
-      "meaning": "고려하다, 숙고하다",
+      "kunyomi": "かんがえる",
+      "meaning": "생각할 고, 고려하다, 숙고하다",
       "related_kanji": [
         "考える"
       ],
@@ -2925,7 +2943,7 @@
       "surface": "界",
       "onyomi": "カイ",
       "kunyomi": "",
-      "meaning": "세계, 경계",
+      "meaning": "지경 계, 세계, 경계",
       "related_kanji": [
         "世界"
       ],
@@ -2942,8 +2960,8 @@
     {
       "surface": "別",
       "onyomi": "ベツ",
-      "kunyomi": "わか.れる、わ.ける",
-      "meaning": "분리하다, 갈라지다, 포크, 또 다른, 여분의, 특히",
+      "kunyomi": "わかれる、わける",
+      "meaning": "다를 별, 헤어지다, 나누다",
       "related_kanji": [
         "特別",
         "別れる",
@@ -2966,8 +2984,8 @@
     {
       "surface": "以",
       "onyomi": "イ",
-      "kunyomi": "もっ.て",
-      "meaning": "의하여, 때문에, 관점에서, 비교하여",
+      "kunyomi": "もって",
+      "meaning": "써 이, 의하여, 때문에, 관점에서",
       "related_kanji": [
         "以上",
         "以外",
@@ -2994,7 +3012,7 @@
       "surface": "元",
       "onyomi": "ゲン、ガン",
       "kunyomi": "もと",
-      "meaning": "시작, 옛날, 기원",
+      "meaning": "으뜸 원, 근본, 원래, 기원",
       "related_kanji": [
         "元気",
         "元々",
@@ -3020,8 +3038,8 @@
     {
       "surface": "待",
       "onyomi": "タイ",
-      "kunyomi": "ま.つ、-ま.ち",
-      "meaning": "기다리다, 의존하다",
+      "kunyomi": "まつ",
+      "meaning": "기다릴 대, 기다리다, 의존하다",
       "related_kanji": [
         "待つ",
         "期待",
@@ -3047,8 +3065,8 @@
     {
       "surface": "安",
       "onyomi": "アン",
-      "kunyomi": "やす.い、やす.まる、やす、やす.らか",
-      "meaning": "쉬다, 저렴한, 낮은, 조용한, 휴식을 취한, 만족한, 평화로운",
+      "kunyomi": "やすい",
+      "meaning": "편안할 안, 쉬다, 저렴한, 낮은",
       "related_kanji": [
         "安心",
         "安全"
@@ -3068,8 +3086,8 @@
     {
       "surface": "近",
       "onyomi": "キン、コン",
-      "kunyomi": "ちか.い",
-      "meaning": "가까운, 초기, 유사한, 동등한",
+      "kunyomi": "ちかい",
+      "meaning": "가까울 근, 가까운, 초기, 유사한, 동등한",
       "related_kanji": [
         "最近",
         "近所"
@@ -3089,8 +3107,8 @@
     {
       "surface": "真",
       "onyomi": "シン",
-      "kunyomi": "ま、ま-、まこと",
-      "meaning": "진실, 현실, 불교 종파",
+      "kunyomi": "まこと, ま",
+      "meaning": "참 진, 진실",
       "related_kanji": [
         "真ん中"
       ],
@@ -3105,8 +3123,8 @@
     {
       "surface": "少",
       "onyomi": "ショウ",
-      "kunyomi": "すく.ない、すこ.し",
-      "meaning": "몇몇, 작은",
+      "kunyomi": "すくない、すこし",
+      "meaning": "적을 소, 적다(すくない), 조금(すこし)",
       "related_kanji": [
         "少ない",
         "少し",
@@ -3132,8 +3150,8 @@
     {
       "surface": "切",
       "onyomi": "セツ、サイ",
-      "kunyomi": "き.る、-き.る、き.り、-き.り、-ぎ.り、き.れる、-き.れる、き.れ、-き.れ、-ぎ.れ",
-      "meaning": "자르다, 차단, 예리하다",
+      "kunyomi": "きる",
+      "meaning": "끊을 절, 자르다, 끊다",
       "related_kanji": [
         "親切"
       ],
@@ -3151,7 +3169,7 @@
       "surface": "主",
       "onyomi": "シュ、ス、シュウ",
       "kunyomi": "ぬし、おも、あるじ",
-      "meaning": "군주, 우두머리, 마스터, 주요 사항, 교장",
+      "meaning": "주인 주, 주인, 군주, 우두머리",
       "related_kanji": [
         "ご主人"
       ],
@@ -3166,8 +3184,8 @@
     {
       "surface": "終",
       "onyomi": "シュウ",
-      "kunyomi": "お.わる、-お.わる、おわ.る、お.える、つい、つい.に",
-      "meaning": "끝, 끝내다",
+      "kunyomi": "おわる、おえる つい",
+      "meaning": "마칠 종, 끝나다(おわる), 끝내다(おえる), 마침내(つい)",
       "related_kanji": [
         "終わり"
       ],
@@ -3182,8 +3200,8 @@
     {
       "surface": "楽",
       "onyomi": "ガク、ラク、ゴウ",
-      "kunyomi": "たの.しい、たの.しむ、この.む",
-      "meaning": "음악, 위로, 용이함",
+      "kunyomi": "たのしい",
+      "meaning": "즐길 락, 음악, 즐겁다",
       "related_kanji": [
         "楽しむ",
         "楽しみ"
@@ -3204,7 +3222,7 @@
       "surface": "音",
       "onyomi": "オン、イン、-ノン",
       "kunyomi": "おと、ね",
-      "meaning": "소리, 소음",
+      "meaning": "소리 음, 소리",
       "related_kanji": [
         "音",
         "発音"
@@ -3225,7 +3243,7 @@
       "surface": "道",
       "onyomi": "ドウ、トウ",
       "kunyomi": "みち、いう",
-      "meaning": "도로, 거리, 지구, 여정, 코스, 도덕적인, 가르침",
+      "meaning": "길 도, 도로, 거리",
       "related_kanji": [
         "道具",
         "水道",
@@ -3248,8 +3266,8 @@
     {
       "surface": "親",
       "onyomi": "シン",
-      "kunyomi": "おや、おや-、した.しい、した.しむ",
-      "meaning": "부모, 친밀감, 친척, 친숙함, 딜러",
+      "kunyomi": "したしい, したしむ, おや",
+      "meaning": "친할 친, 부모(親 おや), 친하다(したしい)",
       "related_kanji": [
         "親",
         "親切"
@@ -3269,8 +3287,8 @@
     {
       "surface": "着",
       "onyomi": "チャク、ジャク",
-      "kunyomi": "き.る、き.せる、つ.く、つ.ける",
-      "meaning": "돈, 도착하다, 입다, 벌",
+      "kunyomi": "きる、つく、",
+      "meaning": "입을 착, 입다(きる), 도착하다(つく)",
       "related_kanji": [
         "下着",
         "着物"
@@ -3290,8 +3308,8 @@
     {
       "surface": "始",
       "onyomi": "シ",
-      "kunyomi": "はじ.める、-はじ.める、はじ.まる",
-      "meaning": "시작하다, 시작",
+      "kunyomi": "はじめる",
+      "meaning": "비로소 시, 시작하다, 시작",
       "related_kanji": [
         "始める"
       ],
@@ -3308,8 +3326,8 @@
     {
       "surface": "多",
       "onyomi": "タ",
-      "kunyomi": "おお.い、まさ.に、まさ.る",
-      "meaning": "많은, 빈번한",
+      "kunyomi": "おおい、まさに、まさる",
+      "meaning": "많을 다, 많은, 빈번한",
       "related_kanji": [
         "多い",
         "多分",
@@ -3335,8 +3353,8 @@
     {
       "surface": "早",
       "onyomi": "ソウ、サッ",
-      "kunyomi": "はや.い、はや、はや-、はや.まる、はや.める、さ-",
-      "meaning": "초기, 빠른",
+      "kunyomi": "はやい、はやまる",
+      "meaning": "이를 조, 초기, 빠른",
       "related_kanji": [
         "早い",
         "早朝",
@@ -3362,8 +3380,8 @@
     {
       "surface": "仕",
       "onyomi": "シ、ジ",
-      "kunyomi": "つか.える",
-      "meaning": "참석하다, 하는, 공식적인, 제공하다",
+      "kunyomi": "つかえる",
+      "meaning": "섬길 사, 일, 섬기다, 직무를 수행하다",
       "related_kanji": [
         "仕方"
       ],
@@ -3396,8 +3414,8 @@
     {
       "surface": "悪",
       "onyomi": "アク、オ",
-      "kunyomi": "わる.い、わる-、あ.し、にく.い、-にく.い、ああ、いずくに、いずくんぞ、にく.む",
-      "meaning": "나쁜, 부통령, 악동, 거짓, 악, 잘못된",
+      "kunyomi": "わるい",
+      "meaning": "악할 악, 나쁜",
       "related_kanji": [
         "悪い",
         "悪化",
@@ -3423,8 +3441,8 @@
     {
       "surface": "止",
       "onyomi": "シ",
-      "kunyomi": "と.まる、-ど.まり、と.める、-と.める、-ど.め、とど.める、とど.め、とど.まる、や.める、や.む、-や.む、よ.す、-さ.す、-さ.し",
-      "meaning": "멈추다, 정지",
+      "kunyomi": "とまる、とめる",
+      "meaning": "그칠 지, 멈추다, 정지",
       "related_kanji": [
         "止める",
         "止める"
@@ -3444,8 +3462,8 @@
     {
       "surface": "重",
       "onyomi": "ジュウ、チョウ",
-      "kunyomi": "え、おも.い、おも.り、おも.なう、かさ.ねる、かさ.なる、おも",
-      "meaning": "무거운, 중요한, 존경, 쌓다, 쌓이다, 상자 둥지, 접다",
+      "kunyomi": "おもい、かさねる",
+      "meaning": "무거울 중, 무겁다, 거듭하다",
       "related_kanji": [
         "重い",
         "重要",
@@ -3471,8 +3489,8 @@
     {
       "surface": "画",
       "onyomi": "ガ、カク、エ、カイ",
-      "kunyomi": "えが.く、かく.する、かぎ.る、はかりごと、はか.る",
-      "meaning": "붓질, 사진",
+      "kunyomi": "-",
+      "meaning": "그림 화, 그림",
       "related_kanji": [
         "漫画"
       ],
@@ -3490,7 +3508,7 @@
       "surface": "口",
       "onyomi": "コウ、ク",
       "kunyomi": "くち",
-      "meaning": "입",
+      "meaning": "입 구, 입",
       "related_kanji": [
         "人口"
       ],
@@ -3505,8 +3523,8 @@
     {
       "surface": "味",
       "onyomi": "ミ",
-      "kunyomi": "あじ、あじ.わう",
-      "meaning": "맛",
+      "kunyomi": "あじ、あじわう",
+      "meaning": "맛 미, 맛",
       "related_kanji": [
         "味",
         "興味",
@@ -3532,8 +3550,8 @@
     {
       "surface": "空",
       "onyomi": "クウ",
-      "kunyomi": "そら、あ.く、あ.き、あ.ける、から、す.く、す.かす、むな.しい",
-      "meaning": "비어 있는, 하늘, 무효, 비어있는, 진공",
+      "kunyomi": "そら、から",
+      "meaning": "빌 공, 비어 있는, 하늘",
       "related_kanji": [
         "空気",
         "空港"
@@ -3554,7 +3572,7 @@
       "surface": "身",
       "onyomi": "シン",
       "kunyomi": "み",
-      "meaning": "누군가, 사람, 신분",
+      "meaning": "몸 신, 사람, 신분",
       "related_kanji": [
         "身体",
         "自身",
@@ -3580,8 +3598,8 @@
     {
       "surface": "運",
       "onyomi": "ウン",
-      "kunyomi": "はこ.ぶ",
-      "meaning": "운반하다, 운โช, 운명, 많이, 운송, 진행, 전진",
+      "kunyomi": "はこぶ",
+      "meaning": "옮길 운, 운반하다, 운명, 행운",
       "related_kanji": [
         "運ぶ",
         "運転手"
@@ -3601,8 +3619,8 @@
     {
       "surface": "帰",
       "onyomi": "キ",
-      "kunyomi": "かえ.る、かえ.す、おく.る、とつ.ぐ",
-      "meaning": "귀향, 도착하다, 이끌다, 결과로 이어지다",
+      "kunyomi": "かえる",
+      "meaning": "돌아갈 귀, 돌아가다",
       "related_kanji": [
         "帰り"
       ],
@@ -3619,8 +3637,8 @@
     {
       "surface": "集",
       "onyomi": "シュウ",
-      "kunyomi": "あつ.まる、あつ.める、つど.う",
-      "meaning": "모으다, 만나다, 모이다, 떼, 무리",
+      "kunyomi": "あつめる, あつまる",
+      "meaning": "모을 집, 모으다(あつめる), 모이다(あつまる)",
       "related_kanji": [
         "集める",
         "集まる"
@@ -3640,8 +3658,8 @@
     {
       "surface": "急",
       "onyomi": "キュウ",
-      "kunyomi": "いそ.ぐ、いそ.ぎ、せ.く",
-      "meaning": "서두르다, 비상, 갑작스러운, 가파른",
+      "kunyomi": "いそぐ",
+      "meaning": "급할 급, 서두르다, 급하다",
       "related_kanji": [
         "急ぐ",
         "急",
@@ -3667,8 +3685,8 @@
     {
       "surface": "足",
       "onyomi": "ソク",
-      "kunyomi": "あし、た.りる、た.る、た.す",
-      "meaning": "다리, 발, 충분하다, 켤레",
+      "kunyomi": "あし",
+      "meaning": "발 족, 다리, 발, 충분하다, 켤레",
       "related_kanji": [
         "足りる",
         "足す"
@@ -3688,8 +3706,8 @@
     {
       "surface": "売",
       "onyomi": "バイ",
-      "kunyomi": "う.る、う.れる",
-      "meaning": "팔다",
+      "kunyomi": "うる、うれる",
+      "meaning": "팔 매, 팔다",
       "related_kanji": [
         "売り場"
       ],
@@ -3706,8 +3724,8 @@
     {
       "surface": "起",
       "onyomi": "キ",
-      "kunyomi": "お.きる、お.こる、お.こす、おこ.す、た.つ",
-      "meaning": "깨우다, 일어나다",
+      "kunyomi": "おきる、おこる、おこす",
+      "meaning": "일어날 기, 일어나다(잠), 발생하다, 깨우다",
       "related_kanji": [
         "起こす"
       ],
@@ -3725,7 +3743,7 @@
       "surface": "夜",
       "onyomi": "ヤ",
       "kunyomi": "よ、よる",
-      "meaning": "밤, 저녁",
+      "meaning": "밤 야, 밤, 저녁",
       "related_kanji": [
         "今夜"
       ],
@@ -3742,8 +3760,8 @@
     {
       "surface": "料",
       "onyomi": "リョウ",
-      "kunyomi": "",
-      "meaning": "요금, 재료",
+      "kunyomi": "-",
+      "meaning": "헤아릴 료, 요금, 재료",
       "related_kanji": [
         "食料品"
       ],
@@ -3759,7 +3777,7 @@
       "surface": "特",
       "onyomi": "トク",
       "kunyomi": "",
-      "meaning": "특별한",
+      "meaning": "특별할 특, 특별한",
       "related_kanji": [
         "特別",
         "特に",
@@ -3783,7 +3801,7 @@
       "surface": "品",
       "onyomi": "ヒン、ホン",
       "kunyomi": "しな",
-      "meaning": "상품, 정제, 존엄성, 기사, 코스 요리 수를 세는 단위",
+      "meaning": "물건 품, 상품",
       "related_kanji": [
         "食料品",
         "品物"
@@ -3803,8 +3821,8 @@
     {
       "surface": "計",
       "onyomi": "ケイ",
-      "kunyomi": "はか.る、はか.らう",
-      "meaning": "줄거리, 계획, 측정하다",
+      "kunyomi": "はかる",
+      "meaning": "셀 계, 계산, 계획, 측정하다(はかる)",
       "related_kanji": [
         "計画",
         "計算",
@@ -3831,7 +3849,7 @@
       "surface": "店",
       "onyomi": "テン",
       "kunyomi": "みせ、たな",
-      "meaning": "가게",
+      "meaning": "가게 점, 가게",
       "related_kanji": [
         "店員"
       ],
@@ -3846,8 +3864,8 @@
     {
       "surface": "送",
       "onyomi": "ソウ",
-      "kunyomi": "おく.る",
-      "meaning": "에스코트, 보내다",
+      "kunyomi": "おくる",
+      "meaning": "보낼 송, 보내다",
       "related_kanji": [
         "送る"
       ],
@@ -3864,8 +3882,8 @@
     {
       "surface": "族",
       "onyomi": "ゾク",
-      "kunyomi": "",
-      "meaning": "부족, 가족",
+      "kunyomi": "-",
+      "meaning": "겨레 족, 민족, 가족",
       "related_kanji": [
         "家族",
         "民族",
@@ -3891,8 +3909,8 @@
     {
       "surface": "文",
       "onyomi": "ブン、モン",
-      "kunyomi": "ふみ、あや",
-      "meaning": "문장, 문학, 스타일, 예술, 장식, 숫자, 계획, 문학 급진주의자 (67번)",
+      "kunyomi": "ふみ",
+      "meaning": "글월 문, 문장, 문자",
       "related_kanji": [
         "文化",
         "文学",
@@ -3916,7 +3934,7 @@
       "surface": "院",
       "onyomi": "イン",
       "kunyomi": "",
-      "meaning": "기관, 사원, 저택, 학교",
+      "meaning": "집 원, 병원, 학교, 의회",
       "related_kanji": [
         "入院",
         "退院"
@@ -3937,7 +3955,7 @@
       "surface": "朝",
       "onyomi": "チョウ",
       "kunyomi": "あさ",
-      "meaning": "아침, 왕조, 정권, 에포크, 기간, (북)한",
+      "meaning": "아침 조, 아침",
       "related_kanji": [
         "朝",
         "毎朝",
@@ -3963,8 +3981,8 @@
     {
       "surface": "転",
       "onyomi": "テン",
-      "kunyomi": "ころ.がる、ころ.げる、ころ.がす、ころ.ぶ、まろ.ぶ、うたた、うつ.る、くる.めく",
-      "meaning": "회전하다, 돌다, 변화",
+      "kunyomi": "ころがる、ころげる",
+      "meaning": "구를 전, 회전하다, 돌다, 변화",
       "related_kanji": [
         "運転手"
       ],
@@ -3980,7 +3998,7 @@
       "surface": "公",
       "onyomi": "コウ、ク",
       "kunyomi": "おおやけ",
-      "meaning": "공공의, 왕자, 공식적인, 정부의",
+      "meaning": "공평할 공, 공평하다, 공식적이다(おおやけ),",
       "related_kanji": [
         "公務員"
       ],
@@ -3997,8 +4015,8 @@
     {
       "surface": "可",
       "onyomi": "カ、コク",
-      "kunyomi": "-べ.き、-べ.し",
-      "meaning": "할 수 있다, 통행 가능한, 해서는 안 된다, 하지 말아야 한다, 하지 마십시오",
+      "kunyomi": "-",
+      "meaning": "옳을 가, 할 수 있다, 가능하다",
       "related_kanji": [
         "可能",
         "不可",
@@ -4024,8 +4042,8 @@
     {
       "surface": "病",
       "onyomi": "ビョウ、ヘイ",
-      "kunyomi": "や.む、-や.み、やまい",
-      "meaning": "아픈",
+      "kunyomi": "やまい",
+      "meaning": "병 병, 아픈",
       "related_kanji": [
         "病気",
         "病院",
@@ -4051,8 +4069,8 @@
     {
       "surface": "住",
       "onyomi": "ジュウ、ヂュウ、チュウ",
-      "kunyomi": "す.む、す.まう、-ず.まい",
-      "meaning": "거주하다, 살다",
+      "kunyomi": "すむ、すまう",
+      "meaning": "살 주, 거주하다, 살다",
       "related_kanji": [
         "住所"
       ],
@@ -4070,7 +4088,7 @@
       "surface": "屋",
       "onyomi": "オク",
       "kunyomi": "や",
-      "meaning": "지붕, 집, 가게, 딜러, 판매자",
+      "meaning": "집 옥, 가게, 전문가",
       "related_kanji": [
         "屋上"
       ],
@@ -4087,8 +4105,8 @@
     {
       "surface": "買",
       "onyomi": "バイ",
-      "kunyomi": "か.う",
-      "meaning": "사다",
+      "kunyomi": "かう",
+      "meaning": "살 매, 사다",
       "related_kanji": [
         "買う",
         "買い物",
@@ -4114,8 +4132,8 @@
     {
       "surface": "試",
       "onyomi": "シ",
-      "kunyomi": "こころ.みる、ため.す",
-      "meaning": "테스트, 노력하다, 시도, 실험, 시련",
+      "kunyomi": "こころみる、ためす",
+      "meaning": "시험 시, 시험하다, 시도하다",
       "related_kanji": [
         "試合",
         "試験"
@@ -4135,8 +4153,8 @@
     {
       "surface": "有",
       "onyomi": "ユウ、ウ",
-      "kunyomi": "あ.る",
-      "meaning": "소유하다, 가지다, 존재하다, 발생하다, 대략",
+      "kunyomi": "ある",
+      "meaning": "있을 유, 소유하다, 가지다, 존재하다",
       "related_kanji": [
         "有る",
         "有名",
@@ -4162,8 +4180,8 @@
     {
       "surface": "質",
       "onyomi": "シツ、シチ、チ",
-      "kunyomi": "たち、ただ.す、もと、わりふ",
-      "meaning": "물질, 품질, 문제, 기질",
+      "kunyomi": "しつ",
+      "meaning": "바탕 질, 바탕, 품질, 질문",
       "related_kanji": [
         "質問",
         "品質",
@@ -4189,8 +4207,8 @@
     {
       "surface": "医",
       "onyomi": "イ",
-      "kunyomi": "い.やす、い.する、くすし",
-      "meaning": "의사, 약",
+      "kunyomi": "いやす",
+      "meaning": "의원 의, 의사, 약 치료하다(いやす)",
       "related_kanji": [
         "歯医者",
         "医学"
@@ -4210,8 +4228,8 @@
     {
       "surface": "映",
       "onyomi": "エイ",
-      "kunyomi": "うつ.る、うつ.す、は.える、-ば.え",
-      "meaning": "반영하다, 반사, 투영",
+      "kunyomi": "うつる、うつす、はえる",
+      "meaning": "비칠 영, 비치다(うつる), 비추다(うつす), 빛나다(はえる)",
       "related_kanji": [
         "映画",
         "映す",
@@ -4237,8 +4255,8 @@
     {
       "surface": "室",
       "onyomi": "シツ",
-      "kunyomi": "むろ",
-      "meaning": "방, 아파트, 온실, 지하실",
+      "kunyomi": "むろ, ",
+      "meaning": "집 실, 방, 공간",
       "related_kanji": [
         "研究室",
         "会議室"
@@ -4258,8 +4276,8 @@
     {
       "surface": "台",
       "onyomi": "ダイ、タイ",
-      "kunyomi": "うてな、われ、つかさ",
-      "meaning": "받침대, 스탠드, 대",
+      "kunyomi": "うてな",
+      "meaning": "대 대, 받침대",
       "related_kanji": [
         "台風"
       ],
@@ -4276,8 +4294,8 @@
     {
       "surface": "験",
       "onyomi": "ケン、ゲン",
-      "kunyomi": "あかし、しるし、ため.す、ためし",
-      "meaning": "검증, 효과, 테스팅",
+      "kunyomi": "-",
+      "meaning": "시험 험, 시험",
       "related_kanji": [
         "試験"
       ],
@@ -4294,8 +4312,8 @@
     {
       "surface": "歌",
       "onyomi": "カ",
-      "kunyomi": "うた、うた.う",
-      "meaning": "노래, 노래하다",
+      "kunyomi": "うた、うたう",
+      "meaning": "노래 가, 노래, 노래하다",
       "related_kanji": [
         "歌う",
         "歌手",
@@ -4321,8 +4339,8 @@
     {
       "surface": "去",
       "onyomi": "キョ、コ",
-      "kunyomi": "さ.る、-さ.る",
-      "meaning": "사라진, 과거, 그만두다, 떠나다, 경과하다, 제거하다, 이혼",
+      "kunyomi": "さる",
+      "meaning": "갈 거, 떠나다, 지나다, 제거하다",
       "related_kanji": [
         "去年",
         "過去",
@@ -4348,8 +4366,8 @@
     {
       "surface": "風",
       "onyomi": "フウ、フ",
-      "kunyomi": "かぜ、かざ-",
-      "meaning": "바람, 공기, 스타일, 방식",
+      "kunyomi": "かぜ",
+      "meaning": "바람 풍, 바람",
       "related_kanji": [
         "台風"
       ],
@@ -4366,8 +4384,8 @@
     {
       "surface": "歩",
       "onyomi": "ホ、ブ、フ",
-      "kunyomi": "ある.く、あゆ.む",
-      "meaning": "걷다, 계단 수 카운터",
+      "kunyomi": "あるく、あゆむ",
+      "meaning": "걸음 보, 걷다",
       "related_kanji": [
         "歩く",
         "散歩",
@@ -4393,8 +4411,8 @@
     {
       "surface": "広",
       "onyomi": "コウ",
-      "kunyomi": "ひろ.い、ひろ.まる、ひろ.める、ひろ.がる、ひろ.げる",
-      "meaning": "넓은",
+      "kunyomi": "ひろい、ひろまる",
+      "meaning": "넓을 광, 넓은",
       "related_kanji": [
         "広い",
         "広場",
@@ -4421,7 +4439,7 @@
       "surface": "週",
       "onyomi": "シュウ",
       "kunyomi": "",
-      "meaning": "주",
+      "meaning": "돌 주, 주",
       "related_kanji": [
         "今週",
         "来週",
@@ -4447,8 +4465,8 @@
     {
       "surface": "写",
       "onyomi": "シャ、ジャ",
-      "kunyomi": "うつ.す、うつ.る、うつ-、うつ.し",
-      "meaning": "복사, 사진이 찍히다, 설명하다",
+      "kunyomi": "うつす、うつる",
+      "meaning": "베낄 사, 그리다, 사진",
       "related_kanji": [
         "写す"
       ],
@@ -4466,7 +4484,7 @@
       "surface": "花",
       "onyomi": "カ、ケ",
       "kunyomi": "はな",
-      "meaning": "꽃",
+      "meaning": "꽃 화, 꽃",
       "related_kanji": [
         "花見"
       ],
@@ -4483,8 +4501,8 @@
     {
       "surface": "黒",
       "onyomi": "コク",
-      "kunyomi": "くろ、くろ.ずむ、くろ.い",
-      "meaning": "검정",
+      "kunyomi": "くろ、くろい",
+      "meaning": "검을 현, 검정",
       "related_kanji": [
         "黒い",
         "黒板",
@@ -4510,8 +4528,8 @@
     {
       "surface": "答",
       "onyomi": "トウ",
-      "kunyomi": "こた.える、こた.え",
-      "meaning": "해결책, 답변",
+      "kunyomi": "こたえる、こたえ",
+      "meaning": "대답할 답, 답변",
       "related_kanji": [
         "答え"
       ],
@@ -4526,8 +4544,8 @@
     {
       "surface": "赤",
       "onyomi": "セキ、シャク",
-      "kunyomi": "あか、あか-、あか.い、あか.らむ、あか.らめる",
-      "meaning": "빨간색",
+      "kunyomi": "あか、あかい",
+      "meaning": "붉을 적, 빨간색",
       "related_kanji": [
         "赤ちゃん",
         "赤ん坊"
@@ -4548,7 +4566,7 @@
       "surface": "色",
       "onyomi": "ショク、シキ",
       "kunyomi": "いろ",
-      "meaning": "색깔",
+      "meaning": "빛 색, 색깔",
       "related_kanji": [
         "景色"
       ],
@@ -4566,7 +4584,7 @@
       "surface": "町",
       "onyomi": "チョウ",
       "kunyomi": "まち",
-      "meaning": "마을, 막다, 거리",
+      "meaning": "밭두둑 정, 마을, 동네",
       "related_kanji": [
         "町",
         "下町",
@@ -4593,7 +4611,7 @@
       "surface": "銀",
       "onyomi": "ギン",
       "kunyomi": "しろがね",
-      "meaning": "은색",
+      "meaning": "은 은, 은",
       "related_kanji": [
         "銀行",
         "銀色",
@@ -4619,8 +4637,8 @@
     {
       "surface": "工",
       "onyomi": "コウ、ク、グ",
-      "kunyomi": "",
-      "meaning": "공예, 건설, 카타카나 에의 부수 (번호 48)",
+      "kunyomi": "たくみ",
+      "meaning": "장인 공, 공사, 공정, 기술자",
       "related_kanji": [
         "工場",
         "工業"
@@ -4640,8 +4658,8 @@
     {
       "surface": "字",
       "onyomi": "ジ",
-      "kunyomi": "あざ、あざな、-な",
-      "meaning": "문자, 편지, 단어, 마을의 구역",
+      "kunyomi": "あざ",
+      "meaning": "글자 자, 문자",
       "related_kanji": [
         "字"
       ],
@@ -4658,8 +4676,8 @@
     {
       "surface": "飲",
       "onyomi": "イン、オン",
-      "kunyomi": "の.む、-の.み",
-      "meaning": "마시다, 연기, 가지다",
+      "kunyomi": "のむ、のみ",
+      "meaning": "마실 음, 마시다",
       "related_kanji": [
         "飲む",
         "飲み物",
@@ -4685,8 +4703,8 @@
     {
       "surface": "注",
       "onyomi": "チュウ",
-      "kunyomi": "そそ.ぐ、さ.す、つ.ぐ",
-      "meaning": "붓다, 관개하다, 흘리다, 흘러들어가다, 집중하다, 노트, 코멘트, 주석을 달다",
+      "kunyomi": "そそぐ",
+      "meaning": "부을 주, 붓다, 집중하다",
       "related_kanji": [
         "注意",
         "注射"
@@ -4706,8 +4724,8 @@
     {
       "surface": "走",
       "onyomi": "ソウ",
-      "kunyomi": "はし.る",
-      "meaning": "달리다",
+      "kunyomi": "はしる",
+      "meaning": "달릴 주, 달리다",
       "related_kanji": [
         "走る",
         "競走",
@@ -4734,7 +4752,7 @@
       "surface": "京",
       "onyomi": "キョウ、ケイ、キン",
       "kunyomi": "みやこ",
-      "meaning": "수도, 10**16",
+      "meaning": "서울 경, 수도",
       "related_kanji": [
         "東京",
         "京都",
@@ -4760,8 +4778,8 @@
     {
       "surface": "古",
       "onyomi": "コ",
-      "kunyomi": "ふる.い、ふる-、-ふる.す",
-      "meaning": "오래된",
+      "kunyomi": "ふるい",
+      "meaning": "옛 고, 오래된",
       "related_kanji": [
         "古代",
         "古典",
@@ -4787,8 +4805,8 @@
     {
       "surface": "英",
       "onyomi": "エイ",
-      "kunyomi": "はなぶさ",
-      "meaning": "잉글랜드, 영어, 영웅, 뛰어난, 꽃받침",
+      "kunyomi": "はなぶさ,  ひいでる",
+      "meaning": "뿌리 영, 꽃봉오리(はなぶさ), 뛰어나다(ひいでる)",
       "related_kanji": [
         "英雄",
         "英国",
@@ -4814,8 +4832,8 @@
     {
       "surface": "習",
       "onyomi": "シュウ、ジュ",
-      "kunyomi": "なら.う、なら.い",
-      "meaning": "배우다",
+      "kunyomi": "ならう",
+      "meaning": "익힐 습, 배우다",
       "related_kanji": [
         "予習",
         "復習",
@@ -4839,7 +4857,7 @@
       "surface": "兄",
       "onyomi": "ケイ、キョウ",
       "kunyomi": "あに",
-      "meaning": "형, 큰 형",
+      "meaning": "형 형, 형",
       "related_kanji": [
         "兄",
         "お兄さん",
@@ -4866,7 +4884,7 @@
       "surface": "服",
       "onyomi": "フク",
       "kunyomi": "",
-      "meaning": "의류, 인정하다, 복종하다, 방출",
+      "meaning": "의복 복, 옷",
       "related_kanji": [
         "服",
         "洋服",
@@ -4892,8 +4910,8 @@
     {
       "surface": "建",
       "onyomi": "ケン、コン",
-      "kunyomi": "た.てる、た.て、-だ.て、た.つ",
-      "meaning": "짓다",
+      "kunyomi": "たてる",
+      "meaning": "세울 건, 짓다",
       "related_kanji": [
         "建てる",
         "二階建て"
@@ -4913,8 +4931,8 @@
     {
       "surface": "青",
       "onyomi": "セイ、ショウ",
-      "kunyomi": "あお、あお-、あお.い",
-      "meaning": "파란색, 초록색",
+      "kunyomi": "あお、あおい",
+      "meaning": "푸를 청, 파란색, 초록색",
       "related_kanji": [
         "青い",
         "青空",
@@ -4940,8 +4958,8 @@
     {
       "surface": "研",
       "onyomi": "ケン",
-      "kunyomi": "と.ぐ",
-      "meaning": "광택을 내다, 연구, 갈다",
+      "kunyomi": "とぐ",
+      "meaning": "갈 연, 갈다, 닦다",
       "related_kanji": [
         "研究",
         "研究室"
@@ -4962,7 +4980,7 @@
       "surface": "紙",
       "onyomi": "シ",
       "kunyomi": "かみ",
-      "meaning": "종이",
+      "meaning": "종이 지, 종이",
       "related_kanji": [
         "紙面",
         "用紙",
@@ -4988,8 +5006,8 @@
     {
       "surface": "究",
       "onyomi": "キュウ、ク",
-      "kunyomi": "きわ.める",
-      "meaning": "연구, 공부하다",
+      "kunyomi": "きわめる",
+      "meaning": "연구할 구, 연구하다, 공부하다, 끝까지 파고들다",
       "related_kanji": [
         "研究",
         "研究室"
@@ -5010,7 +5028,7 @@
       "surface": "春",
       "onyomi": "シュン",
       "kunyomi": "はる",
-      "meaning": "봄철, 봄",
+      "meaning": "봄 춘, 봄",
       "related_kanji": [
         "春",
         "春休み",
@@ -5036,8 +5054,8 @@
     {
       "surface": "図",
       "onyomi": "ズ、ト",
-      "kunyomi": "え、はか.る",
-      "meaning": "지도, 그리기, 계획, 비범한, 대담한",
+      "kunyomi": "はかる",
+      "meaning": "그림 도, 그림, 지도, 계획하다(はかる)",
       "related_kanji": [
         "図書館",
         "図形",
@@ -5064,7 +5082,7 @@
       "surface": "旅",
       "onyomi": "リョ",
       "kunyomi": "たび",
-      "meaning": "여행",
+      "meaning": "나그네 려, 여행",
       "related_kanji": [
         "旅館"
       ],
@@ -5082,7 +5100,7 @@
       "surface": "肉",
       "onyomi": "ニク",
       "kunyomi": "しし",
-      "meaning": "고기",
+      "meaning": "고기 육, 고기",
       "related_kanji": [
         "肉",
         "牛肉",
@@ -5109,7 +5127,7 @@
       "surface": "夏",
       "onyomi": "カ、ガ、ゲ",
       "kunyomi": "なつ",
-      "meaning": "여름",
+      "meaning": "여름 하, 여름",
       "related_kanji": [
         "夏",
         "夏休み",
@@ -5136,7 +5154,7 @@
       "surface": "弟",
       "onyomi": "テイ、ダイ、デ",
       "kunyomi": "おとうと",
-      "meaning": "남동생, 노인에 대한 충성된 서비스",
+      "meaning": "아우 제, 남동생",
       "related_kanji": [
         "弟",
         "兄弟",
@@ -5162,8 +5180,8 @@
     {
       "surface": "犬",
       "onyomi": "ケン",
-      "kunyomi": "いぬ、いぬ-",
-      "meaning": "개",
+      "kunyomi": "いぬ",
+      "meaning": "개 견, 개",
       "related_kanji": [
         "犬",
         "子犬",
@@ -5190,7 +5208,7 @@
       "surface": "飯",
       "onyomi": "ハン",
       "kunyomi": "めし",
-      "meaning": "식사, 밥",
+      "meaning": "밥 반, 식사, 밥",
       "related_kanji": [
         "ご飯",
         "夕飯",
@@ -5217,7 +5235,7 @@
       "surface": "館",
       "onyomi": "カン",
       "kunyomi": "やかた、たて",
-      "meaning": "건물, 대저택, 큰 건물, 궁전",
+      "meaning": "집 관, 건물",
       "related_kanji": [
         "美術館",
         "旅館"
@@ -5237,8 +5255,8 @@
     {
       "surface": "貸",
       "onyomi": "タイ",
-      "kunyomi": "か.す、か.し-、かし-",
-      "meaning": "빌려주다",
+      "kunyomi": "かす",
+      "meaning": "빌릴 대, 빌려주다다",
       "related_kanji": [
         "貸す",
         "貸し出し",
@@ -5265,7 +5283,7 @@
       "surface": "堂",
       "onyomi": "ドウ",
       "kunyomi": "",
-      "meaning": "공공 회의실, 홀",
+      "meaning": "집 당, 건물",
       "related_kanji": [
         "講堂"
       ],
@@ -5282,8 +5300,8 @@
     {
       "surface": "借",
       "onyomi": "シャク",
-      "kunyomi": "か.りる",
-      "meaning": "빌리다, 임대",
+      "kunyomi": "かりる",
+      "meaning": "빌릴 차, 빌리다, 임대",
       "related_kanji": [
         "借りる",
         "借金",
@@ -5309,8 +5327,8 @@
     {
       "surface": "秋",
       "onyomi": "シュウ",
-      "kunyomi": "あき、とき",
-      "meaning": "가을",
+      "kunyomi": "あき",
+      "meaning": "가을 추, 가을",
       "related_kanji": [
         "秋",
         "秋分",
@@ -5336,8 +5354,8 @@
     {
       "surface": "姉",
       "onyomi": "シ",
-      "kunyomi": "あね、はは",
-      "meaning": "언니",
+      "kunyomi": "あね",
+      "meaning": "누이 자, 언니",
       "related_kanji": [
         "姉",
         "お姉さん",
@@ -5364,7 +5382,7 @@
       "surface": "曜",
       "onyomi": "ヨウ",
       "kunyomi": "",
-      "meaning": "평일",
+      "meaning": "빛날 요, 요일",
       "related_kanji": [
         "曜日",
         "月曜日",
@@ -5391,7 +5409,7 @@
       "surface": "鳥",
       "onyomi": "チョウ",
       "kunyomi": "とり",
-      "meaning": "새, 치킨",
+      "meaning": "새 조, 새",
       "related_kanji": [
         "小鳥"
       ],
@@ -5409,7 +5427,7 @@
       "surface": "夕",
       "onyomi": "セキ",
       "kunyomi": "ゆう",
-      "meaning": "저녁",
+      "meaning": "저녁 석, 저녁",
       "related_kanji": [
         "夕方",
         "夕食",
@@ -5436,7 +5454,7 @@
       "surface": "茶",
       "onyomi": "チャ、サ",
       "kunyomi": "",
-      "meaning": "차",
+      "meaning": "차 차, 차",
       "related_kanji": [
         "お茶",
         "茶色",
@@ -5462,8 +5480,8 @@
     {
       "surface": "魚",
       "onyomi": "ギョ",
-      "kunyomi": "うお、さかな、-ざかな",
-      "meaning": "물고기",
+      "kunyomi": "さかな, うお",
+      "meaning": "물고기 어, 물고기",
       "related_kanji": [
         "魚",
         "金魚",
@@ -5490,7 +5508,7 @@
       "surface": "妹",
       "onyomi": "マイ",
       "kunyomi": "いもうと",
-      "meaning": "여동생",
+      "meaning": "아랫누이 메, 여동생",
       "related_kanji": [
         "妹",
         "姉妹",
@@ -5516,8 +5534,8 @@
     {
       "surface": "勉",
       "onyomi": "ベン",
-      "kunyomi": "つと.める",
-      "meaning": "노력, 격려하다, 노력하다, 부지런한",
+      "kunyomi": "つとめる",
+      "meaning": "힘쓸 면, 노력, 힘쓰다",
       "related_kanji": [
         "勉強",
         "勤勉",
@@ -5543,8 +5561,8 @@
     {
       "surface": "洋",
       "onyomi": "ヨウ",
-      "kunyomi": "",
-      "meaning": "바다, 외국의, 서양식",
+      "kunyomi": "-",
+      "meaning": "바다 양, 대양",
       "related_kanji": [
         "西洋"
       ],
@@ -5562,7 +5580,7 @@
       "surface": "昼",
       "onyomi": "チュウ",
       "kunyomi": "ひる",
-      "meaning": "주간, 정오",
+      "meaning": "낮 주, 주간, 정오",
       "related_kanji": [
         "昼休み",
         "昼間"
@@ -5583,7 +5601,7 @@
       "surface": "牛",
       "onyomi": "ギュウ",
       "kunyomi": "うし",
-      "meaning": "소",
+      "meaning": "소 우, 소",
       "related_kanji": [
         "牛",
         "牛肉",
@@ -5610,7 +5628,7 @@
       "surface": "冬",
       "onyomi": "トウ",
       "kunyomi": "ふゆ",
-      "meaning": "겨울",
+      "meaning": "겨울 동, 겨울",
       "related_kanji": [
         "冬",
         "冬休み",
@@ -5636,8 +5654,8 @@
     {
       "surface": "駅",
       "onyomi": "エキ",
-      "kunyomi": "",
-      "meaning": "역",
+      "kunyomi": "うまや",
+      "meaning": "역 역, 역",
       "related_kanji": [
         "駅",
         "駅員",
@@ -5663,8 +5681,8 @@
     {
       "surface": "漢",
       "onyomi": "カン",
-      "kunyomi": "",
-      "meaning": "중국-, 중국",
+      "kunyomi": "-",
+      "meaning": "한나라 한, 중국",
       "related_kanji": [
         "漢字",
         "漢語",
@@ -5688,12 +5706,15 @@
       "kind": "kanji"
     }
   ],
+
+
+
   "n3_kanji": [
     {
       "surface": "部",
       "onyomi": "ブ",
-      "kunyomi": "-べ",
-      "meaning": "섹션, 사무국, 부서, 수업, 복사, 부분, 부数",
+      "kunyomi": "-",
+      "meaning": "떼 부, 부서, 부분",
       "related_kanji": [
         "部分",
         "大部分"
@@ -5711,10 +5732,202 @@
       "kind": "kanji"
     },
     {
+      "surface": "結",
+      "onyomi": "ケツ",
+      "kunyomi": "むすぶ・ゆう・ゆわえる",
+      "meaning": "맺을 결, 묶다, 결합하다",
+      "related_kanji": ["結果", "結婚", "結局", "結論"],
+      "related_reading": ["けっか", "けっこん", "けっきょく", "けつろん"],
+      "related_meaning": ["결과", "결혼", "결국", "결론"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "第",
+      "onyomi": "ダイ",
+      "kunyomi": "-",
+      "meaning": "차례 제, 순서, ~번째",
+      "related_kanji": ["第一", "第二", "第三", "落第"],
+      "related_reading": ["だいいち", "だいに", "だいさん", "らくだい"],
+      "related_meaning": ["제일", "제이", "제삼", "낙제"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "案",
+      "onyomi": "アン",
+      "kunyomi": "-",
+      "meaning": "책상 안, 생각, 안건, 계획",
+      "related_kanji": ["案内", "提案", "案件", "名案"],
+      "related_reading": ["あんない", "ていあん", "あんけん", "めいあん"],
+      "related_meaning": ["안내", "제안", "안건", "명안"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "察",
+      "onyomi": "サツ",
+      "kunyomi": "さっする",
+      "meaning": "살필 찰, 살피다, 헤아리다",
+      "related_kanji": ["観察", "警察", "察知", "視察"],
+      "related_reading": ["かんさつ", "けいさつ", "さっち", "しさつ"],
+      "related_meaning": ["관찰", "경찰", "간파", "시찰"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "階",
+      "onyomi": "カイ",
+      "kunyomi": "きざはし",
+      "meaning": "섬돌 계, 계단, 층",
+      "related_kanji": ["階段", "階級", "二階", "段階"],
+      "related_reading": ["かいだん", "かいきゅう", "にかい", "だんかい"],
+      "related_meaning": ["계단", "계급", "2층", "단계"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "器",
+      "onyomi": "キ",
+      "kunyomi": "うつわ",
+      "meaning": "그릇 기, 용기, 기구, 재능",
+      "related_kanji": ["機器", "器具", "食器", "楽器"],
+      "related_reading": ["きき", "きぐ", "しょっき", "がっき"],
+      "related_meaning": ["기기", "기구", "식기", "악기"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "健",
+      "onyomi": "ケン",
+      "kunyomi": "すこやか",
+      "meaning": "굳셀 건, 건강하다, 튼튼하다",
+      "related_kanji": ["健康", "健全", "保健", "健闘"],
+      "related_reading": ["けんこう", "けんぜん", "ほけん", "けんとう"],
+      "related_meaning": ["건강", "건전", "보건", "건투"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "竹",
+      "onyomi": "チク",
+      "kunyomi": "たけ",
+      "meaning": "대나무 죽, 대나무",
+      "related_kanji": ["竹林", "竹刀", "竹馬", "爆竹"],
+      "related_reading": ["ちくりん", "しない", "たけうま", "ばくちく"],
+      "related_meaning": ["죽림", "죽도(검도용)", "죽마", "폭죽"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "標",
+      "onyomi": "ヒョウ",
+      "kunyomi": "しるべ・しるし",
+      "meaning": "표할 표, 표시, 목표, 기준",
+      "related_kanji": ["目標", "標準", "標識", "指標"],
+      "related_reading": ["もくひょう", "ひょうじゅん", "ひょうしき", "しひょう"],
+      "related_meaning": ["목표", "표준", "표식", "지표"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "司",
+      "onyomi": "シ",
+      "kunyomi": "つかさどる",
+      "meaning": "맡을 사, 관장하다, 담당하다",
+      "related_kanji": ["司会", "司法", "上司", "司令"],
+      "related_reading": ["しかい", "しほう", "じょうし", "しれい"],
+      "related_meaning": ["사회(진행)", "사법", "상사", "사령"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "康",
+      "onyomi": "コウ",
+      "kunyomi": "-",
+      "meaning": "편안할 강, 건강하다, 평안하다",
+      "related_kanji": ["健康", "康復", "小康", "康平"],
+      "related_reading": ["けんこう", "こうふく", "しょうこう", "こうへい"],
+      "related_meaning": ["건강", "쾌유", "소강", "강평"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "級",
+      "onyomi": "キュウ",
+      "kunyomi": "-",
+      "meaning": "등급 급, 계급, 학년",
+      "related_kanji": ["学級", "上級", "級数", "同級"],
+      "related_reading": ["がっきゅう", "じょうきゅう", "きゅうすう", "どうきゅう"],
+      "related_meaning": ["학급", "상급", "급수", "동급"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "救",
+      "onyomi": "キュウ",
+      "kunyomi": "すくう",
+      "meaning": "구원할 구, 구하다, 돕다",
+      "related_kanji": ["救助", "救急", "救援", "救出"],
+      "related_reading": ["きゅうじょ", "きゅうきゅう", "きゅうえん", "きゅうしゅつ"],
+      "related_meaning": ["구조", "구급", "구원", "구출"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "戦",
+      "onyomi": "セン",
+      "kunyomi": "いくさ・たたかう",
+      "meaning": "싸울 전, 전쟁, 싸우다",
+      "related_kanji": ["戦争", "戦力", "挑戦", "作戦"],
+      "related_reading": ["せんそう", "せんりょく", "ちょうせん", "さくせん"],
+      "related_meaning": ["전쟁", "전력", "도전", "작전"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "泣",
+      "onyomi": "キュウ",
+      "kunyomi": "なく",
+      "meaning": "울 읍, 울다",
+      "related_kanji": ["泣声", "号泣", "泣き虫", "感泣"],
+      "related_reading": ["なきごえ", "ごうきゅう", "なきむし", "かんきゅう"],
+      "related_meaning": ["우는 소리", "호읍(통곡)", "울보", "감격하여 울다"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
+      "surface": "節",
+      "onyomi": "セツ・セチ",
+      "kunyomi": "ふし",
+      "meaning": "마디 절, 마디, 절기, 절약",
+      "related_kanji": ["節約", "季節", "調節", "節目"],
+      "related_reading": ["せつやく", "きせつ", "ちょうせつ", "ふしめ"],
+      "related_meaning": ["절약", "계절", "조절", "마디·고비"],
+      "pos": "한자",
+      "level": "N3",
+      "kind": "kanji"
+    },
+    {
       "surface": "合",
       "onyomi": "ゴウ、ガッ、カッ",
-      "kunyomi": "あ.う、-あ.う、あ.い、あい-、-あ.い、-あい、あ.わす、あ.わせる、-あ.わせる",
-      "meaning": "맞다, 정장, 가입하다, 0.1",
+      "kunyomi": "あう、あわす、あわせる",
+      "meaning": "합할 합, 합치다, 들어맞다",
       "related_kanji": [
         "合わせる",
         "似合う",
@@ -5740,8 +5953,8 @@
     {
       "surface": "最",
       "onyomi": "サイ、シュ",
-      "kunyomi": "もっと.も、つま",
-      "meaning": "최대한의, 가장, 극단적인",
+      "kunyomi": "もっとも",
+      "meaning": "가장 최, 최고, 제일, 가장(もっとも)",
       "related_kanji": [
         "最高",
         "最も",
@@ -5770,8 +5983,8 @@
     {
       "surface": "当",
       "onyomi": "トウ",
-      "kunyomi": "あ.たる、あ.たり、あ.てる、あ.て、まさ.に、まさ.にべし",
-      "meaning": "때리다, 오른쪽, 적절한, 그 자신",
+      "kunyomi": "あたる、あてる",
+      "meaning": "마땅할 당, 맞다(あたる), 맞히다(あてる), 들어맞다",
       "related_kanji": [
         "担当",
         "当たる",
@@ -5800,8 +6013,8 @@
     {
       "surface": "全",
       "onyomi": "ゼン",
-      "kunyomi": "まった.く、すべ.て",
-      "meaning": "전체, 전체의, 모두, 완성하다, 이행하다",
+      "kunyomi": "まったく、すべて",
+      "meaning": "온전할 전, 전체, 모두(すべて), 완전히(まったく)",
       "related_kanji": [
         "全員",
         "全然",
@@ -5830,8 +6043,8 @@
     {
       "surface": "回",
       "onyomi": "カイ、エ",
-      "kunyomi": "まわ.る、-まわ.る、-まわ.り、まわ.す、-まわ.す、まわ.し-、-まわ.し、もとお.る、か.える",
-      "meaning": "-타임스, 둥근, 게임, 회전하다, 발생 횟수 카운터",
+      "kunyomi": "まわる、まわす",
+      "meaning": "돌 회, 돌다, 회전, 횟수",
       "related_kanji": [
         "回",
         "今回",
@@ -5857,8 +6070,8 @@
     {
       "surface": "戦",
       "onyomi": "セン",
-      "kunyomi": "いくさ、たたか.う、おのの.く、そよ.ぐ、わなな.く",
-      "meaning": "전쟁, 전투, 일치",
+      "kunyomi": "いくさ、たたかう",
+      "meaning": "싸울 전, 전쟁(いくさ), 싸우다(たたかう)",
       "related_kanji": [
         "戦い",
         "戦う",
@@ -5881,8 +6094,8 @@
     {
       "surface": "実",
       "onyomi": "ジツ、シツ",
-      "kunyomi": "み、みの.る、まこと、みの、みち.る",
-      "meaning": "현실, 진실, 씨앗, 과일, 견과류",
+      "kunyomi": "み、みの、みのる",
+      "meaning": "열매 실, 현실, 진실, 열매(み), 결실을 맺다(みのる)",
       "related_kanji": [
         "実は",
         "事実",
@@ -5912,7 +6125,7 @@
       "surface": "性",
       "onyomi": "セイ、ショウ",
       "kunyomi": "さが",
-      "meaning": "성별, 자연",
+      "meaning": "성품 성, 성별, 본성",
       "related_kanji": [
         "性格"
       ],
@@ -5929,8 +6142,8 @@
     {
       "surface": "連",
       "onyomi": "レン",
-      "kunyomi": "つら.なる、つら.ねる、つ.れる、-づ.れ",
-      "meaning": "가지고 가다, 납, 가입하다, 연결하다, 파티, 갱, 클리크",
+      "kunyomi": "つらなる、つらねる、つれる",
+      "meaning": "이을 연, 잇다, 연결, 연속되다",
       "related_kanji": [
         "連続",
         "連れ",
@@ -5956,8 +6169,8 @@
     {
       "surface": "取",
       "onyomi": "シュ",
-      "kunyomi": "と.る、と.り、と.り-、とり、-ど.り",
-      "meaning": "가져가다, 가져오다, 차지하다",
+      "kunyomi": "とる",
+      "meaning": "가질 취, 손에 잡다(とる), 취하다",
       "related_kanji": [
         "受け取る",
         "取れる",
@@ -5980,8 +6193,8 @@
     {
       "surface": "要",
       "onyomi": "ヨウ",
-      "kunyomi": "い.る、かなめ",
-      "meaning": "필요, 주요 요점, 본질, 피벗, 열쇠",
+      "kunyomi": "かなめ, いる",
+      "meaning": "요긴할 요, 중요하다, 요긴하다, 핵심(かなめ), 필요하다(いる)",
       "related_kanji": [
         "重要",
         "要求",
@@ -6010,8 +6223,8 @@
     {
       "surface": "対",
       "onyomi": "タイ、ツイ",
-      "kunyomi": "あいて、こた.える、そろ.い、つれあ.い、なら.ぶ、むか.う",
-      "meaning": "대하여, 반대의, 짝수, 동등한, 대조하여, 반-, 비교하다",
+      "kunyomi": "-",
+      "meaning": "대할 대, 대하다, 마주보다",
       "related_kanji": [
         "絶対",
         "対",
@@ -6037,8 +6250,8 @@
     {
       "surface": "決",
       "onyomi": "ケツ",
-      "kunyomi": "き.める、-ぎ.め、き.まる、さ.く",
-      "meaning": "결정하다, 고치다, 합의하다, 임명하다",
+      "kunyomi": "きめる、きまる",
+      "meaning": "결단할 결, 결정하다(きめる), 정해지다(きまる)",
       "related_kanji": [
         "解決",
         "決定",
@@ -6064,8 +6277,8 @@
     {
       "surface": "変",
       "onyomi": "ヘン",
-      "kunyomi": "か.わる、か.わり、か.える",
-      "meaning": "이상한, 변화",
+      "kunyomi": "かわる、かえる",
+      "meaning": "변할 변, 변화하다(かわる), 변화시키다(かえる)",
       "related_kanji": [
         "変化",
         "変更"
@@ -6085,8 +6298,8 @@
     {
       "surface": "所",
       "onyomi": "ショ",
-      "kunyomi": "ところ、-ところ、どころ、とこ",
-      "meaning": "장소, 범위",
+      "kunyomi": "ところ",
+      "meaning": "바 소, 장소, 범위",
       "related_kanji": [
         "停留所"
       ],
@@ -6101,8 +6314,8 @@
     {
       "surface": "相",
       "onyomi": "ソウ、ショウ",
-      "kunyomi": "あい-",
-      "meaning": "인터-, 상호의, 함께, 서로, 국무장관, 의원, 측면, 단계, 관상학",
+      "kunyomi": "あい",
+      "meaning": "서로 상, 서로, 모양 ,벼슬",
       "related_kanji": [
         "相手",
         "相談",
@@ -6131,8 +6344,8 @@
     {
       "surface": "関",
       "onyomi": "カン",
-      "kunyomi": "せき、-ぜき、かか.わる、からくり、かんぬき",
-      "meaning": "연결, 장벽, 게이트웨이, 포함하다, 관하여",
+      "kunyomi": "せき、かかわる",
+      "meaning": "관계할 관, 관계가 있다(かかわる), 관문(せき)",
       "related_kanji": [
         "機関",
         "関心",
@@ -6159,7 +6372,7 @@
       "surface": "信",
       "onyomi": "シン",
       "kunyomi": "",
-      "meaning": "신앙, 진실, 충실도, 신뢰",
+      "meaning": "믿을 신, 믿다",
       "related_kanji": [
         "信じる",
         "信用",
@@ -6189,7 +6402,7 @@
       "surface": "感",
       "onyomi": "カン",
       "kunyomi": "",
-      "meaning": "감정, 느낌, 감각",
+      "meaning": "느낄 감, 감정, 느낌, 감각",
       "related_kanji": [
         "感じる",
         "感じ",
@@ -6218,8 +6431,8 @@
     {
       "surface": "勝",
       "onyomi": "ショウ",
-      "kunyomi": "か.つ、-が.ち、まさ.る、すぐ.れる、かつ",
-      "meaning": "승리, 우세하다, 엑셀",
+      "kunyomi": "かつ、まさる",
+      "meaning": "이길 승, 이기다(かつ), 우수하다(まさる)",
       "related_kanji": [
         "優勝",
         "勝ち"
@@ -6239,8 +6452,8 @@
     {
       "surface": "解",
       "onyomi": "カイ、ゲ",
-      "kunyomi": "と.く、と.かす、と.ける、ほど.く、ほど.ける、わか.る、さと.る",
-      "meaning": "풀다, 노트, 열쇠, 설명, 이해, 실행 취소, 해결하다, 답변, 취소, 면제하다, 설명하다, 분",
+      "kunyomi": "とく、とける、さとる",
+      "meaning": "풀 해, 풀다, 분해하다, 풀어내다",
       "related_kanji": [
         "理解",
         "解決",
@@ -6269,8 +6482,8 @@
     {
       "surface": "調",
       "onyomi": "チョウ",
-      "kunyomi": "しら.べる、しら.べ、ととの.う、ととの.える",
-      "meaning": "조율하다, 톤, 미터, 조성, 글쓰기 스타일, 준비하다, 퇴마하다, 조사하다, 조화시키다, 중재하다",
+      "kunyomi": "しらべる、ととのう、ととのえる",
+      "meaning": "조절할 조, 갖추어지다(ととのう), 갖추다(ととのえる), 조사하다(しらべる), 운율, 조화",
       "related_kanji": [
         "調子",
         "調査",
@@ -6296,8 +6509,8 @@
     {
       "surface": "初",
       "onyomi": "ショ",
-      "kunyomi": "はじ.め、はじ.めて、はつ、はつ-、うい-、-そ.める、-ぞ.め",
-      "meaning": "첫 번째, 시작",
+      "kunyomi": "はじめ、はじめて、はつ、うい、そめる",
+      "meaning": "처음 초, 첫 번째, 시작, 처음(はじめ), 처음으로(はじめて)",
       "related_kanji": [
         "初めて",
         "最初",
@@ -6323,8 +6536,8 @@
     {
       "surface": "法",
       "onyomi": "ホウ、ハッ、ホッ、フラン",
-      "kunyomi": "のり",
-      "meaning": "방법, 법, 규칙, 원칙, 모델, 시스템",
+      "kunyomi": "-",
+      "meaning": "법 법, 법, 법규, 방법",
       "related_kanji": [
         "方法",
         "法",
@@ -6350,8 +6563,8 @@
     {
       "surface": "違",
       "onyomi": "イ",
-      "kunyomi": "ちが.う、ちが.い、ちが.える、-ちが.える、たが.う、たが.える",
-      "meaning": "차이, 다르다",
+      "kunyomi": "ちがう、ちがえる",
+      "meaning": "어긋날 위, 다르다, 틀리다",
       "related_kanji": [
         "間違い",
         "違い",
@@ -6374,8 +6587,8 @@
     {
       "surface": "現",
       "onyomi": "ゲン",
-      "kunyomi": "あらわ.れる、あらわ.す、うつつ、うつ.つ",
-      "meaning": "선물, 기존의, 실제의",
+      "kunyomi": "あらわれる、あらわす",
+      "meaning": "나타날 현, 나타나다, 드러나다",
       "related_kanji": [
         "現実",
         "現在",
@@ -6404,8 +6617,8 @@
     {
       "surface": "夫",
       "onyomi": "フ、フウ、ブ",
-      "kunyomi": "おっと、それ",
-      "meaning": "남편, 남자",
+      "kunyomi": "おっと",
+      "meaning": "지아비 부, 남편, 성인남성",
       "related_kanji": [
         "夫婦",
         "夫人"
@@ -6426,7 +6639,7 @@
       "surface": "内",
       "onyomi": "ナイ、ダイ",
       "kunyomi": "うち",
-      "meaning": "안에, 내부에, 사이, 가운데, 집",
+      "meaning": "안 내, 안, 내부",
       "related_kanji": [
         "内容",
         "案内"
@@ -6446,8 +6659,8 @@
     {
       "surface": "選",
       "onyomi": "セン",
-      "kunyomi": "えら.ぶ、え.る、よ.る",
-      "meaning": "선출하다, 선택하다, 선호하다",
+      "kunyomi": "えらぶ",
+      "meaning": "고를 선, 고르다, 선택하다",
       "related_kanji": [
         "選手",
         "選択"
@@ -6467,8 +6680,8 @@
     {
       "surface": "次",
       "onyomi": "ジ、シ",
-      "kunyomi": "つ.ぐ、つぎ",
-      "meaning": "다음, 주문, 순서",
+      "kunyomi": "つぐ、つぎ",
+      "meaning": "버금 차, 다음(つぎ), 2번째, 뒤를 잇다(つぐ)",
       "related_kanji": [
         "次第",
         "次々"
@@ -6489,7 +6702,7 @@
       "surface": "機",
       "onyomi": "キ",
       "kunyomi": "はた",
-      "meaning": "직기, 기계 장치, 기계, 비행기, 기회, 효능, 행사",
+      "meaning": "틀 기, 기계, 기회, 베틀",
       "related_kanji": [
         "機械",
         "機能",
@@ -6516,7 +6729,7 @@
       "surface": "面",
       "onyomi": "メン、ベン",
       "kunyomi": "おも、おもて、つら",
-      "meaning": "마스크, 얼굴, 기능, 표면",
+      "meaning": "얼굴 면, 얼굴(おも), 표면, 상판(つら)",
       "related_kanji": [
         "面倒",
         "真面目",
@@ -6545,8 +6758,8 @@
     {
       "surface": "必",
       "onyomi": "ヒツ",
-      "kunyomi": "かなら.ず",
-      "meaning": "항상, 확실한, 불가피한",
+      "kunyomi": "かならず",
+      "meaning": "반드시 필, 반드시",
       "related_kanji": [
         "必死",
         "必ずしも"
@@ -6566,8 +6779,8 @@
     {
       "surface": "定",
       "onyomi": "テイ、ジョウ",
-      "kunyomi": "さだ.める、さだ.まる、さだ.か",
-      "meaning": "결정하다, 고치다, 설립하다",
+      "kunyomi": "さだめる、さだまる、さだか",
+      "meaning": "정할 정, 결정하다(さだめる), 정해지다(さだまる), 명확함(さだか)",
       "related_kanji": [
         "決定",
         "否定",
@@ -6596,8 +6809,8 @@
     {
       "surface": "成",
       "onyomi": "セイ、ジョウ",
-      "kunyomi": "な.る、な.す、-な.す",
-      "meaning": "변하다, 되다, 얻다, 성장하다, 경과하다, 도달하다",
+      "kunyomi": "なる、なす",
+      "meaning": "이룰 성, 이루다(なす), 성취하다(なる)",
       "related_kanji": [
         "成功",
         "完成",
@@ -6626,8 +6839,8 @@
     {
       "surface": "引",
       "onyomi": "イン",
-      "kunyomi": "ひ.く、ひ.ける",
-      "meaning": "당기다, 끌다, 얼간이, 인정하다, 설치하다, 인용문, 참조하다",
+      "kunyomi": "ひく、ひける",
+      "meaning": "끌 인, 당기다",
       "related_kanji": [
         "引っ張る",
         "引退",
@@ -6651,7 +6864,7 @@
       "surface": "声",
       "onyomi": "セイ、ショウ",
       "kunyomi": "こえ、こわ-",
-      "meaning": "목소리",
+      "meaning": "소리 성, 소리",
       "related_kanji": [
         "声",
         "声優",
@@ -6677,8 +6890,8 @@
     {
       "surface": "確",
       "onyomi": "カク、コウ",
-      "kunyomi": "たし.か、たし.かめる",
-      "meaning": "보증, 회사, 꽉 끼는, 어려운, 고체의, 확인하다, 명확한, 명백한",
+      "kunyomi": "たしか、たしかめる",
+      "meaning": "굳을 확, 확실, 확인, 단단한",
       "related_kanji": [
         "確認",
         "確かめる",
@@ -6707,8 +6920,8 @@
     {
       "surface": "続",
       "onyomi": "ゾク、ショク、コウ、キョウ",
-      "kunyomi": "つづ.く、つづ.ける、つぐ.ない",
-      "meaning": "계속하다, 시리즈, 속편",
+      "kunyomi": "つづく、つづける",
+      "meaning": "계속 속, 계속되다(つづく), 계속하다(つづける)",
       "related_kanji": [
         "続き",
         "連続",
@@ -6731,8 +6944,8 @@
     {
       "surface": "向",
       "onyomi": "コウ",
-      "kunyomi": "む.く、む.い、-む.き、む.ける、-む.け、む.かう、む.かい、む.こう、む.こう-、むこ、むか.い",
-      "meaning": "저쪽에, 직면하는, 너머, 직면하다, 거역하다, 향하다, 접근하다",
+      "kunyomi": "むく、むける、むかう、むこう",
+      "meaning": "향할 향, 마음이 내키다(むく), 향해가다(むかう), 향하게 하다(むける), 맞은편(むこう)",
       "related_kanji": [
         "方向",
         "向ける",
@@ -6761,8 +6974,8 @@
     {
       "surface": "受",
       "onyomi": "ジュ",
-      "kunyomi": "う.ける、-う.け、う.かる",
-      "meaning": "수락하다, 겪다, 답변 (전화), 가져가다, 얻다, 잡다, 받다",
+      "kunyomi": "うける、うかる",
+      "meaning": "받을 수, 받다(うける), 합격하다(うかる)",
       "related_kanji": [
         "受け取る"
       ],
@@ -6779,8 +6992,8 @@
     {
       "surface": "約",
       "onyomi": "ヤク",
-      "kunyomi": "つづ.まる、つづ.める、つづま.やか",
-      "meaning": "약속, 대략적으로, 줄어들다",
+      "kunyomi": "-",
+      "meaning": "맺을 약, 약속하다",
       "related_kanji": [
         "契約",
         "約",
@@ -6806,8 +7019,8 @@
     {
       "surface": "報",
       "onyomi": "ホウ",
-      "kunyomi": "むく.いる",
-      "meaning": "보고서, 뉴스, 보상, 응보",
+      "kunyomi": "むくいる",
+      "meaning": "갚을/알릴 보, 갚다, 알리다",
       "related_kanji": [
         "情報",
         "報告",
@@ -6830,8 +7043,8 @@
     {
       "surface": "平",
       "onyomi": "ヘイ、ビョウ、ヒョウ",
-      "kunyomi": "たい.ら、たい.らげる、ひら",
-      "meaning": "심지어, 평평한, 평화",
+      "kunyomi": "たいら、ひら",
+      "meaning": "평평할 평, 평평하다, 평평함(たいら)",
       "related_kanji": [
         "平和",
         "地平線",
@@ -6860,8 +7073,8 @@
     {
       "surface": "数",
       "onyomi": "スウ、ス、サク、ソク、シュ",
-      "kunyomi": "かず、かぞ.える、しばしば、せ.める、わずらわ.しい",
-      "meaning": "숫자, 힘, 운명, 법, 수치",
+      "kunyomi": "かず、かぞえる",
+      "meaning": "셀 수, 수(かず), 셈하다(かぞえる)",
       "related_kanji": [
         "数",
         "数",
@@ -6887,8 +7100,8 @@
     {
       "surface": "好",
       "onyomi": "コウ",
-      "kunyomi": "この.む、す.く、よ.い、い.い",
-      "meaning": "애정이 있는, 유쾌한, 무언가를 좋아하다",
+      "kunyomi": "このむ、すく",
+      "meaning": "좋을 호, 사랑하다, 좋아하다",
       "related_kanji": [
         "格好",
         "好み",
@@ -6911,8 +7124,8 @@
     {
       "surface": "番",
       "onyomi": "バン",
-      "kunyomi": "つが.い",
-      "meaning": "돌다, 연속적인 번호",
+      "kunyomi": "",
+      "meaning": "차례 번, 차례",
       "related_kanji": [
         "番",
         "順番"
@@ -6932,8 +7145,8 @@
     {
       "surface": "神",
       "onyomi": "シン、ジン",
-      "kunyomi": "かみ、かん-、こう-",
-      "meaning": "신들, 마음, 영혼",
+      "kunyomi": "かみ、かん、こう",
+      "meaning": "귀신 신, 신(かみ), 정신",
       "related_kanji": [
         "神",
         "精神",
@@ -6956,8 +7169,8 @@
     {
       "surface": "直",
       "onyomi": "チョク、ジキ、ジカ",
-      "kunyomi": "ただ.ちに、なお.す、-なお.す、なお.る、なお.き、す.ぐ",
-      "meaning": "즉시, 정직, 솔직함, 고치다, 수리",
+      "kunyomi": "ただ.ちに、なおす、なおる",
+      "meaning": "곧을 직, 곧은, 직선의, 바로잡다(なおす), 바로잡히다(なおる), 즉시(ただちに)",
       "related_kanji": [
         "正直",
         "直接",
@@ -6983,8 +7196,8 @@
     {
       "surface": "任",
       "onyomi": "ニン",
-      "kunyomi": "まか.せる、まか.す",
-      "meaning": "책임, 의무, 용어, 위임하다, 임명하다",
+      "kunyomi": "まかせる、まかす",
+      "meaning": "맡길 임, 맡기다, 일임하다",
       "related_kanji": [
         "責任",
         "任せる"
@@ -7004,8 +7217,8 @@
     {
       "surface": "情",
       "onyomi": "ジョウ、セイ",
-      "kunyomi": "なさ.け",
-      "meaning": "감정, 열정, 동정, 상황, 사실",
+      "kunyomi": "なさけ",
+      "meaning": "뜻 정, 정, 정서, 마음",
       "related_kanji": [
         "情報",
         "感情",
@@ -7034,8 +7247,8 @@
     {
       "surface": "様",
       "onyomi": "ヨウ、ショウ",
-      "kunyomi": "さま、さん",
-      "meaning": "변호사, 길, 매너, 상황, 존칭 접미사",
+      "kunyomi": "さま",
+      "meaning": "모양 양, 모양, 모습, 형태, 양식",
       "related_kanji": [
         "様子",
         "王様",
@@ -7064,8 +7277,8 @@
     {
       "surface": "件",
       "onyomi": "ケン",
-      "kunyomi": "くだん",
-      "meaning": "사건, 케이스, 물질, 아이템",
+      "kunyomi": "-",
+      "meaning": "물건 건, 사건, 낱개, 건수",
       "related_kanji": [
         "事件",
         "条件"
@@ -7085,8 +7298,8 @@
     {
       "surface": "助",
       "onyomi": "ジョ",
-      "kunyomi": "たす.ける、たす.かる、す.ける、すけ",
-      "meaning": "도움, 구조, 돕다",
+      "kunyomi": "たすける、たすかる、すけ",
+      "meaning": "도울 조, 돕다(たすける), 구조되다(たすかる), 도움(すけ)",
       "related_kanji": [
         "助ける",
         "助手",
@@ -7112,8 +7325,8 @@
     {
       "surface": "化",
       "onyomi": "カ、ケ",
-      "kunyomi": "ば.ける、ば.かす、ふ.ける、け.する",
-      "meaning": "변화, 형태를 취하다, 영향, 매혹하다, 속이다, -화",
+      "kunyomi": "ばける、ばかす",
+      "meaning": "될 화, 속이다(ばかす), 변하다(ばける)",
       "related_kanji": [
         "変化",
         "化粧"
@@ -7133,8 +7346,8 @@
     {
       "surface": "供",
       "onyomi": "キョウ、ク、クウ、グ",
-      "kunyomi": "そな.える、とも、-ども",
-      "meaning": "제출하다, 제공하다, 현재, 동반하다",
+      "kunyomi": "そなえる、とも",
+      "meaning": "이바지할 공, 바치다, 제공하다, 올리다",
       "related_kanji": [
         "供給"
       ],
@@ -7151,8 +7364,8 @@
     {
       "surface": "記",
       "onyomi": "キ",
-      "kunyomi": "しる.す",
-      "meaning": "서기, 계정, 서사",
+      "kunyomi": "しるす",
+      "meaning": "기록할 기, 기록, 기억, 적다(しるす)",
       "related_kanji": [
         "記憶",
         "記録",
@@ -7182,7 +7395,7 @@
       "surface": "指",
       "onyomi": "シ",
       "kunyomi": "ゆび、さ.す、-さ.し",
-      "meaning": "손가락, 가리키다, 나타내다, 넣다, 체스 두다, 자尺",
+      "meaning": "가리킬 지, 손가락(ゆび), 가리키다(さす)",
       "related_kanji": [
         "指す"
       ],
@@ -7199,8 +7412,8 @@
     {
       "surface": "配",
       "onyomi": "ハイ",
-      "kunyomi": "くば.る",
-      "meaning": "배포하다, 배우자, 망명, 배급",
+      "kunyomi": "くばる",
+      "meaning": "짝 배, 부부, 배포하다(くばる)",
       "related_kanji": [
         "心配",
         "支配",
@@ -7223,8 +7436,8 @@
     {
       "surface": "務",
       "onyomi": "ム",
-      "kunyomi": "つと.める",
-      "meaning": "작업, 의무",
+      "kunyomi": "つとめる",
+      "meaning": "힘쓸 무, 힘쓰다, 종사하다",
       "related_kanji": [
         "義務",
         "事務"
@@ -7244,8 +7457,8 @@
     {
       "surface": "残",
       "onyomi": "ザン、サン",
-      "kunyomi": "のこ.る、のこ.す、そこな.う、のこ.り",
-      "meaning": "나머지, 남은 음식, 균형",
+      "kunyomi": "のこる、のこす",
+      "meaning": "남을 잔, 잔혹하다, 남기다(のこす), 남다(のこる)",
       "related_kanji": [
         "残す",
         "残り"
@@ -7265,8 +7478,8 @@
     {
       "surface": "彼",
       "onyomi": "ヒ",
-      "kunyomi": "かれ、かの、か.の",
-      "meaning": "그, 그것",
+      "kunyomi": "かれ、かの",
+      "meaning": "저 피, 상대방, 저쪽",
       "related_kanji": [
         "彼ら"
       ],
@@ -7283,8 +7496,8 @@
     {
       "surface": "得",
       "onyomi": "トク",
-      "kunyomi": "え.る、う.る",
-      "meaning": "얻다, 찾다, 벌다, 획득하다, 할 수 있다, 5월, 할 수 있는, 이익, 이점",
+      "kunyomi": "える、うる",
+      "meaning": "얻을 득, 얻다(える), 획득하다",
       "related_kanji": [
         "得る",
         "得意",
@@ -7310,8 +7523,8 @@
     {
       "surface": "落",
       "onyomi": "ラク",
-      "kunyomi": "お.ちる、お.ち、お.とす",
-      "meaning": "가을, 떨어뜨리다, 내려오다, 마을, 햄릿",
+      "kunyomi": "おちる、おとす",
+      "meaning": "떨어질 락, 떨어지다(おちる), 떨어뜨리다(おとす)",
       "related_kanji": [
         "落ちる",
         "落下",
@@ -7337,8 +7550,8 @@
     {
       "surface": "警",
       "onyomi": "ケイ",
-      "kunyomi": "いまし.める",
-      "meaning": "꾸짖다, 계명",
+      "kunyomi": "-",
+      "meaning": "경계할 경, 경계하다, 조심하다",
       "related_kanji": [
         "警告"
       ],
@@ -7355,8 +7568,8 @@
     {
       "surface": "組",
       "onyomi": "ソ",
-      "kunyomi": "く.む、くみ、-ぐみ",
-      "meaning": "협회, 땋다, 구성하다, 조립하다, 결합하다, 협력하다, 붙잡다",
+      "kunyomi": "くむ、くみ",
+      "meaning": "짤 조, 조직, 조직하다(くむ",
       "related_kanji": [
         "組",
         "組織",
@@ -7383,7 +7596,7 @@
       "surface": "原",
       "onyomi": "ゲン",
       "kunyomi": "はら",
-      "meaning": "초원, 원본, 원시적인, 들판, 평원, 프레리, 툰드라, 황무지",
+      "meaning": "근원 원, 근원, 들판(はら)",
       "related_kanji": [
         "原"
       ],
@@ -7400,8 +7613,8 @@
     {
       "surface": "殺",
       "onyomi": "サツ、サイ、セツ",
-      "kunyomi": "ころ.す、-ごろ.し、そ.ぐ",
-      "meaning": "죽이다, 살인, 정육점 주인, 잘라내다, 나누다, 줄이다, 스포일",
+      "kunyomi": "ころす",
+      "meaning": "죽일 살, 죽이다, 덜다",
       "related_kanji": [
         "殺す",
         "自殺"
@@ -7421,8 +7634,8 @@
     {
       "surface": "失",
       "onyomi": "シツ",
-      "kunyomi": "うしな.う、う.せる",
-      "meaning": "잃다, 오류, 결함, 단점, 손실",
+      "kunyomi": "うしなう",
+      "meaning": "잃을 실, 잃다(うしなう)",
       "related_kanji": [
         "失う",
         "失望",
@@ -7445,8 +7658,8 @@
     {
       "surface": "能",
       "onyomi": "ノウ",
-      "kunyomi": "よ.く、あた.う",
-      "meaning": "능력, 재능, 기술, 용량",
+      "kunyomi": "-",
+      "meaning": "능할 능, 능력",
       "related_kanji": [
         "能力",
         "才能",
@@ -7475,8 +7688,8 @@
     {
       "surface": "係",
       "onyomi": "ケイ",
-      "kunyomi": "かか.る、かかり、-がかり、かか.わる",
-      "meaning": "담당자, 연결, 의무, 관여하다",
+      "kunyomi": "かかる、かかり",
+      "meaning": "맬 계, 관련되다(かかる), 관계, 담당(かかり)",
       "related_kanji": [
         "係"
       ],
@@ -7493,8 +7706,8 @@
     {
       "surface": "進",
       "onyomi": "シン",
-      "kunyomi": "すす.む、すす.める",
-      "meaning": "전진, 진행하다, 진행, 홍보하다",
+      "kunyomi": "すすむ、すすめる",
+      "meaning": "나아갈 진, 나아가다, 올라가다",
       "related_kanji": [
         "進める",
         "前進",
@@ -7520,8 +7733,8 @@
     {
       "surface": "経",
       "onyomi": "ケイ、キョウ、キン",
-      "kunyomi": "へ.る、た.つ、たていと、はか.る、のり",
-      "meaning": "수트라, 경도, 통과하다, 만료되다, 왜곡",
+      "kunyomi": "へる",
+      "meaning": "지날 경, 경로, 경도, 경전",
       "related_kanji": [
         "経験",
         "経つ",
@@ -7550,8 +7763,8 @@
     {
       "surface": "美",
       "onyomi": "ビ、ミ",
-      "kunyomi": "うつく.しい",
-      "meaning": "아름다움, 아름다운",
+      "kunyomi": "うつくしい",
+      "meaning": "아름다울 미, 아름다운",
       "related_kanji": [
         "美人"
       ],
@@ -7568,8 +7781,8 @@
     {
       "surface": "表",
       "onyomi": "ヒョウ",
-      "kunyomi": "おもて、-おもて、あらわ.す、あらわ.れる、あら.わす",
-      "meaning": "표면, 테이블, 차트, 도표",
+      "kunyomi": "おもて、あらわす、あらわれる",
+      "meaning": "겉 표, 표면(おもて), 나타내다(あらわす), 드러나다(あらわれる)",
       "related_kanji": [
         "発表",
         "表現",
@@ -7598,8 +7811,8 @@
     {
       "surface": "付",
       "onyomi": "フ",
-      "kunyomi": "つ.ける、-つ.ける、-づ.ける、つ.け、つ.け-、-つ.け、-づ.け、-づけ、つ.く、-づ.く、つ.き、-つ.き、-つき、-づ.き、-づき",
-      "meaning": "부착하다, 첨부하다, 참조하다, 추가하다",
+      "kunyomi": "つける、つく",
+      "meaning": "줄 부、주다, 붙이다（つける）,붙다（つく） 、첨부",
       "related_kanji": [
         "寄付",
         "付き合い",
@@ -7622,8 +7835,8 @@
     {
       "surface": "利",
       "onyomi": "リ",
-      "kunyomi": "き.く",
-      "meaning": "이익, 이점",
+      "kunyomi": "きく",
+      "meaning": "이로울 리, 이득, 이롭다, 잘움직이다(きく)",
       "related_kanji": [
         "権利",
         "利益",
@@ -7652,8 +7865,8 @@
     {
       "surface": "伝",
       "onyomi": "デン、テン",
-      "kunyomi": "つた.わる、つた.える、つた.う、つだ.う、-づた.い、つて",
-      "meaning": "전송하다, 따라가다, 따라 걷다, 따르다, 보고서, 소통하다, 전설, 전통",
+      "kunyomi": "つたわる、つたえる、つたう",
+      "meaning": "전할 전, 전하다(つたえる), 알리다, 전설, 전해지다(つたわる), 따라 움직이다(つたう)",
       "related_kanji": [
         "伝統",
         "手伝い"
@@ -7674,7 +7887,7 @@
       "surface": "加",
       "onyomi": "カ",
       "kunyomi": "くわ.える、くわ.わる",
-      "meaning": "추가하다, 덧셈, 증가, 가입하다, 포함하다, 캐나다",
+      "meaning": "더할 가, 더하다(くわえる), 더해지다(くわわる)",
       "related_kanji": [
         "参加",
         "加える",
@@ -7703,8 +7916,8 @@
     {
       "surface": "反",
       "onyomi": "ハン、ホン、タン、ホ",
-      "kunyomi": "そ.る、そ.らす、かえ.す、かえ.る、-かえ.る",
-      "meaning": "반-",
+      "kunyomi": "そる、そらす",
+      "meaning": "돌이킬 반, 돌이키다, 뒤집다, 휘다(そる), 휘게하다(そらす) 반대",
       "related_kanji": [
         "違反",
         "反抗"
@@ -7724,8 +7937,8 @@
     {
       "surface": "過",
       "onyomi": "カ",
-      "kunyomi": "す.ぎる、す.ごす、あやま.ち、あやま.つ、よぎ.る、よ.ぎる",
-      "meaning": "과도하게 하다, 초과하다, 넘어서다, 오류",
+      "kunyomi": "すぎる、すごす、あやまち、あやまつ",
+      "meaning": "지날 과, 넘치다, 지나치다, 잘못, 죄",
       "related_kanji": [
         "過去",
         "過ごす",
@@ -7751,8 +7964,8 @@
     {
       "surface": "然",
       "onyomi": "ゼン、ネン",
-      "kunyomi": "しか、しか.り、しか.し、さ",
-      "meaning": "종류, 그래서, 만약 그렇다면, 그 경우에는, 잘",
+      "kunyomi": "-",
+      "meaning": "그럴 연, 그와 같이, 그대로",
       "related_kanji": [
         "全然",
         "突然",
@@ -7781,8 +7994,8 @@
     {
       "surface": "置",
       "onyomi": "チ",
-      "kunyomi": "お.く、-お.き",
-      "meaning": "배치, 놓다, 세트, 예금, 남겨두다, 유지하다, 고용하다, 폰",
+      "kunyomi": "おく",
+      "meaning": "둘 치, 두다, 놓다 ,배치하다",
       "related_kanji": [
         "装置",
         "位置"
@@ -7803,7 +8016,7 @@
       "surface": "官",
       "onyomi": "カン",
       "kunyomi": "",
-      "meaning": "관료, 정부, 기관",
+      "meaning": "벼슬 관, 정부, 관청",
       "related_kanji": [
         "官庁",
         "官僚",
@@ -7830,7 +8043,7 @@
       "surface": "命",
       "onyomi": "メイ、ミョウ",
       "kunyomi": "いのち",
-      "meaning": "운명, 명령, 법령, 삶, 임명하다",
+      "meaning": "목숨 명, 목숨, 명령",
       "related_kanji": [
         "命",
         "命令",
@@ -7856,8 +8069,8 @@
     {
       "surface": "由",
       "onyomi": "ユ、ユウ、ユイ",
-      "kunyomi": "よし、よ.る",
-      "meaning": "왜, 이유",
+      "kunyomi": "よし",
+      "meaning": "말미암을 유, 이유(よし)",
       "related_kanji": [
         "経由"
       ],
@@ -7874,8 +8087,8 @@
     {
       "surface": "認",
       "onyomi": "ニン",
-      "kunyomi": "みと.める、したた.める",
-      "meaning": "인정하다, 증인, 식별하다, 인식하다, 감사하다, 믿다",
+      "kunyomi": "みとめる",
+      "meaning": "알 인, 인정하다, 인식하다",
       "related_kanji": [
         "確認",
         "認める",
@@ -7898,8 +8111,8 @@
     {
       "surface": "点",
       "onyomi": "テン",
-      "kunyomi": "つ.ける、つ.く、た.てる、さ.す、とぼ.す、とも.す、ぼち",
-      "meaning": "장소, 점, 표시, 작은 얼룩, 소수점",
+      "kunyomi": "-",
+      "meaning": "점 점, 점",
       "related_kanji": [
         "要点",
         "欠点"
@@ -7919,8 +8132,8 @@
     {
       "surface": "放",
       "onyomi": "ホウ",
-      "kunyomi": "はな.す、-っぱな.し、はな.つ、はな.れる、こ.く、ほう.る",
-      "meaning": "석방하다, 출시, 불, 쏘다, 방출하다, 추방하다, 해방하다",
+      "kunyomi": "はなす、はなつ、はなれる、ほうる",
+      "meaning": "놓을 방, 놓아주다(はなす はなつ) , 놓이다(はなれる), 방치하다, 집어던지다(ほうる)",
       "related_kanji": [
         "放す",
         "放送"
@@ -7941,7 +8154,7 @@
       "surface": "期",
       "onyomi": "キ、ゴ",
       "kunyomi": "",
-      "meaning": "기간, 시간, 날짜, 용어",
+      "meaning": "기약할 기, 시기, 때",
       "related_kanji": [
         "期待",
         "時期",
@@ -7970,8 +8183,8 @@
     {
       "surface": "優",
       "onyomi": "ユウ、ウ",
-      "kunyomi": "やさ.しい、すぐ.れる、まさ.る",
-      "meaning": "부드러움, 엑셀, 능가하다, 배우, 우월성, 온화함",
+      "kunyomi": "やさしい、すぐれる",
+      "meaning": "넉넉할/뛰어날 우, 뛰어난, 우아한, 상냥한",
       "related_kanji": [
         "優勝",
         "優秀",
@@ -8000,8 +8213,8 @@
     {
       "surface": "告",
       "onyomi": "コク",
-      "kunyomi": "つ.げる",
-      "meaning": "계시, 말하다, 알리다, 발표하다",
+      "kunyomi": "つげる",
+      "meaning": "고할 고, 알리다(つげる), 보고하다",
       "related_kanji": [
         "報告",
         "警告",
@@ -8025,7 +8238,7 @@
       "surface": "民",
       "onyomi": "ミン",
       "kunyomi": "たみ",
-      "meaning": "사람들, 국가, 과목들",
+      "meaning": "백성 민, 국민, 민족",
       "related_kanji": [
         "住民",
         "農民"
@@ -8046,7 +8259,7 @@
       "surface": "議",
       "onyomi": "ギ",
       "kunyomi": "",
-      "meaning": "심의, 상담, 토론, 고려",
+      "meaning": "의논할 의, 의논하다, 상의하다",
       "related_kanji": [
         "不思議",
         "議員",
@@ -8075,8 +8288,8 @@
     {
       "surface": "治",
       "onyomi": "ジ、チ",
-      "kunyomi": "おさ.める、おさ.まる、なお.る、なお.す",
-      "meaning": "통치, 평화롭게 지내다, 진정해, 진압하다, 정부, 치료, 치유하다, 규칙, 보존하다",
+      "kunyomi": "おさめる、おさまる、なおる、なおす",
+      "meaning": "다스릴 치, 다스리다(おさめる), 진정되다(おさまる), 치료하다(なおす), 치료되다(なおる)",
       "related_kanji": [
         "治る",
         "政治",
@@ -8102,8 +8315,8 @@
     {
       "surface": "乗",
       "onyomi": "ジョウ、ショウ",
-      "kunyomi": "の.る、-の.り、の.せる",
-      "meaning": "타다, 힘, 곱셈, 기록, 대수, 보드, 산, 가입하다",
+      "kunyomi": "のる、のせる",
+      "meaning": "탈 승, 타다, 태우다",
       "related_kanji": [
         "乗せる",
         "乗客"
@@ -8123,8 +8336,8 @@
     {
       "surface": "達",
       "onyomi": "タツ、ダ",
-      "kunyomi": "-たち",
-      "meaning": "성취한, 도달하다, 도착하다, 달성하다",
+      "kunyomi": "-",
+      "meaning": "통달할 달, 통달하다, 달성하다, 도달하다",
       "related_kanji": [
         "発達",
         "達する",
@@ -8151,7 +8364,7 @@
       "surface": "状",
       "onyomi": "ジョウ",
       "kunyomi": "",
-      "meaning": "현상 유지, 조건, 상황, 형태, 외모",
+      "meaning": "형상 상, 상황, 문서",
       "related_kanji": [
         "状況",
         "状態",
@@ -8177,8 +8390,8 @@
     {
       "surface": "予",
       "onyomi": "ヨ、シャ",
-      "kunyomi": "あらかじ.め",
-      "meaning": "미리, 이전, 자신, 나",
+      "kunyomi": "-",
+      "meaning": "미리 예 , 미리, 사전에",
       "related_kanji": [
         "予測",
         "予防",
@@ -8204,8 +8417,8 @@
     {
       "surface": "消",
       "onyomi": "ショウ",
-      "kunyomi": "き.える、け.す",
-      "meaning": "끄다, 불어 끄다, 중화하다, 취소하다",
+      "kunyomi": "きえる、けす",
+      "meaning": "사라질 소, 사라지다(きえる), 끄다(けす)",
       "related_kanji": [
         "消防",
         "消費"
@@ -8225,8 +8438,8 @@
     {
       "surface": "活",
       "onyomi": "カツ",
-      "kunyomi": "い.きる、い.かす、い.ける",
-      "meaning": "활기찬, 소생술, 도움을 받는, 생활",
+      "kunyomi": "-",
+      "meaning": "살 활, 활력, 생기, 활동",
       "related_kanji": [
         "活動",
         "活気",
@@ -8249,8 +8462,8 @@
     {
       "surface": "果",
       "onyomi": "カ",
-      "kunyomi": "は.たす、はた.す、-は.たす、は.てる、-は.てる、は.て",
-      "meaning": "과일, 보상, 수행하다, 달성하다, 완성하다, 끝, 끝내다, 성공하다",
+      "kunyomi": "はたす、はてる、はて",
+      "meaning": "열매 과, 열매, 결과, 결실, 끝나다(はてる), 완수하다(はたす), 끝(はて)",
       "related_kanji": [
         "結果",
         "効果"
@@ -8270,8 +8483,8 @@
     {
       "surface": "備",
       "onyomi": "ビ",
-      "kunyomi": "そな.える、そな.わる、つぶさ.に",
-      "meaning": "장비하다, 조항, 준비",
+      "kunyomi": "そなえる、そなわる",
+      "meaning": "갖출 비, 준비하다, 갖추다",
       "related_kanji": [
         "準備",
         "備える"
@@ -8291,8 +8504,8 @@
     {
       "surface": "流",
       "onyomi": "リュウ、ル",
-      "kunyomi": "なが.れる、なが.れ、なが.す、-なが.す",
-      "meaning": "현재, 싱크대, 흐름, 몰수하다",
+      "kunyomi": "ながれる、ながす",
+      "meaning": "흐를 류, 흐르다(ながれる), 흐름, 흘리다(ながす)",
       "related_kanji": [
         "流す",
         "流れる",
@@ -8318,8 +8531,8 @@
     {
       "surface": "守",
       "onyomi": "シュ、ス",
-      "kunyomi": "まも.る、まも.り、もり、-もり、かみ",
-      "meaning": "경비원, 보호하다, 방어하다, 복종하다",
+      "kunyomi": "まもる、もり",
+      "meaning": "지킬 수, 지키다",
       "related_kanji": [
         "守る"
       ],
@@ -8336,8 +8549,8 @@
     {
       "surface": "愛",
       "onyomi": "アイ",
-      "kunyomi": "いと.しい、かな.しい、め.でる、お.しむ、まな",
-      "meaning": "사랑, 애정, 좋아하는",
+      "kunyomi": "-",
+      "meaning": "사랑 애, 사랑",
       "related_kanji": [
         "愛",
         "愛する",
@@ -8360,8 +8573,8 @@
     {
       "surface": "呼",
       "onyomi": "コ",
-      "kunyomi": "よ.ぶ",
-      "meaning": "전화하다, 호명하다, 초대하다",
+      "kunyomi": "よぶ",
+      "meaning": "부를 호, 부르다, 호출하다",
       "related_kanji": [
         "呼吸"
       ],
@@ -8499,7 +8712,7 @@
       "surface": "役",
       "onyomi": "ヤク、エキ",
       "kunyomi": "",
-      "meaning": "의무, 전쟁, 캠페인, 징발 노동, 사무실, 서비스, 역할",
+      "meaning": "부릴 역、역할、노역",
       "related_kanji": [
         "役",
         "役割"
@@ -8519,8 +8732,8 @@
     {
       "surface": "負",
       "onyomi": "フ",
-      "kunyomi": "ま.ける、ま.かす、お.う",
-      "meaning": "패배, 부정적인, -, 마이너스, 곰, 빚지다, 책임을 맡다",
+      "kunyomi": "まける、まかす、おう",
+      "meaning": "질 부, 패배하다(まける), 부담하다(おう)",
       "related_kanji": [
         "負け"
       ],
@@ -8537,8 +8750,8 @@
     {
       "surface": "追",
       "onyomi": "ツイ",
-      "kunyomi": "お.う",
-      "meaning": "추격하다, 몰아내다, 따르다, 추구하다, 그 동안에",
+      "kunyomi": "おう",
+      "meaning": "쫓을 추, 쫓다, 추구하다(おう)",
       "related_kanji": [
         "追う",
         "追いつく"
@@ -8583,7 +8796,7 @@
       "surface": "他",
       "onyomi": "タ",
       "kunyomi": "ほか",
-      "meaning": "다른, 또 다른, 다른 사람들",
+      "meaning": "다를 타, 다른, 남, 다른것(ほか)",
       "related_kanji": [
         "他",
         "他人"
@@ -8622,7 +8835,7 @@
       "surface": "葉",
       "onyomi": "ヨウ",
       "kunyomi": "は",
-      "meaning": "잎, 비행기, 엽, 바늘, 날카로운 부분, 창, 장, 파편, 조각",
+      "meaning": "잎 엽, 잎, 나뭇잎",
       "related_kanji": [
         "葉",
         "言葉",
@@ -8666,8 +8879,8 @@
     {
       "surface": "君",
       "onyomi": "クン",
-      "kunyomi": "きみ、-ぎみ",
-      "meaning": "미스터, 너, 자\n, 남성 이름 접미사",
+      "kunyomi": "きみ",
+      "meaning": "임금 군, 군주, 임금, 당신(きみ)",
       "related_kanji": [
         "君",
         "君主",
@@ -8717,8 +8930,8 @@
     {
       "surface": "和",
       "onyomi": "ワ、オ、カ",
-      "kunyomi": "やわ.らぐ、やわ.らげる、なご.む、なご.やか、あ.える",
-      "meaning": "조화, 일본식, 평화, 부드럽게 하다, 일본",
+      "kunyomi": "やわらぐ、やわらげる、なごむ、なごやか",
+      "meaning": "화목할 화, 온화, 화목, 조화, 일본, 누그러지다(やわらぐ), 누그러뜨리다(やわらげる), 온화해지다(なごむ)",
       "related_kanji": [
         "平和"
       ],
@@ -8736,7 +8949,7 @@
       "surface": "王",
       "onyomi": "オウ、-ノウ",
       "kunyomi": "",
-      "meaning": "왕, 규칙, 거물",
+      "meaning": "임금 왕, 왕",
       "related_kanji": [
         "王",
         "王子",
@@ -8855,8 +9068,8 @@
     {
       "surface": "交",
       "onyomi": "コウ",
-      "kunyomi": "まじ.わる、まじ.える、ま.じる、まじ.る、ま.ざる、ま.ぜる、-か.う、か.わす、かわ.す、こもごも",
-      "meaning": "어울리다, 혼합, 협회, 오고 가는",
+      "kunyomi": "まじわる、まじえる、まじる、まじる、まざる、まぜる、かう、かわす",
+      "meaning": "사귈 교, 사귀다(まじわる), 섞다(まじえる), 섞이다(まじる), 서로~하다(かう), 주고받다(かわす), 바뀌다, 교차하다",
       "related_kanji": [
         "交換",
         "交際",
@@ -8880,7 +9093,7 @@
       "surface": "察",
       "onyomi": "サツ",
       "kunyomi": "",
-      "meaning": "추측하다, 추정하다, 추측, 판사, 이해하다",
+      "meaning": "살필 찰, 살피다, 고찰",
       "related_kanji": [
         "観察",
         "診察"
@@ -8918,8 +9131,8 @@
     {
       "surface": "想",
       "onyomi": "ソウ、ソ",
-      "kunyomi": "おも.う",
-      "meaning": "개념, 생각하다, 아이디어, 생각",
+      "kunyomi": "-",
+      "meaning": "생각 상, 생각, 상상, 구상",
       "related_kanji": [
         "想像",
         "理想",
@@ -8978,8 +9191,8 @@
     {
       "surface": "望",
       "onyomi": "ボウ、モウ",
-      "kunyomi": "のぞ.む、もち",
-      "meaning": "야망, 보름달, 희망, 욕망, 열망하다, 기대하다",
+      "kunyomi": "のぞむ",
+      "meaning": "바랄 망, 바라다",
       "related_kanji": [
         "望む",
         "希望",
@@ -9005,8 +9218,8 @@
     {
       "surface": "打",
       "onyomi": "ダ、ダース",
-      "kunyomi": "う.つ、う.ち-、ぶ.つ",
-      "meaning": "파업, 치다, 노크하다, 파운드, 다스",
+      "kunyomi": "うつ",
+      "meaning": "칠 타, 치다(うつ), 두드리다, 때리다",
       "related_kanji": [
         "打つ"
       ],
@@ -9042,7 +9255,7 @@
       "surface": "談",
       "onyomi": "ダン",
       "kunyomi": "",
-      "meaning": "논의하다, 말하다",
+      "meaning": "말씀 담, 이야기하다, 담화",
       "related_kanji": [
         "冗談",
         "相談"
@@ -9062,8 +9275,8 @@
     {
       "surface": "共",
       "onyomi": "キョウ",
-      "kunyomi": "とも、とも.に、-ども",
-      "meaning": "함께, 둘 다, 어느 쪽도 아니다, 모두, 그리고, 비슷한",
+      "kunyomi": "とも",
+      "meaning": "함께 공, 함께, 같이(ともに)",
       "related_kanji": [
         "共に",
         "共同",
@@ -9131,8 +9344,8 @@
     {
       "surface": "位",
       "onyomi": "イ",
-      "kunyomi": "くらい、ぐらい",
-      "meaning": "순위, 등급, 왕좌, 왕관, 약, 일부",
+      "kunyomi": "くらい",
+      "meaning": "자리 위, 지위, 계급",
       "related_kanji": [
         "位置",
         "位",
@@ -9159,7 +9372,7 @@
       "surface": "式",
       "onyomi": "シキ",
       "kunyomi": "",
-      "meaning": "스타일, 의식, 함수, 방법, 시스템, 형식, 표현",
+      "meaning": "법 식, 방식, 형식",
       "related_kanji": [
         "式",
         "正式"
@@ -9197,8 +9410,8 @@
     {
       "surface": "覚",
       "onyomi": "カク",
-      "kunyomi": "おぼ.える、さ.ます、さ.める、さと.る",
-      "meaning": "암기하다, 배우다, 기억하다, 깨어있는, 술이 깨다",
+      "kunyomi": "おぼえる、さます、さめる",
+      "meaning": "깨달을 각, 꺠우다(さます), 눈뜨다(さめる), 기억하다(おぼえる)",
       "related_kanji": [
         "覚悟",
         "覚ます",
@@ -9221,8 +9434,8 @@
     {
       "surface": "飛",
       "onyomi": "ヒ",
-      "kunyomi": "と.ぶ、と.ばす、-と.ばす",
-      "meaning": "날다, 건너뛰기 (페이지), 흩어지다",
+      "kunyomi": "とぶ、とばす",
+      "meaning": "날 비, 날다(とぶ), 날리다(とばす)", 
       "related_kanji": [
         "飛ばす",
         "飛び出す",
@@ -9245,8 +9458,8 @@
     {
       "surface": "返",
       "onyomi": "ヘン",
-      "kunyomi": "かえ.す、-かえ.す、かえ.る、-かえ.る",
-      "meaning": "반환, 답변, 사라지다, 갚다",
+      "kunyomi": "かえす、かえる",
+      "meaning": "돌이킬 반, 되돌리다(かえす), 되돌아가다(かえる)반사하다, 깊다",
       "related_kanji": [
         "繰り返す"
       ],
@@ -9264,7 +9477,7 @@
       "surface": "念",
       "onyomi": "ネン",
       "kunyomi": "",
-      "meaning": "소원, 감각, 아이디어, 생각, 느낌, 욕망, 주의",
+      "meaning": "생각 념, 생각, 사념",
       "related_kanji": [
         "記念"
       ],
@@ -9300,7 +9513,7 @@
       "surface": "客",
       "onyomi": "キャク、カク",
       "kunyomi": "",
-      "meaning": "손님, 방문자, 고객, 클라이언트",
+      "meaning": "손님 객, 손님",
       "related_kanji": [
         "観客",
         "乗客"
@@ -9321,7 +9534,7 @@
       "surface": "格",
       "onyomi": "カク、コウ、キャク、ゴウ",
       "kunyomi": "",
-      "meaning": "상태, 순위, 용량, 캐릭터, 사례 (법률, 문법)",
+      "meaning": "격식 격, 격, 지위, 신분",
       "related_kanji": [
         "格好",
         "性格",
@@ -9413,8 +9626,8 @@
     {
       "surface": "良",
       "onyomi": "リョウ",
-      "kunyomi": "よ.い、-よ.い、い.い、-い.い",
-      "meaning": "좋은, 유쾌한, 숙련된",
+      "kunyomi": "よい",
+      "meaning": "어질 량, 좋다",
       "related_kanji": [
         "良い",
         "良心",
@@ -9440,8 +9653,8 @@
     {
       "surface": "投",
       "onyomi": "トウ",
-      "kunyomi": "な.げる、-な.げ",
-      "meaning": "던지다, 버리다, 시작하다, 가입하다, 투자하다, 포기하다, 손해를 보고 팔다",
+      "kunyomi": "なげる",
+      "meaning": "던질 투, 던지다(なげる)",
       "related_kanji": [
         "投票"
       ],
@@ -9477,7 +9690,7 @@
       "surface": "両",
       "onyomi": "リョウ",
       "kunyomi": "てる、ふたつ",
-      "meaning": "둘 다, 옛 일본 동전, 량, 둘",
+      "meaning": "두 량, 양쪽, 한 쌍",
       "related_kanji": [
         "両替"
       ],
@@ -9546,7 +9759,7 @@
       "surface": "害",
       "onyomi": "ガイ",
       "kunyomi": "",
-      "meaning": "해치다, 부상",
+      "meaning": "해할 해, 해치다",
       "related_kanji": [
         "被害",
         "障害",
@@ -9573,7 +9786,7 @@
       "surface": "石",
       "onyomi": "セキ、シャク、コク",
       "kunyomi": "いし",
-      "meaning": "돌",
+      "meaning": "돌 석, 돌",
       "related_kanji": [
         "石炭",
         "宝石",
@@ -9597,7 +9810,7 @@
       "surface": "完",
       "onyomi": "カン",
       "kunyomi": "",
-      "meaning": "완벽한, 완료, 끝",
+      "meaning": "완전할 완, 완전하다",
       "related_kanji": [
         "完全",
         "完成"
@@ -9662,8 +9875,8 @@
     {
       "surface": "求",
       "onyomi": "キュウ、グ",
-      "kunyomi": "もと.める",
-      "meaning": "요청, 원하다, 바라다, 필요하다, 수요",
+      "kunyomi": "もとめる",
+      "meaning": "구할 구, 바라다(もとめる), 구하다",
       "related_kanji": [
         "求める",
         "要求",
@@ -9687,7 +9900,7 @@
       "surface": "球",
       "onyomi": "キュウ",
       "kunyomi": "たま",
-      "meaning": "공, 구체",
+      "meaning": "공 구, 구체",
       "related_kanji": [
         "地球",
         "球"
@@ -9824,8 +10037,8 @@
     {
       "surface": "苦",
       "onyomi": "ク",
-      "kunyomi": "くる.しい、-ぐる.しい、くる.しむ、くる.しめる、にが.い、にが.る",
-      "meaning": "고통, 재판, 걱정, 고난, 씁쓸하다, 찡그리다",
+      "kunyomi": "くるしい、くるしむ、くるしめる、にがい、にがる",
+      "meaning": "쓸 고, 쓰다, 괴롭다(くるしい), 괴롭히다(くるしめる), 괴로워하다(くるしむ), 쓰다(にがい)",
       "related_kanji": [
         "苦労",
         "苦しむ",
@@ -9876,7 +10089,7 @@
       "surface": "昨",
       "onyomi": "サク",
       "kunyomi": "",
-      "meaning": "어제, 이전",
+      "meaning": "어제 작, 어제",
       "related_kanji": [
         "昨日",
         "昨年",
@@ -9923,8 +10136,8 @@
     {
       "surface": "参",
       "onyomi": "サン、シン",
-      "kunyomi": "まい.る、まい-、まじわる、みつ",
-      "meaning": "당황한, 셋, 가는, 오는, 방문하다, 패배하다, 죽다, 미친 듯이 사랑하다, 참여하다",
+      "kunyomi": "まいる",
+      "meaning": "참여할 참, 참여, 참석, 참관, 오다(まいる)",
       "related_kanji": [
         "参加",
         "参考"
@@ -9971,8 +10184,8 @@
     {
       "surface": "願",
       "onyomi": "ガン",
-      "kunyomi": "ねが.う、-ねがい",
-      "meaning": "청원, 요청, 맹세, 소원, 희망",
+      "kunyomi": "ねがう",
+      "meaning": "원할 원, 원하다, 바라다, 소원",
       "related_kanji": [
         "願う",
         "願い"
@@ -10034,8 +10247,8 @@
     {
       "surface": "争",
       "onyomi": "ソウ",
-      "kunyomi": "あらそ.う、いか.でか",
-      "meaning": "주장하다, 분쟁, 논쟁하다",
+      "kunyomi": "あらそう",
+      "meaning": "다툴 쟁, 다투다, 경쟁하다(あらそう)",
       "related_kanji": [
         "論争"
       ],
@@ -10118,8 +10331,8 @@
     {
       "surface": "形",
       "onyomi": "ケイ、ギョウ",
-      "kunyomi": "かた、-がた、かたち、なり",
-      "meaning": "형태, 형식, 스타일",
+      "kunyomi": "かた、かたち",
+      "meaning": "모양 형, 형태, 모양",
       "related_kanji": [
         "形",
         "形成",
@@ -10145,8 +10358,8 @@
     {
       "surface": "局",
       "onyomi": "キョク",
-      "kunyomi": "つぼね",
-      "meaning": "부서, 보드, 사무실, 사건, 결론, 궁녀, 시녀, 그녀의 아파트",
+      "kunyomi": "-",
+      "meaning": "판 국, 국면, 판세, 부분",
       "related_kanji": [
         "結局",
         "局"
@@ -10167,7 +10380,7 @@
       "surface": "息",
       "onyomi": "ソク",
       "kunyomi": "いき",
-      "meaning": "숨, 호흡, 아들, 이자, 양육하다, 휴식, 끝나가다",
+      "meaning": "쉴 식, 숨쉬다, 휴식",
       "related_kanji": [
         "息"
       ],
@@ -10232,8 +10445,8 @@
     {
       "surface": "笑",
       "onyomi": "ショウ",
-      "kunyomi": "わら.う、え.む",
-      "meaning": "웃다",
+      "kunyomi": "わらう、えむ",
+      "meaning": "웃음 소, 웃다",
       "related_kanji": [
         "笑顔",
         "笑い"
@@ -10253,8 +10466,8 @@
     {
       "surface": "船",
       "onyomi": "セン",
-      "kunyomi": "ふね、ふな-",
-      "meaning": "배, 보트",
+      "kunyomi": "ふね、ふな",
+      "meaning": "배 선, 선박",
       "related_kanji": [
         "船",
         "船長",
@@ -10280,8 +10493,8 @@
     {
       "surface": "育",
       "onyomi": "イク",
-      "kunyomi": "そだ.つ、そだ.ち、そだ.てる、はぐく.む",
-      "meaning": "제기하다, 자라다, 올리다, 뒤",
+      "kunyomi": "そだつ、そだてる、はぐくむ",
+      "meaning": "기를 육, 기르다, 양육하다(そだてる), 성장하다(そだつ), ",
       "related_kanji": [
         "育つ",
         "体育"
@@ -10349,8 +10562,8 @@
     {
       "surface": "馬",
       "onyomi": "バ",
-      "kunyomi": "うま、うま-、ま",
-      "meaning": "말",
+      "kunyomi": "うま",
+      "meaning": "말 마, 말",
       "related_kanji": [
         "馬",
         "馬鹿"
@@ -10409,8 +10622,8 @@
     {
       "surface": "満",
       "onyomi": "マン、バン",
-      "kunyomi": "み.ちる、み.つ、み.たす",
-      "meaning": "가득한, 충만함, 충분한, 만족시키다",
+      "kunyomi": "みちる、みたす",
+      "meaning": "찰 만, 가득하다",
       "related_kanji": [
         "満足",
         "不満",
@@ -10433,8 +10646,8 @@
     {
       "surface": "号",
       "onyomi": "ゴウ",
-      "kunyomi": "さけ.ぶ、よびな",
-      "meaning": "별명, 숫자, 아이템, 제목, 필명, 이름, 전화",
+      "kunyomi": "-",
+      "meaning": "부를 호, 부르짖다, 호령, 신호",
       "related_kanji": [
         "信号"
       ],
@@ -10451,8 +10664,8 @@
     {
       "surface": "際",
       "onyomi": "サイ",
-      "kunyomi": "きわ、-ぎわ",
-      "meaning": "행사, 측면, 가장자리, 위험한, 모험적인, 외설적인, 시간, 언제",
+      "kunyomi": "きわ",
+      "meaning": "즈음 제, 사이, 경계, 만나다, 닿다",
       "related_kanji": [
         "実際",
         "際",
@@ -10476,7 +10689,7 @@
       "surface": "罪",
       "onyomi": "ザイ",
       "kunyomi": "つみ",
-      "meaning": "죄책감, 죄, 범죄, 결함, 비난, 공격",
+      "meaning": "허물 죄,죄, 허물",
       "related_kanji": [
         "罪",
         "犯罪"
@@ -10496,8 +10709,8 @@
     {
       "surface": "存",
       "onyomi": "ソン、ゾン",
-      "kunyomi": "ながら.える、あ.る、たも.つ、と.う",
-      "meaning": "존재하다, 가정하다, 주의하다, 믿다, 느끼다",
+      "kunyomi": "-",
+      "meaning": "있을 존, 존재하다, 이다",
       "related_kanji": [
         "存在",
         "保存"
@@ -10517,8 +10730,8 @@
     {
       "surface": "観",
       "onyomi": "カン",
-      "kunyomi": "み.る、しめ.す",
-      "meaning": "전망, 보다, 외모, 조건, 보기",
+      "kunyomi": "-",
+      "meaning": "볼 관, 관찰하다, 보다",
       "related_kanji": [
         "観客",
         "観察",
@@ -10541,8 +10754,8 @@
     {
       "surface": "増",
       "onyomi": "ゾウ",
-      "kunyomi": "ま.す、ま.し、ふ.える、ふ.やす",
-      "meaning": "증가하다, 추가하다, 증강하다, 얻다, 홍보하다",
+      "kunyomi": "ます、ふえる、ふやす",
+      "meaning": "더할 증, 늘다, 증가하다",
       "related_kanji": [
         "増す",
         "増加"
@@ -10562,8 +10775,8 @@
     {
       "surface": "険",
       "onyomi": "ケン",
-      "kunyomi": "けわ.しい",
-      "meaning": "가파른, 접근할 수 없는 곳, 난공불락의 위치, 가파른 곳, 날카로운 눈",
+      "kunyomi": "けわしい",
+      "meaning": "험할 험, 험하다, 위험하다",
       "related_kanji": [
         "冒険"
       ],
@@ -10580,8 +10793,8 @@
     {
       "surface": "犯",
       "onyomi": "ハン、ボン",
-      "kunyomi": "おか.す",
-      "meaning": "범죄, 죄, 공격",
+      "kunyomi": "おかす",
+      "meaning": "범할 범, 어기다, 범하다",
       "related_kanji": [
         "犯人",
         "犯罪"
@@ -10601,8 +10814,8 @@
     {
       "surface": "深",
       "onyomi": "シン",
-      "kunyomi": "ふか.い、-ぶか.い、ふか.まる、ふか.める、み-",
-      "meaning": "깊은, 고조시키다, 강화하다",
+      "kunyomi": "ふかい、ふかまる、ふかめる",
+      "meaning": "깊을 심, 깊다(ふかい), 깊어지다(ふかまる), 깊게하다(ふかめる)",
       "related_kanji": [
         "深い",
         "深呼吸",
@@ -10628,8 +10841,8 @@
     {
       "surface": "幸",
       "onyomi": "コウ",
-      "kunyomi": "さいわ.い、さち、しあわ.せ",
-      "meaning": "행복, 축복, 운명",
+      "kunyomi": "さいわい、さち、しあわせ",
+      "meaning": "다행 행, 다행(さいわい), 행복(しあわせ), 행운(さち)",
       "related_kanji": [
         "幸せ",
         "幸運",
@@ -10658,8 +10871,8 @@
     {
       "surface": "単",
       "onyomi": "タン",
-      "kunyomi": "ひとえ",
-      "meaning": "단순한, 하나, 단일, 단지",
+      "kunyomi": "",
+      "meaning": "홑 단, 하나, 단독",
       "related_kanji": [
         "単純",
         "単なる",
@@ -10689,7 +10902,7 @@
       "surface": "薬",
       "onyomi": "ヤク",
       "kunyomi": "くすり",
-      "meaning": "의학, 화학의, 에나멜, 화약, 이익",
+      "meaning": "약 약, 약, 약재",
       "related_kanji": [
         "薬",
         "薬局",
@@ -10715,8 +10928,8 @@
     {
       "surface": "示",
       "onyomi": "ジ、シ",
-      "kunyomi": "しめ.す",
-      "meaning": "보여주다, 나타내다, 지적하다, 표현하다, 디스플레이",
+      "kunyomi": "しめす",
+      "meaning": "보일 시, 보이다, 나타내다",
       "related_kanji": [
         "示す",
         "掲示"
@@ -10736,8 +10949,8 @@
     {
       "surface": "抜",
       "onyomi": "バツ、ハツ、ハイ",
-      "kunyomi": "ぬ.く、-ぬ.く、ぬ.き、ぬ.ける、ぬ.かす、ぬ.かる",
-      "meaning": "빠져나가다, 추출하다, 꺼내다, 훔치다, 인용문, 제거하다, 생략하다",
+      "kunyomi": "ぬく、ぬける、ぬかす、ぬかる",
+      "meaning": "뽑을 발,뽑다, 가려내다",
       "related_kanji": [
         "抜く",
         "抜ける"
@@ -10757,8 +10970,8 @@
     {
       "surface": "速",
       "onyomi": "ソク",
-      "kunyomi": "はや.い、はや-、はや.める、すみ.やか",
-      "meaning": "빠른",
+      "kunyomi": "はやい、はやめる、すみやか",
+      "meaning": "빠를 속, 빠르다(はやい), 빠르게하다(はやめる), 빠름(すみやか), ",
       "related_kanji": [
         "高速",
         "急速"
@@ -10778,8 +10991,8 @@
     {
       "surface": "未",
       "onyomi": "ミ、ビ",
-      "kunyomi": "いま.だ、ま.だ、ひつじ",
-      "meaning": "비-, 아직 아니야, 지금까지, 아직, 지금도, 양자리의 징후, 오후 1시-3시, 양자리",
+      "kunyomi": "-",
+      "meaning": "아닐 미, 아직, 미숙한",
       "related_kanji": [
         "未来"
       ],
@@ -10796,8 +11009,8 @@
     {
       "surface": "米",
       "onyomi": "ベイ、マイ、メエトル",
-      "kunyomi": "こめ、よね",
-      "meaning": "쌀, 미국, 미터",
+      "kunyomi": "こめ",
+      "meaning": "쌀 미, 쌀",
       "related_kanji": [
         "米",
         "米国",
@@ -10823,8 +11036,8 @@
     {
       "surface": "痛",
       "onyomi": "ツウ",
-      "kunyomi": "いた.い、いた.む、いた.ましい、いた.める",
-      "meaning": "고통, 상처, 손상, 멍",
+      "kunyomi": "いたい、いたむ、いためる",
+      "meaning": "아플 통, 아프다, 고통",
       "related_kanji": [
         "痛み",
         "苦痛",
@@ -10847,8 +11060,8 @@
     {
       "surface": "倒",
       "onyomi": "トウ",
-      "kunyomi": "たお.れる、-だお.れ、たお.す、さかさま、さかさ、さかしま",
-      "meaning": "타도, 가을, 붕괴, 떨어지다, 분해하다",
+      "kunyomi": "たおれる、たおす",
+      "meaning": "넘어질 도, 넘어지다, 쓰러지다",
       "related_kanji": [
         "面倒"
       ],
@@ -10865,8 +11078,8 @@
     {
       "surface": "論",
       "onyomi": "ロン",
-      "kunyomi": "あげつら.う",
-      "meaning": "논쟁, 담론",
+      "kunyomi": "-",
+      "meaning": "논할 논, 논의, 이론",
       "related_kanji": [
         "結論",
         "議論",
@@ -10896,7 +11109,7 @@
       "surface": "都",
       "onyomi": "ト、ツ",
       "kunyomi": "みやこ",
-      "meaning": "대도시, 자본, 모두, 모든 것",
+      "meaning": "도읍 도, 대도시, 수도",
       "related_kanji": [
         "都",
         "都市",
@@ -10922,8 +11135,8 @@
     {
       "surface": "敗",
       "onyomi": "ハイ",
-      "kunyomi": "やぶ.れる",
-      "meaning": "실패, 패배, 반전",
+      "kunyomi": "やぶれる",
+      "meaning": "패할 패, 패하다",
       "related_kanji": [
         "失敗",
         "敗北",
@@ -10949,8 +11162,8 @@
     {
       "surface": "寝",
       "onyomi": "シン",
-      "kunyomi": "ね.る、ね.かす、い.ぬ、みたまや、や.める",
-      "meaning": "눕다, 잠, 휴식, 침대, 팔리지 않다",
+      "kunyomi": "ねる、ねかす",
+      "meaning": "잠잘 침, 자다, 눕다",
       "related_kanji": [
         "寝る",
         "寝室",
@@ -10976,8 +11189,8 @@
     {
       "surface": "夢",
       "onyomi": "ム、ボウ",
-      "kunyomi": "ゆめ、ゆめ.みる、くら.い",
-      "meaning": "꿈, 비전, 환상",
+      "kunyomi": "ゆめ",
+      "meaning": "꿈 몽, 꿈",
       "related_kanji": [
         "夢中"
       ],
@@ -10994,8 +11207,8 @@
     {
       "surface": "側",
       "onyomi": "ソク",
-      "kunyomi": "かわ、がわ、そば",
-      "meaning": "측면, 기울다, 반대하다, 후회",
+      "kunyomi": "がわ",
+      "meaning": "곁 측, 측면, 옆, ~쪽(がわ)",
       "related_kanji": [
         "側",
         "右側",
@@ -11021,8 +11234,8 @@
     {
       "surface": "遅",
       "onyomi": "チ",
-      "kunyomi": "おく.れる、おく.らす、おそ.い",
-      "meaning": "느린, 늦은, 뒤, 나중에",
+      "kunyomi": "おくれる、おくらす、おそい",
+      "meaning": "늦을 지, 늦다, 더디다",
       "related_kanji": [
         "遅刻"
       ],
@@ -11039,8 +11252,8 @@
     {
       "surface": "探",
       "onyomi": "タン",
-      "kunyomi": "さぐ.る、さが.す",
-      "meaning": "더듬다, 검색, 찾다",
+      "kunyomi": "さぐる、さがす",
+      "meaning": "찾을 탐, 찾다",
       "related_kanji": [
         "探す",
         "探偵",
@@ -11067,7 +11280,7 @@
       "surface": "妻",
       "onyomi": "サイ",
       "kunyomi": "つま",
-      "meaning": "아내, 배우자",
+      "meaning": "아내 처, 아내, 처",
       "related_kanji": [
         "妻",
         "夫妻",
@@ -11093,8 +11306,8 @@
     {
       "surface": "例",
       "onyomi": "レイ",
-      "kunyomi": "たと.える",
-      "meaning": "예시, 맞춤형, 사용, 선례",
+      "kunyomi": "たとえる",
+      "meaning": "법식 례, 관례, 예시",
       "related_kanji": [
         "例",
         "例え"
@@ -11114,8 +11327,8 @@
     {
       "surface": "降",
       "onyomi": "コウ、ゴ",
-      "kunyomi": "お.りる、お.ろす、ふ.る、ふ.り、くだ.る、くだ.す",
-      "meaning": "내려가다, 촉발시키다, 가을, 항복",
+      "kunyomi": "おりる、おろす、ふる",
+      "meaning": "내릴 강, 내리다, 내려오다, 항복하다",
       "related_kanji": [
         "降る",
         "降車",
@@ -11141,8 +11354,8 @@
     {
       "surface": "割",
       "onyomi": "カツ",
-      "kunyomi": "わ.る、わり、わ.り、わ.れる、さ.く",
-      "meaning": "비율, 비교적, 나누다, 자르다, 분리하다, 분할",
+      "kunyomi": "わる、わり、われる、さく",
+      "meaning": "벨 할, 베다, 가르다, 나누다",
       "related_kanji": [
         "割る",
         "役割"
@@ -11163,7 +11376,7 @@
       "surface": "科",
       "onyomi": "カ",
       "kunyomi": "",
-      "meaning": "부서, 코스, 섹션",
+      "meaning": "과목 과, 과목, 종류",
       "related_kanji": [
         "科目",
         "教科書"
@@ -11184,7 +11397,7 @@
       "surface": "段",
       "onyomi": "ダン、タン",
       "kunyomi": "",
-      "meaning": "성적, 단계, 계단",
+      "meaning": "층계 단, 단계, 계단",
       "related_kanji": [
         "手段",
         "普段",
@@ -11207,8 +11420,8 @@
     {
       "surface": "遠",
       "onyomi": "エン、オン",
-      "kunyomi": "とお.い",
-      "meaning": "먼, 멀리",
+      "kunyomi": "とおい",
+      "meaning": "멀 원, 먼, 멀리",
       "related_kanji": [
         "永遠"
       ],
@@ -11225,8 +11438,8 @@
     {
       "surface": "種",
       "onyomi": "シュ",
-      "kunyomi": "たね、-ぐさ",
-      "meaning": "종류, 클래스, 다양성, 씨앗",
+      "kunyomi": "たね",
+      "meaning": "씨 종, 종류, 종자",
       "related_kanji": [
         "種類",
         "種",
@@ -11252,8 +11465,8 @@
     {
       "surface": "恐",
       "onyomi": "キョウ",
-      "kunyomi": "おそ.れる、おそ.る、おそ.ろしい、こわ.い、こわ.がる",
-      "meaning": "두려움, 공포, 경외감",
+      "kunyomi": "おそれる、おそろしい",
+      "meaning": "두려울 공, 두려워하다",
       "related_kanji": [
         "恐れる",
         "恐ろしい",
@@ -11279,8 +11492,8 @@
     {
       "surface": "責",
       "onyomi": "セキ",
-      "kunyomi": "せ.める",
-      "meaning": "책임, 비난하다, 검열",
+      "kunyomi": "せめる",
+      "meaning": "꾸짖을 책, 책망하다, 꾸짖다",
       "related_kanji": [
         "責任",
         "責める"
@@ -11300,8 +11513,8 @@
     {
       "surface": "申",
       "onyomi": "シン",
-      "kunyomi": "もう.す、もう.し-、さる",
-      "meaning": "영광으로 생각하다, 원숭이의 징조, 오후 3시에서 5시, 원숭이",
+      "kunyomi": "もうす",
+      "meaning": "납 신, 진술하다, 말씀드리다",
       "related_kanji": [
         "申し訳",
         "申し込む"
@@ -11321,8 +11534,8 @@
     {
       "surface": "差",
       "onyomi": "サ",
-      "kunyomi": "さ.す、さ.し",
-      "meaning": "구별, 차이, 변형, 불일치, 여백, 균형",
+      "kunyomi": "さす",
+      "meaning": "다를 차, 차이, 쓰다(さす)",
       "related_kanji": [
         "差",
         "差別"
@@ -11342,8 +11555,8 @@
     {
       "surface": "忘",
       "onyomi": "ボウ",
-      "kunyomi": "わす.れる",
-      "meaning": "잊다",
+      "kunyomi": "わすれる",
+      "meaning": "잊을 망, 잊다",
       "related_kanji": [
         "忘れる",
         "忘却",
@@ -11369,8 +11582,8 @@
     {
       "surface": "冷",
       "onyomi": "レイ",
-      "kunyomi": "つめ.たい、ひ.える、ひ.や、ひ.ややか、ひ.やす、ひ.やかす、さ.める、さ.ます",
-      "meaning": "멋진, 차가운 (맥주, 사람), 냉기",
+      "kunyomi": "つめたい、ひえる、ひや、ひやす、ひやかす、さめる、さます",
+      "meaning": "찰 냉, 차다, 차가워지다(ひえる), 식다(さめる), 차갑게하다(ひやす), 식히다(さます), 놀리다(ひやかす)",
       "related_kanji": [
         "冷たい",
         "冷蔵庫",
@@ -11396,8 +11609,8 @@
     {
       "surface": "払",
       "onyomi": "フツ、ヒツ、ホツ",
-      "kunyomi": "はら.う、-はら.い、-ばら.い",
-      "meaning": "지불하다, 비우다, 자두, 추방하다, 처리하다",
+      "kunyomi": "はらう",
+      "meaning": "떨칠 불, 떨쳐내다, 털어버리다",
       "related_kanji": [
         "支払い",
         "支払う"
@@ -11418,7 +11631,7 @@
       "surface": "園",
       "onyomi": "エン",
       "kunyomi": "その",
-      "meaning": "공원, 정원, 마당, 농장",
+      "meaning": "동산 원, 동산, 정원, 공원",
       "related_kanji": [
         "公園",
         "動物園",
@@ -11444,8 +11657,8 @@
     {
       "surface": "席",
       "onyomi": "セキ",
-      "kunyomi": "むしろ",
-      "meaning": "좌석, 매트, 행사, 장소",
+      "kunyomi": "-",
+      "meaning": "자리 석, 좌석",
       "related_kanji": [
         "座席",
         "出席",
@@ -11468,8 +11681,8 @@
     {
       "surface": "欲",
       "onyomi": "ヨク",
-      "kunyomi": "ほっ.する、ほ.しい",
-      "meaning": "갈망, 탐욕, 열정, 욕망",
+      "kunyomi": "ほっする、ほしい",
+      "meaning": "갈망 욕, 탐내다, 탐욕",
       "related_kanji": [
         "食欲"
       ],
@@ -11486,8 +11699,8 @@
     {
       "surface": "徒",
       "onyomi": "ト",
-      "kunyomi": "いたずら、あだ",
-      "meaning": "도보로, 주니어, 공허함, 허영, 무용지물, 무용성, 일시적인 것, 갱, 세트, 파티, 사람들",
+      "kunyomi": "-",
+      "meaning": "무리 도, 무리, 제자",
       "related_kanji": [
         "生徒",
         "徒歩",
@@ -11513,8 +11726,8 @@
     {
       "surface": "束",
       "onyomi": "ソク",
-      "kunyomi": "たば、たば.ねる、つか、つか.ねる",
-      "meaning": "묶음, 단束, 연심, 묶음으로 묶다, 통치하다, 관리하다, 제어",
+      "kunyomi": "たば",
+      "meaning": "묶을 속, 묶다, 묶음",
       "related_kanji": [
         "束"
       ],
@@ -11532,7 +11745,7 @@
       "surface": "礼",
       "onyomi": "レイ、ライ",
       "kunyomi": "",
-      "meaning": "경례, 활, 식ceremony, 고마워, 보수",
+      "meaning": "예절 예, 예의, 예절",
       "related_kanji": [
         "礼"
       ],
@@ -11549,8 +11762,8 @@
     {
       "surface": "静",
       "onyomi": "セイ、ジョウ",
-      "kunyomi": "しず-、しず.か、しず.まる、しず.める",
-      "meaning": "조용한",
+      "kunyomi": "しず、しずか、しずまる、しずめる",
+      "meaning": "고요할 정, 조용하다",
       "related_kanji": [
         "静か",
         "静止",
@@ -11576,8 +11789,8 @@
     {
       "surface": "労",
       "onyomi": "ロウ",
-      "kunyomi": "ろう.する、いたわ.る、いた.ずき、ねぎら、つか.れる、ねぎら.う",
-      "meaning": "노동, 감사합니다, 보상에 대한, 문제",
+      "kunyomi": "-",
+      "meaning": "일할 로, 노동",
       "related_kanji": [
         "苦労",
         "労働"
@@ -11597,8 +11810,8 @@
     {
       "surface": "娘",
       "onyomi": "ジョウ",
-      "kunyomi": "むすめ、こ",
-      "meaning": "딸, 소녀",
+      "kunyomi": "むすめ",
+      "meaning": "계집 냥, 딸, 소녀",
       "related_kanji": [
         "娘",
         "お嬢さん",
@@ -11624,8 +11837,8 @@
     {
       "surface": "識",
       "onyomi": "シキ",
-      "kunyomi": "し.る、しる.す",
-      "meaning": "차별하는, 알다, 쓰다",
+      "kunyomi": "-",
+      "meaning": "알 식, 지식, 알다",
       "related_kanji": [
         "意識",
         "知識",
@@ -11648,8 +11861,8 @@
     {
       "surface": "熱",
       "onyomi": "ネツ",
-      "kunyomi": "あつ.い",
-      "meaning": "열, 온도, 매니아, 열정",
+      "kunyomi": "あつい",
+      "meaning": "더울 열, 열기, 뜨겁다",
       "related_kanji": [
         "熱帯",
         "熱中",
@@ -11672,8 +11885,8 @@
     {
       "surface": "皆",
       "onyomi": "カイ",
-      "kunyomi": "みな、みんな",
-      "meaning": "모두, 모든 것",
+      "kunyomi": "みな",
+      "meaning": "다 개, 모두, 전부",
       "related_kanji": [
         "皆",
         "皆さん",
@@ -11699,8 +11912,8 @@
     {
       "surface": "処",
       "onyomi": "ショ",
-      "kunyomi": "ところ、-こ、お.る",
-      "meaning": "처리하다, 관리하다, 문장, 비난하다, 행동하다, 장소",
+      "kunyomi": "-",
+      "meaning": "곳 처, 머무르다, 처리하다",
       "related_kanji": [
         "処理"
       ],
@@ -11717,8 +11930,8 @@
     {
       "surface": "遊",
       "onyomi": "ユウ、ユ",
-      "kunyomi": "あそ.ぶ、あそ.ばす",
-      "meaning": "놀다",
+      "kunyomi": "あそぶ",
+      "meaning": "놀 유, 놀다",
       "related_kanji": [
         "遊ぶ",
         "遊園地",
@@ -11744,8 +11957,8 @@
     {
       "surface": "除",
       "onyomi": "ジョ、ジ",
-      "kunyomi": "のぞ.く、-よ.け",
-      "meaning": "제외하다, 나누기 (x/3), 제거하다, 폐지하다, 취소, 제외하고",
+      "kunyomi": "のぞく",
+      "meaning": "덜 제,제거하다, 없애다",
       "related_kanji": [
         "除く"
       ],
@@ -11762,8 +11975,8 @@
     {
       "surface": "寄",
       "onyomi": "キ",
-      "kunyomi": "よ.る、-よ.り、よ.せる",
-      "meaning": "다가가다, 멈추다, 가까이 가져오다, 모으다, 수집하다, 보내다, 앞으로",
+      "kunyomi": "よる、よせる",
+      "meaning": "부칠 기, 맡기다, 부치다, 들르다",
       "related_kanji": [
         "寄付",
         "年寄り"
@@ -11783,8 +11996,8 @@
     {
       "surface": "末",
       "onyomi": "マツ、バツ",
-      "kunyomi": "すえ、うら、うれ",
-      "meaning": "끝, 닫다, 팁, 가루, 후세",
+      "kunyomi": "すえ",
+      "meaning": "끝 말, 끝, 끝부분",
       "related_kanji": [
         "粗末",
         "末"
@@ -11804,8 +12017,8 @@
     {
       "surface": "喜",
       "onyomi": "キ",
-      "kunyomi": "よろこ.ぶ、よろこ.ばす",
-      "meaning": "기뻐하다, 즐기다",
+      "kunyomi": "よろこぶ",
+      "meaning": "기쁠 희, 기뻐하다, 즐기다",
       "related_kanji": [
         "喜び"
       ],
@@ -11823,7 +12036,7 @@
       "surface": "岡",
       "onyomi": "コウ",
       "kunyomi": "おか",
-      "meaning": "설치하다, 언덕, 작은 언덕",
+      "meaning": "산등성이 강, 언덕",
       "related_kanji": [
         "岡山",
         "静岡",
@@ -11849,8 +12062,8 @@
     {
       "surface": "精",
       "onyomi": "セイ、ショウ",
-      "kunyomi": "しら.げる、くわ.しい",
-      "meaning": "정제된, 유령, 요정, 에너지, 활력, 정액, 탁월함, 순수함, 기술",
+      "kunyomi": "-",
+      "meaning": "정할 정, 정기, 정신, 순수한, 세밀한",
       "related_kanji": [
         "精神"
       ],
@@ -11867,8 +12080,8 @@
     {
       "surface": "類",
       "onyomi": "ルイ",
-      "kunyomi": "たぐ.い",
-      "meaning": "정렬하다, 종류, 다양성, 클래스, 속",
+      "kunyomi": "たぐい",
+      "meaning": "무리 류, 종류, 부류",
       "related_kanji": [
         "書類",
         "人類",
@@ -11890,9 +12103,9 @@
     },
     {
       "surface": "登",
-      "onyomi": "トウ、ト、ドウ、ショウ、チョウ",
-      "kunyomi": "のぼ.る、あ.がる",
-      "meaning": "오르다, 올라가다",
+      "onyomi": "トウ、ト",
+      "kunyomi": "のぼる",
+      "meaning": "오를 등, 오르다, 올라가다",
       "related_kanji": [
         "登山"
       ],
@@ -11909,8 +12122,8 @@
     {
       "surface": "似",
       "onyomi": "ジ",
-      "kunyomi": "に.る、ひ.る",
-      "meaning": "되기, 닮다, 위조, 모방하다, 적합한",
+      "kunyomi": "にる",
+      "meaning": "닮을 사, 비슷하다, 닮다",
       "related_kanji": [
         "似合う",
         "真似"
@@ -11930,8 +12143,8 @@
     {
       "surface": "具",
       "onyomi": "グ",
-      "kunyomi": "そな.える、つぶさ.に",
-      "meaning": "도구, 기구, 수단, 소유하다, 재료, 벌",
+      "kunyomi": "-",
+      "meaning": "갖출 구, 도구",
       "related_kanji": [
         "具体",
         "家具"
@@ -11951,8 +12164,8 @@
     {
       "surface": "迎",
       "onyomi": "ゲイ",
-      "kunyomi": "むか.える",
-      "meaning": "환영합니다, 만나다, 인사하다",
+      "kunyomi": "むかえる",
+      "meaning": "맞을 영, 맞이하다, 영접하다",
       "related_kanji": [
         "歓迎",
         "迎え"
@@ -11972,8 +12185,8 @@
     {
       "surface": "押",
       "onyomi": "オウ",
-      "kunyomi": "お.す、お.し-、お.っ-、お.さえる、おさ.える",
-      "meaning": "밀다, 멈추다, 확인하다, 진압하다, 첨부하다, 잡다, 무게, 누르다, 물개, 무시하고 하다",
+      "kunyomi": "おす、おさえる",
+      "meaning": "누를 압, 누르다, 억누르다",
       "related_kanji": [
         "押す",
         "押し入れ",
@@ -11999,8 +12212,8 @@
     {
       "surface": "路",
       "onyomi": "ロ、ル",
-      "kunyomi": "-じ、みち",
-      "meaning": "경로, 도로, 거리",
+      "kunyomi": "じ",
+      "meaning": "길 로, 길, 경로",
       "related_kanji": [
         "道路"
       ],
@@ -12017,8 +12230,8 @@
     {
       "surface": "居",
       "onyomi": "キョ、コ",
-      "kunyomi": "い.る、-い、お.る",
-      "meaning": "거주하다, 있다, 존재하다, 함께 살다",
+      "kunyomi": "いる",
+      "meaning": "살 거, 거주하다, 살다",
       "related_kanji": [
         "芝居",
         "居眠り",
@@ -12044,8 +12257,8 @@
     {
       "surface": "怖",
       "onyomi": "フ、ホ",
-      "kunyomi": "こわ.い、こわ.がる、お.じる、おそ.れる",
-      "meaning": "무서운, 겁먹다, 두려운",
+      "kunyomi": "こわい",
+      "meaning": "두려워할 표, 두려워하다, 무서워하다",
       "related_kanji": [
         "恐怖"
       ],
@@ -12062,8 +12275,8 @@
     {
       "surface": "閉",
       "onyomi": "ヘイ",
-      "kunyomi": "と.じる、と.ざす、し.める、し.まる、た.てる",
-      "meaning": "닫힌, 닫다",
+      "kunyomi": "とじる、とざす、しめる、しまる",
+      "meaning": "닫을 폐, 닫다",
       "related_kanji": [
         "閉じる"
       ],
@@ -12080,8 +12293,8 @@
     {
       "surface": "余",
       "onyomi": "ヨ",
-      "kunyomi": "あま.る、あま.り、あま.す、あんま.り",
-      "meaning": "너무 많이, 자신, 잉여, 다른, 나머지",
+      "kunyomi": "あまる、あます",
+      "meaning": "남을 여, 남다, 여분",
       "related_kanji": [
         "余分"
       ],
@@ -12098,8 +12311,8 @@
     {
       "surface": "困",
       "onyomi": "コン",
-      "kunyomi": "こま.る",
-      "meaning": "곤경, 괴로워하다, 짜증난",
+      "kunyomi": "こまる",
+      "meaning": "곤할 곤, 곤란하다",
       "related_kanji": [
         "困難"
       ],
@@ -12117,7 +12330,7 @@
       "surface": "値",
       "onyomi": "チ",
       "kunyomi": "ね、あたい",
-      "meaning": "가격, 비용, 가치",
+      "meaning": "값치, 값, 가치",
       "related_kanji": [
         "価値",
         "値"
@@ -12137,8 +12350,8 @@
     {
       "surface": "曲",
       "onyomi": "キョク",
-      "kunyomi": "ま.がる、ま.げる、くま",
-      "meaning": "구부리다, 음악, 멜로디, 작곡, 기쁨, 불공정, 결함, 곡선, 비뚤어진, 왜곡된, 기울이다",
+      "kunyomi": "まがる、まげる",
+      "meaning": "굽을 곡,구부러지다(まがる), 구부리다(まげる), 곡조",
       "related_kanji": [
         "作曲"
       ],
@@ -12155,8 +12368,8 @@
     {
       "surface": "亡",
       "onyomi": "ボウ、モウ",
-      "kunyomi": "な.い、な.き-、ほろ.びる、ほろ.ぶ、ほろ.ぼす",
-      "meaning": "사망한, 고(故), 죽어가는, 죽다",
+      "kunyomi": "ない",
+      "meaning": "망할 망, 망하다, 죽다",
       "related_kanji": [
         "亡くなる",
         "死亡",
@@ -12182,8 +12395,8 @@
     {
       "surface": "悲",
       "onyomi": "ヒ",
-      "kunyomi": "かな.しい、かな.しむ",
-      "meaning": "슬퍼하다, 슬픈, 개탄하다, 후회",
+      "kunyomi": "かなしい、かなしむ",
+      "meaning": "슬플 비, 슬프다(かなしい)",
       "related_kanji": [
         "悲しむ",
         "悲劇"
@@ -12203,8 +12416,8 @@
     {
       "surface": "怒",
       "onyomi": "ド、ヌ",
-      "kunyomi": "いか.る、おこ.る",
-      "meaning": "화난, 기분이 상하다",
+      "kunyomi": "いかる、おこる",
+      "meaning": "성낼 노, 화내다, 분노하다",
       "related_kanji": [
         "怒る",
         "怒り",
@@ -12230,8 +12443,8 @@
     {
       "surface": "非",
       "onyomi": "ヒ",
-      "kunyomi": "あら.ず",
-      "meaning": "비, 실수, 부정적인, 부당함, 비非",
+      "kunyomi": "-",
+      "meaning": "아닐 비, 아니다, 옳지 않은, 어긋난",
       "related_kanji": [
         "是非",
         "非常"
@@ -12251,8 +12464,8 @@
     {
       "surface": "俺",
       "onyomi": "エン",
-      "kunyomi": "おれ、われ",
-      "meaning": "나, 나 자신",
+      "kunyomi": "おれ",
+      "meaning": "나 암, 나(남성)",
       "related_kanji": [
         "俺",
         "俺様",
@@ -12275,8 +12488,8 @@
     {
       "surface": "酒",
       "onyomi": "シュ",
-      "kunyomi": "さけ、さか-",
-      "meaning": "사케, 알코올",
+      "kunyomi": "さけ、さか",
+      "meaning": "술 주, 술",
       "related_kanji": [
         "酒"
       ],
@@ -12293,8 +12506,8 @@
     {
       "surface": "盗",
       "onyomi": "トウ",
-      "kunyomi": "ぬす.む、ぬす.み",
-      "meaning": "훔치다, 강도질하다",
+      "kunyomi": "ぬすむ",
+      "meaning": "훔칠 도, 훔치다, 도둑",
       "related_kanji": [
         "強盗"
       ],
@@ -12311,8 +12524,8 @@
     {
       "surface": "商",
       "onyomi": "ショウ",
-      "kunyomi": "あきな.う",
-      "meaning": "거래하다, 판매, 거래, 상인",
+      "kunyomi": "あきなう",
+      "meaning": "장사 상, 장사하다",
       "related_kanji": [
         "商品",
         "商売",
@@ -12335,8 +12548,8 @@
     {
       "surface": "誰",
       "onyomi": "スイ",
-      "kunyomi": "だれ、たれ、た",
-      "meaning": "누구, 누군가",
+      "kunyomi": "だれ",
+      "meaning": "누국 수, 누군가",
       "related_kanji": [
         "誰",
         "誰か",
@@ -12362,8 +12575,8 @@
     {
       "surface": "越",
       "onyomi": "エツ、オツ",
-      "kunyomi": "こ.す、-こ.す、-ご.し、こ.える、-ご.え",
-      "meaning": "능가하다, 건너다, 이동하다, 초과하다, 베트남",
+      "kunyomi": "こす、こえる",
+      "meaning": "넘을 월, 넘다, 능가하다",
       "related_kanji": [
         "越える",
         "越す"
@@ -12384,7 +12597,7 @@
       "surface": "宅",
       "onyomi": "タク",
       "kunyomi": "",
-      "meaning": "집, 거주지, 우리 집, 내 남편",
+      "meaning": "집 택, 집, 댁",
       "related_kanji": [
         "宅",
         "帰宅",
@@ -12408,7 +12621,7 @@
       "surface": "横",
       "onyomi": "オウ",
       "kunyomi": "よこ",
-      "meaning": "옆으로, 측면, 수평의, 너비, 멍멍, 비합리적인, 왜곡된",
+      "meaning": "가로 횡, 가로, 수평, 방자하다",
       "related_kanji": [
         "横断",
         "横切る"
@@ -12429,7 +12642,7 @@
       "surface": "昔",
       "onyomi": "セキ、シャク",
       "kunyomi": "むかし",
-      "meaning": "옛날 옛적에, 고대, 옛날",
+      "meaning": "옛 석, 옛날",
       "related_kanji": [
         "昔",
         "昔話",
@@ -12455,8 +12668,8 @@
     {
       "surface": "鳴",
       "onyomi": "メイ",
-      "kunyomi": "な.く、な.る、な.らす",
-      "meaning": "짹짹, 울다, 짖다, 소리, 반지, 에코, 빵빵",
+      "kunyomi": "なく、なる、ならす",
+      "meaning": "울 명, 울다(なく), 울음소리, 울리다(なる)",
       "related_kanji": [
         "鳴く",
         "鳴らす",
@@ -12482,8 +12695,8 @@
     {
       "surface": "費",
       "onyomi": "ヒ",
-      "kunyomi": "つい.やす、つい.える",
-      "meaning": "비용, 쓰다, 소비하다, 낭비",
+      "kunyomi": "ついやす、ついえる",
+      "meaning": "쓸 비、쓰다（ついやす）, 소모하다、 줄다（ついえる）",
       "related_kanji": [
         "費用",
         "消費"
@@ -12503,8 +12716,8 @@
     {
       "surface": "婦",
       "onyomi": "フ",
-      "kunyomi": "よめ",
-      "meaning": "레이디, 여자, 아내, 신부",
+      "kunyomi": "-",
+      "meaning": "며느리 부, 아내",
       "related_kanji": [
         "夫婦",
         "主婦",
@@ -12527,8 +12740,8 @@
     {
       "surface": "背",
       "onyomi": "ハイ",
-      "kunyomi": "せ、せい、そむ.く、そむ.ける",
-      "meaning": "위상, 높이, 뒤, 뒤에, 불복종하다, 반항하다, 철회하다, 반란자",
+      "kunyomi": "せ、せい、そむく、そむける",
+      "meaning": "등 배, 등, 뒤쪽, 배반하다",
       "related_kanji": [
         "背"
       ],
@@ -12545,8 +12758,8 @@
     {
       "surface": "舞",
       "onyomi": "ブ",
-      "kunyomi": "ま.う、-ま.う、まい",
-      "meaning": "춤, 휙 지나가다, 원, 바퀴",
+      "kunyomi": "まう、まい",
+      "meaning": "춤출 무, 춤추디",
       "related_kanji": [
         "舞台",
         "見舞い"
@@ -12567,7 +12780,7 @@
       "surface": "絵",
       "onyomi": "カイ、エ",
       "kunyomi": "",
-      "meaning": "사진, 그림, 스케치",
+      "meaning": "그림 회, 그림, 스케치",
       "related_kanji": [
         "絵画"
       ],
@@ -12585,7 +12798,7 @@
       "surface": "規",
       "onyomi": "キ",
       "kunyomi": "",
-      "meaning": "표준, 측정하다",
+      "meaning": "법 규, 규칙, 규정",
       "related_kanji": [
         "規則",
         "規模",
@@ -12611,8 +12824,8 @@
     {
       "surface": "吸",
       "onyomi": "キュウ",
-      "kunyomi": "す.う",
-      "meaning": "빨다, 흡수하다, 들이마시다, 마시다",
+      "kunyomi": "すう",
+      "meaning": "마실 흡, 들이쉬다",
       "related_kanji": [
         "呼吸",
         "吸収"
@@ -12632,8 +12845,8 @@
     {
       "surface": "因",
       "onyomi": "イン",
-      "kunyomi": "よ.る、ちな.む",
-      "meaning": "원인, 요인, 연관되다, 의존하다, 제한되다",
+      "kunyomi": "よる",
+      "meaning": "인할 인, 원인, 연유",
       "related_kanji": [
         "原因",
         "因果",
@@ -12659,8 +12872,8 @@
     {
       "surface": "散",
       "onyomi": "サン",
-      "kunyomi": "ち.る、ち.らす、-ち.らす、ち.らかす、ち.らかる、ち.らばる、ばら、ばら.ける",
-      "meaning": "흩어지다, 쓰다, 낭비하다",
+      "kunyomi": "ちる、ちらす、ちらかす",
+      "meaning": "흩을 산, 흩어지다(ちる), 흩뜨리다(ちらす)",
       "related_kanji": [
         "散歩",
         "散らかる",
@@ -12687,7 +12900,7 @@
       "surface": "福",
       "onyomi": "フク",
       "kunyomi": "",
-      "meaning": "축복, 운명, 운 luck, 부유함",
+      "meaning": "복 복, 축복, 행운",
       "related_kanji": [
         "幸福"
       ],
@@ -12704,8 +12917,8 @@
     {
       "surface": "留",
       "onyomi": "リュウ、ル",
-      "kunyomi": "と.める、と.まる、とど.める、とど.まる、るうぶる",
-      "meaning": "구금하다, 고정하다, 정지, 멈춰",
+      "kunyomi": "とめる、とまる",
+      "meaning": "머무를 류, 머무르다, 남기다",
       "related_kanji": [
         "停留所",
         "留学"
@@ -12725,8 +12938,8 @@
     {
       "surface": "訪",
       "onyomi": "ホウ",
-      "kunyomi": "おとず.れる、たず.ねる、と.う",
-      "meaning": "호출하다, 방문하다, 찾아보다, 동정심을 표하다",
+      "kunyomi": "おとずれる、たずねる",
+      "meaning": "찾을 방, 방문하다",
       "related_kanji": [
         "訪問"
       ],
@@ -12743,8 +12956,8 @@
     {
       "surface": "程",
       "onyomi": "テイ",
-      "kunyomi": "ほど、-ほど",
-      "meaning": "범위, 학위, 법, 공식, 거리, 제한, 양",
+      "kunyomi": "ほど",
+      "meaning": "한도 정, 규정, 정도, 여정",
       "related_kanji": [
         "程度",
         "程"
@@ -12764,8 +12977,8 @@
     {
       "surface": "辞",
       "onyomi": "ジ",
-      "kunyomi": "や.める、いな.む",
-      "meaning": "사임하다, 단어, 용어, 표현",
+      "kunyomi": "やめる",
+      "meaning": "말씀 사, 말, 단어, 그만두다",
       "related_kanji": [
         "辞める"
       ],
@@ -12782,8 +12995,8 @@
     {
       "surface": "宿",
       "onyomi": "シュク",
-      "kunyomi": "やど、やど.る、やど.す",
-      "meaning": "여관, 숙박, 중계소, 거주하다, 숙소, 임신하다, 집, 주거",
+      "kunyomi": "やど、やどる、やどす",
+      "meaning": "잘 숙, 여관(やど), 잉태하다(やどる), 머무르다(やどす)",
       "related_kanji": [
         "宿",
         "宿泊"
@@ -12803,8 +13016,8 @@
     {
       "surface": "迷",
       "onyomi": "メイ",
-      "kunyomi": "まよ.う",
-      "meaning": "길을 잃은, 당황하다, 의심하여, 잃어버린, 오류, 환상",
+      "kunyomi": "まよう",
+      "meaning": "미혹할 미, 헤메다, 헷갈리다, 미혹되다다",
       "related_kanji": [
         "迷惑",
         "迷子"
@@ -12824,8 +13037,8 @@
     {
       "surface": "浮",
       "onyomi": "フ",
-      "kunyomi": "う.く、う.かれる、う.かぶ、う.かべる",
-      "meaning": "떠 있는, 부유하다, 표면으로 떠오르다",
+      "kunyomi": "うく、うかれる、うかぶ、うかべる",
+      "meaning": "뜰 부, 뜨다, 떠오르다",
       "related_kanji": [
         "浮く",
         "浮上",
@@ -12852,7 +13065,7 @@
       "surface": "雪",
       "onyomi": "セツ",
       "kunyomi": "ゆき",
-      "meaning": "눈",
+      "meaning": "눈 설, 눈",
       "related_kanji": [
         "雪",
         "大雪",
@@ -12878,8 +13091,8 @@
     {
       "surface": "暮",
       "onyomi": "ボ",
-      "kunyomi": "く.れる、く.らす",
-      "meaning": "저녁, 황혼, 시즌 종료, 생계, 생계를 꾸리다, 시간을 보내다",
+      "kunyomi": "くれる、くらす",
+      "meaning": "저물 모, 저녁, 황혼, 세월을 보내다",
       "related_kanji": [
         "暮らす",
         "暮らし",
@@ -12903,7 +13116,7 @@
       "surface": "腹",
       "onyomi": "フク",
       "kunyomi": "はら",
-      "meaning": "복부, 배, 위장",
+      "meaning": "배 복, 배",
       "related_kanji": [
         "腹"
       ],
@@ -12921,7 +13134,7 @@
       "surface": "庭",
       "onyomi": "テイ",
       "kunyomi": "にわ",
-      "meaning": "안뜰, 정원, 마당",
+      "meaning": "뜰 정, 안뜰, 정원, 마당",
       "related_kanji": [
         "庭",
         "庭園",
@@ -12947,8 +13160,8 @@
     {
       "surface": "適",
       "onyomi": "テキ",
-      "kunyomi": "かな.う",
-      "meaning": "적합한, 가끔의, 희귀한, 자격이 있는, 유능한",
+      "kunyomi": "-",
+      "meaning": "맞을 적, 알맞다, 적합하다",
       "related_kanji": [
         "適用",
         "適度",
@@ -12977,8 +13190,8 @@
     {
       "surface": "抱",
       "onyomi": "ホウ",
-      "kunyomi": "だ.く、いだ.く、かか.える",
-      "meaning": "포옹하다, 포옹",
+      "kunyomi": "だく、いだく、かかえる",
+      "meaning": "안을 포, 포옹, 안다",
       "related_kanji": [
         "抱える",
         "抱く"
@@ -12999,7 +13212,7 @@
       "surface": "候",
       "onyomi": "コウ",
       "kunyomi": "そうろう",
-      "meaning": "기후, 계절, 날씨, 기다리다, 기대하다",
+      "meaning": "기후 후, 기후, 기다리다",
       "related_kanji": [
         "気候",
         "天候"
@@ -13019,8 +13232,8 @@
     {
       "surface": "刻",
       "onyomi": "コク",
-      "kunyomi": "きざ.む、きざ.み",
-      "meaning": "새기다, 잘게 자르다, 자르다, 해시, 다지다, 시간, 조각",
+      "kunyomi": "きざむ",
+      "meaning": "새길 각, 새기다, 썰다, 조각하다",
       "related_kanji": [
         "遅刻",
         "時刻"
@@ -13041,7 +13254,7 @@
       "surface": "景",
       "onyomi": "ケイ",
       "kunyomi": "",
-      "meaning": "경치, 보기",
+      "meaning": "볕 경, 경치",
       "related_kanji": [
         "光景",
         "景気",
@@ -13064,8 +13277,8 @@
     {
       "surface": "疲",
       "onyomi": "ヒ",
-      "kunyomi": "つか.れる、-づか.れ、つか.らす",
-      "meaning": "지친, 타이어, 피곤한",
+      "kunyomi": "つかれる",
+      "meaning": "피곤할 피, 피로하다, 피곤하다",
       "related_kanji": [
         "疲れ"
       ],
@@ -13083,7 +13296,7 @@
       "surface": "途",
       "onyomi": "ト",
       "kunyomi": "みち",
-      "meaning": "경로, 방법, 도로",
+      "meaning": "길도, 길",
       "related_kanji": [
         "途端"
       ],
@@ -13100,8 +13313,8 @@
     {
       "surface": "財",
       "onyomi": "ザイ、サイ、ゾク",
-      "kunyomi": "たから",
-      "meaning": "재산, 돈, 부유함, 자산",
+      "kunyomi": "-",
+      "meaning": "재물 재, 재물, 재산",
       "related_kanji": [
         "財産"
       ],
@@ -13118,8 +13331,8 @@
     {
       "surface": "更",
       "onyomi": "コウ",
-      "kunyomi": "さら、さら.に、ふ.ける、ふ.かす",
-      "meaning": "늦어지다, 야간 경비, 늦게까지 앉아 있다, 물론, 갱신하다, 개조하다, 다시, 점점 더, 더욱",
+      "kunyomi": "さら、ふける、ふかす",
+      "meaning": "고칠 경, 고치다, 갱신하다",
       "related_kanji": [
         "変更",
         "更に"
@@ -13139,8 +13352,8 @@
     {
       "surface": "老",
       "onyomi": "ロウ",
-      "kunyomi": "お.いる、ふ.ける",
-      "meaning": "노인, 노년, 늙다",
+      "kunyomi": "おいる、ふける",
+      "meaning": "늙을 노, 늙다(おいる), 늙어보인다(ふける)",
       "related_kanji": [
         "老人",
         "老い"
@@ -13160,8 +13373,8 @@
     {
       "surface": "暗",
       "onyomi": "アン",
-      "kunyomi": "くら.い、くら.む、くれ.る",
-      "meaning": "어둠, 사라지다, 그늘, 비공식, 어두워지다, 눈이 멀다",
+      "kunyomi": "くらい",
+      "meaning": "어두울 암, 어둡다",
       "related_kanji": [
         "暗記"
       ],
@@ -13178,8 +13391,8 @@
     {
       "surface": "眠",
       "onyomi": "ミン",
-      "kunyomi": "ねむ.る、ねむ.い",
-      "meaning": "잠, 죽다, 졸린",
+      "kunyomi": "ねむる、ねむい",
+      "meaning": "잘 면, 잠자다, 졸리다",
       "related_kanji": [
         "居眠り",
         "睡眠"
@@ -13199,8 +13412,8 @@
     {
       "surface": "互",
       "onyomi": "ゴ",
-      "kunyomi": "たが.い、かたみ.に",
-      "meaning": "상호적으로, 함께",
+      "kunyomi": "たがい",
+      "meaning": "서로 호, 서로, 상호간의",
       "related_kanji": [
         "お互い",
         "互い"
@@ -13221,7 +13434,7 @@
       "surface": "杯",
       "onyomi": "ハイ",
       "kunyomi": "さかずき",
-      "meaning": "컵, 와인잔, 유리, 토스트",
+      "meaning": "잔 배, 술잔",
       "related_kanji": [
         "一杯",
         "乾杯",
@@ -13247,8 +13460,8 @@
     {
       "surface": "雑",
       "onyomi": "ザツ、ゾウ",
-      "kunyomi": "まじ.える、まじ.る",
-      "meaning": "잡다한",
+      "kunyomi": "-",
+      "meaning": "섞일 잡, 잡다한, 뒤섞인, 난잡한",
       "related_kanji": [
         "混雑"
       ],
@@ -13265,8 +13478,8 @@
     {
       "surface": "給",
       "onyomi": "キュウ",
-      "kunyomi": "たま.う、たも.う、-たま.え",
-      "meaning": "급여, 임금, 선물, 허용하다, 부여하다, 수여하다",
+      "kunyomi": "-",
+      "meaning": "줄 급, 지급하다, 공급하다",
       "related_kanji": [
         "給料",
         "支給",
@@ -13289,8 +13502,8 @@
     {
       "surface": "便",
       "onyomi": "ベン、ビン",
-      "kunyomi": "たよ.り",
-      "meaning": "편의, 시설, 배설물, 편지, 기회",
+      "kunyomi": "たより",
+      "meaning": "편할 편, 편리하다, 편지, 대소변",
       "related_kanji": [
         "郵便",
         "便り",
@@ -13313,8 +13526,8 @@
     {
       "surface": "御",
       "onyomi": "ギョ、ゴ",
-      "kunyomi": "おん-、お-、み-",
-      "meaning": "존경할 만한, 조종하다, 다스리다",
+      "kunyomi": "おん",
+      "meaning": "거느릴 어, 통치하다, 거느리다",
       "related_kanji": [
         "御"
       ],
@@ -13331,8 +13544,8 @@
     {
       "surface": "積",
       "onyomi": "セキ",
-      "kunyomi": "つ.む、-づ.み、つ.もる、つ.もり",
-      "meaning": "볼륨, 곱셈 (x*y), 에이커 수, 내용, 쌓이다, 스택, 부하, 모으다",
+      "kunyomi": "つむ、つもる",
+      "meaning": "쌓일 적, 쌓이다",
       "related_kanji": [
         "積もる",
         "積極的"
@@ -13352,8 +13565,8 @@
     {
       "surface": "洗",
       "onyomi": "セン",
-      "kunyomi": "あら.う",
-      "meaning": "씻다, 조사하다, 탐사기",
+      "kunyomi": "あらう",
+      "meaning": "씻을 세, 씻다",
       "related_kanji": [
         "洗う",
         "洗濯",
@@ -13380,7 +13593,7 @@
       "surface": "港",
       "onyomi": "コウ",
       "kunyomi": "みなと",
-      "meaning": "항구",
+      "meaning": "항구 항, 항구",
       "related_kanji": [
         "港",
         "空港",
@@ -13406,8 +13619,8 @@
     {
       "surface": "晴",
       "onyomi": "セイ",
-      "kunyomi": "は.れる、は.れ、は.れ-、-ば.れ、は.らす",
-      "meaning": "정리하다",
+      "kunyomi": "はれる、はらす",
+      "meaning": "갤 청, 날이 개다(はれる), 맑은 날씨",
       "related_kanji": [
         "素晴らしい"
       ],
@@ -13424,8 +13637,8 @@
     {
       "surface": "陽",
       "onyomi": "ヨウ",
-      "kunyomi": "ひ",
-      "meaning": "햇빛, 양 원리, 긍정적인, 남성, 하늘, 주간",
+      "kunyomi": "-",
+      "meaning": "볕 양, 햇빛, 양기",
       "related_kanji": [
         "太陽",
         "陽気"
@@ -13445,8 +13658,8 @@
     {
       "surface": "否",
       "onyomi": "ヒ",
-      "kunyomi": "いな、いや",
-      "meaning": "부정하다, 아니요, 노즈, 거절하다, 거부하다",
+      "kunyomi": "いな",
+      "meaning": "아닐 부, 부정, 아니다",
       "related_kanji": [
         "否定"
       ],
@@ -13463,8 +13676,8 @@
     {
       "surface": "折",
       "onyomi": "セツ、シャク",
-      "kunyomi": "お.る、おり、お.り、-お.り、お.れる",
-      "meaning": "접다, 깨다, 골절, 구부리다, 수확량, 제출하다",
+      "kunyomi": "おる、おり、おれる",
+      "meaning": "꺽을 절, 접다(おる), 꺾다, 꺾이다, 나누다, 때(おり)",
       "related_kanji": [
         "骨折"
       ],
@@ -13481,8 +13694,8 @@
     {
       "surface": "招",
       "onyomi": "ショウ",
-      "kunyomi": "まね.く",
-      "meaning": "손짓하다, 초대하다, 소환하다, 참여하다",
+      "kunyomi": "まねく",
+      "meaning": "부를 초, 초대하다, 부르다",
       "related_kanji": [
         "招待",
         "招く"
@@ -13502,8 +13715,8 @@
     {
       "surface": "掛",
       "onyomi": "カイ、ケイ",
-      "kunyomi": "か.ける、-か.ける、か.け、-か.け、-が.け、か.かる、-か.かる、-が.かる、か.かり、-が.かり、かかり、-がかり",
-      "meaning": "매달다, 중단하다, 의존하다, 도착하다, 세금, 따르다",
+      "kunyomi": "かける、かかる、かかり",
+      "meaning": "걸 괘, 걸다, 걸리다",
       "related_kanji": [
         "掛ける",
         "腰掛け",
@@ -13529,8 +13742,8 @@
     {
       "surface": "等",
       "onyomi": "トウ",
-      "kunyomi": "ひと.しい、など、-ら",
-      "meaning": "등., 등등, 수업 (첫 번째), 품질, 동등한, 유사한",
+      "kunyomi": "ひとしい",
+      "meaning": "무리 등, 갈다, 동등하다(ひとしい)",
       "related_kanji": [
         "等しい",
         "上等",
@@ -13553,8 +13766,8 @@
     {
       "surface": "吹",
       "onyomi": "スイ",
-      "kunyomi": "ふ.く",
-      "meaning": "불다, 숨쉬다, 퍼프, 방출하다, 연기",
+      "kunyomi": "ふく",
+      "meaning": "불 취, 불다",
       "related_kanji": [
         "吹く",
         "吹雪",
@@ -13580,8 +13793,8 @@
     {
       "surface": "努",
       "onyomi": "ド",
-      "kunyomi": "つと.める",
-      "meaning": "수고, 근면한, 가능한 한 많이",
+      "kunyomi": "つとめる",
+      "meaning": "힘쓸 노, 힘쓰다, 노력하다",
       "related_kanji": [
         "努力"
       ],
@@ -13616,8 +13829,8 @@
     {
       "surface": "富",
       "onyomi": "フ、フウ",
-      "kunyomi": "と.む、とみ",
-      "meaning": "부유함, 풍부하게 하다, 풍부한",
+      "kunyomi": "とむ、とみ",
+      "meaning": "부유할 부, 부유, 풍족",
       "related_kanji": [
         "豊富"
       ],
@@ -13635,7 +13848,7 @@
       "surface": "欠",
       "onyomi": "ケツ、ケン",
       "kunyomi": "か.ける、か.く",
-      "meaning": "부족, 간격, 실패하다, 하품 부수 (76번)",
+      "meaning": "이지러질 결, 부족, 결함, 어지러진",
       "related_kanji": [
         "欠陥",
         "欠ける",
@@ -13662,7 +13875,7 @@
       "surface": "才",
       "onyomi": "サイ",
       "kunyomi": "",
-      "meaning": "천재, 살, 세제곱 자쿠",
+      "meaning": "재주 재, 재능",
       "related_kanji": [
         "才能"
       ],
@@ -13679,8 +13892,8 @@
     {
       "surface": "草",
       "onyomi": "ソウ",
-      "kunyomi": "くさ、くさ-、-ぐさ",
-      "meaning": "풀, 잡초, 허브, 목초지, 쓰다, 초안",
+      "kunyomi": "くさ",
+      "meaning": "풀 초, 풀",
       "related_kanji": [
         "草",
         "草原",
@@ -13706,8 +13919,8 @@
     {
       "surface": "到",
       "onyomi": "トウ",
-      "kunyomi": "いた.る",
-      "meaning": "도착, 진행하다, 도달하다, 얻다, 결과로 이어지다",
+      "kunyomi": "-",
+      "meaning": "이를 도, 도착하다, 통달하다",
       "related_kanji": [
         "到着"
       ],
@@ -13724,8 +13937,8 @@
     {
       "surface": "誤",
       "onyomi": "ゴ",
-      "kunyomi": "あやま.る、-あやま.る",
-      "meaning": "실수, 오류, 잘못하다, 오도하다",
+      "kunyomi": "あやまる",
+      "meaning": "그르칠 오, 틀리다, 실수하다",
       "related_kanji": [
         "誤解",
         "誤り"
@@ -13745,8 +13958,8 @@
     {
       "surface": "歯",
       "onyomi": "シ",
-      "kunyomi": "よわい、は、よわ.い、よわい.する",
-      "meaning": "치아, 톱니바퀴",
+      "kunyomi": "は",
+      "meaning": "이 치, 치아",
       "related_kanji": [
         "虫歯"
       ],
@@ -13763,8 +13976,8 @@
     {
       "surface": "慣",
       "onyomi": "カン",
-      "kunyomi": "な.れる、な.らす",
-      "meaning": "익숙한, 익숙해지다, 경험을 쌓다",
+      "kunyomi": "なれる、ならす",
+      "meaning": "익숙할 관, 익숙해지다, 습관",
       "related_kanji": [
         "慣れる",
         "習慣",
@@ -13791,7 +14004,7 @@
       "surface": "祖",
       "onyomi": "ソ",
       "kunyomi": "",
-      "meaning": "조상, 개척자, 창립자",
+      "meaning": "조상 조, 개척자, 창립자",
       "related_kanji": [
         "先祖",
         "祖父母",
@@ -13817,8 +14030,8 @@
     {
       "surface": "忙",
       "onyomi": "ボウ、モウ",
-      "kunyomi": "いそが.しい、せわ.しい、おそ.れる、うれえるさま",
-      "meaning": "바쁜, 점령된, 불안한",
+      "kunyomi": "いそがしい",
+      "meaning": "바쁠 망, 바쁘다",
       "related_kanji": [
         "忙しい",
         "多忙",
@@ -13845,7 +14058,7 @@
       "surface": "耳",
       "onyomi": "ジ",
       "kunyomi": "みみ",
-      "meaning": "귀",
+      "meaning": "귀이, 귀귀",
       "related_kanji": [
         "耳",
         "耳鳴り",
@@ -13871,8 +14084,8 @@
     {
       "surface": "勤",
       "onyomi": "キン、ゴン",
-      "kunyomi": "つと.める、-づと.め、つと.まる、いそ.しむ",
-      "meaning": "근면, 취업하다, 제공하다",
+      "kunyomi": "つとめる、つとまる",
+      "meaning": "부지런할 근, 근무하다",
       "related_kanji": [
         "勤め"
       ],
@@ -13890,7 +14103,7 @@
       "surface": "列",
       "onyomi": "レツ、レ",
       "kunyomi": "",
-      "meaning": "파일, 행, 계급, 계층, 열",
+      "meaning": "별일 열, 나열하다",
       "related_kanji": [
         "列車",
         "列"
@@ -13910,8 +14123,8 @@
     {
       "surface": "恥",
       "onyomi": "チ",
-      "kunyomi": "は.じる、はじ、は.じらう、は.ずかしい",
-      "meaning": "수치심, 불명예",
+      "kunyomi": "はじる、はじ、はじらう、はずかしい",
+      "meaning": "부끄러울 치, 부끄러워하다, 부끄러움",
       "related_kanji": [
         "恥ずかしい",
         "恥",
@@ -13937,8 +14150,8 @@
     {
       "surface": "賛",
       "onyomi": "サン",
-      "kunyomi": "たす.ける、たた.える",
-      "meaning": "승인하다, 칭찬, 그림의 제목 또는 명각, 돕다, 동의하다",
+      "kunyomi": "-",
+      "meaning": "도울 찬, 돕다, 칭찬하다",
       "related_kanji": [
         "賛成"
       ],
@@ -13956,7 +14169,7 @@
       "surface": "箱",
       "onyomi": "ソウ",
       "kunyomi": "はこ",
-      "meaning": "상자, 가슴, 사례, 통, 철도 차량",
+      "meaning": "상자 상, 상자",
       "related_kanji": [
         "箱",
         "箱根",
@@ -13983,7 +14196,7 @@
       "surface": "晩",
       "onyomi": "バン",
       "kunyomi": "",
-      "meaning": "해질녘, 밤",
+      "meaning": "늦을 만, 저녁, 밤",
       "related_kanji": [
         "晩",
         "晩ご飯",
@@ -14009,8 +14222,8 @@
     {
       "surface": "窓",
       "onyomi": "ソウ、ス",
-      "kunyomi": "まど、てんまど、けむだし",
-      "meaning": "창문, 창문 패널",
+      "kunyomi": "まど",
+      "meaning": "창 창, 창문",
       "related_kanji": [
         "窓",
         "窓口",
@@ -14037,7 +14250,7 @@
       "surface": "靴",
       "onyomi": "カ",
       "kunyomi": "くつ",
-      "meaning": "신발",
+      "meaning": "신 화, 구두",
       "related_kanji": [
         "靴",
         "革靴",
@@ -14063,8 +14276,8 @@
     {
       "surface": "頂",
       "onyomi": "チョウ",
-      "kunyomi": "いただ.く、いただき",
-      "meaning": "머리에 놓다, 받다, 머리 꼭대기, 상단, 정상 회담, 정점",
+      "kunyomi": "いただく、いただき",
+      "meaning": "정수리 정, 정상, 꼭대기",
       "related_kanji": [
         "頂く",
         "頂戴",
@@ -14087,8 +14300,8 @@
     {
       "surface": "偉",
       "onyomi": "イ",
-      "kunyomi": "えら.い",
-      "meaning": "칭찬할 만한, 위대함, 주목할 만한, 자만하는, 유명한, 훌륭한",
+      "kunyomi": "えらい",
+      "meaning": "클 위, 위대하다, 뛰어나다",
       "related_kanji": [
         "偉大"
       ],
@@ -14105,8 +14318,8 @@
     {
       "surface": "寒",
       "onyomi": "カン",
-      "kunyomi": "さむ.い",
-      "meaning": "추운",
+      "kunyomi": "さむい",
+      "meaning": "찰 한, 춥다",
       "related_kanji": [
         "寒い",
         "寒さ",
@@ -14133,7 +14346,7 @@
       "surface": "猫",
       "onyomi": "ビョウ",
       "kunyomi": "ねこ",
-      "meaning": "고양이",
+      "meaning": "고양이 묘, 고양이",
       "related_kanji": [
         "猫",
         "野良猫",
@@ -14159,8 +14372,8 @@
     {
       "surface": "泳",
       "onyomi": "エイ",
-      "kunyomi": "およ.ぐ",
-      "meaning": "수영하다",
+      "kunyomi": "およぐ",
+      "meaning": "헤엄칠 영, 수영하다",
       "related_kanji": [
         "泳ぎ"
       ],
@@ -14177,8 +14390,8 @@
     {
       "surface": "貧",
       "onyomi": "ヒン、ビン",
-      "kunyomi": "まず.しい",
-      "meaning": "빈곤, 가난한",
+      "kunyomi": "まずしい",
+      "meaning": "가난할 빈, 가난하다, 부족하다",
       "related_kanji": [
         "貧しい"
       ],
@@ -14195,8 +14408,8 @@
     {
       "surface": "易",
       "onyomi": "エキ、イ",
-      "kunyomi": "やさ.しい、やす.い",
-      "meaning": "쉬운, 준비 완료, 단순한, 점술, 점 divination",
+      "kunyomi": "やさしい",
+      "meaning": "바꿀 역, 바꾸다, 쉽다, 운세",
       "related_kanji": [
         "容易"
       ],
@@ -14213,8 +14426,8 @@
     {
       "surface": "煙",
       "onyomi": "エン",
-      "kunyomi": "けむ.る、けむり、けむ.い",
-      "meaning": "연기",
+      "kunyomi": "けむる、けむり、けむい",
+      "meaning": "연기 연, 연기, 그을음",
       "related_kanji": [
         "煙",
         "禁煙"
@@ -14234,8 +14447,8 @@
     {
       "surface": "偶",
       "onyomi": "グウ",
-      "kunyomi": "たま",
-      "meaning": "우연히, 짝수, 커플, 남편과 아내, 같은 종류",
+      "kunyomi": "-",
+      "meaning": "짝 우, 우연, 짝, 배필, 우상상",
       "related_kanji": [
         "偶然"
       ],
@@ -14252,8 +14465,8 @@
     {
       "surface": "幾",
       "onyomi": "キ",
-      "kunyomi": "いく-、いく.つ、いく.ら",
-      "meaning": "얼마나 많은, 얼마나, 얼마나 멀리, 얼마나 오래, 일부, 여러",
+      "kunyomi": "いく",
+      "meaning": "몇 기, 몇, 얼마",
       "related_kanji": [
         "幾つ",
         "幾ら",
@@ -15665,7 +15878,7 @@
     {
       "surface": "置く",
       "reading": "おく",
-      "meaning": "놓다; 두다",
+      "meaning": "놓다, 두다",
       "pos": "동사",
       "level": "N5",
       "kind": "word"
@@ -16553,7 +16766,7 @@
     {
       "surface": "読む",
       "reading": "よむ",
-      "meaning": "읽다",
+      "meaning": "읽을 독, 읽다",
       "pos": "동사",
       "level": "N5",
       "kind": "word"
@@ -21507,7 +21720,7 @@
     {
       "surface": "雲",
       "reading": "くも",
-      "meaning": "구름",
+      "meaning": "구름 운, 구름",
       "pos": "명사",
       "level": "N4",
       "kind": "word"
@@ -34645,7 +34858,7 @@
     {
       "surface": "陸",
       "reading": "りく",
-      "meaning": "땅, 해안",
+      "meaning": "뭍 육, 육지",
       "pos": "명사",
       "level": "N3",
       "kind": "word"
@@ -36693,7 +36906,7 @@
     {
       "surface": "谷",
       "reading": "たに",
-      "meaning": "계곡",
+      "meaning": "골 곡, 계곡, 골짜기",
       "pos": "명사",
       "level": "N3",
       "kind": "word"
@@ -42515,8 +42728,8 @@
     {
       "surface": "軍",
       "onyomi": "グン",
-      "kunyomi": "いくさ",
-      "meaning": "군대, 힘, 전쟁, 전투",
+      "kunyomi": "-",
+      "meaning": "군사사 군, 군대",
       "related_kanji": [
         "軍",
         "軍隊",
@@ -42543,7 +42756,7 @@
       "surface": "島",
       "onyomi": "トウ",
       "kunyomi": "しま",
-      "meaning": "섬",
+      "meaning": "섬 도, 섬",
       "related_kanji": [
         "列島",
         "半島"
@@ -42590,8 +42803,8 @@
     {
       "surface": "兵",
       "onyomi": "ヘイ、ヒョウ",
-      "kunyomi": "つわもの",
-      "meaning": "군인, 사적인, 군대, 전쟁, 전략, 전술",
+      "kunyomi": "-",
+      "meaning": "병사 병, 병사",
       "related_kanji": [
         "兵士",
         "兵器",
@@ -42684,7 +42897,7 @@
       "surface": "協",
       "onyomi": "キョウ",
       "kunyomi": "",
-      "meaning": "협력",
+      "meaning": "화협할 협, 협력하다",
       "related_kanji": [
         "協力",
         "協議",
@@ -42783,7 +42996,7 @@
       "surface": "血",
       "onyomi": "ケツ",
       "kunyomi": "ち",
-      "meaning": "혈액",
+      "meaning": "피 혈, 혈액",
       "related_kanji": [
         "血圧",
         "血液",
@@ -42806,8 +43019,8 @@
     {
       "surface": "線",
       "onyomi": "セン",
-      "kunyomi": "すじ",
-      "meaning": "라인, 추적하다",
+      "kunyomi": "-",
+      "meaning": "줄 선, 라인, 추적하다",
       "related_kanji": [
         "新幹線",
         "内線",
@@ -42953,8 +43166,8 @@
     {
       "surface": "星",
       "onyomi": "セイ、ショウ",
-      "kunyomi": "ほし、-ぼし",
-      "meaning": "별, 장소, 점, 표시",
+      "kunyomi": "ほし",
+      "meaning": "별 성, 별",
       "related_kanji": [
         "星",
         "星座",
@@ -42981,7 +43194,7 @@
       "surface": "仲",
       "onyomi": "チュウ",
       "kunyomi": "なか",
-      "meaning": "중재자, 관계",
+      "meaning": "버금 중, 사람사람 사이 관계",
       "related_kanji": [
         "仲直り"
       ],
@@ -43149,7 +43362,7 @@
       "surface": "州",
       "onyomi": "シュウ、ス",
       "kunyomi": "す",
-      "meaning": "상태, 주",
+      "meaning": "고을 주, 주, 지방",
       "related_kanji": [
         "州",
         "九州",
@@ -43349,8 +43562,8 @@
     {
       "surface": "練",
       "onyomi": "レン",
-      "kunyomi": "ね.る、ね.り",
-      "meaning": "연습, 광택, 기차, 드릴, 광택을 내다, 정제하다",
+      "kunyomi": "ねる",
+      "meaning": "익힐 련, 연마하다, 다듬다(ねる)",
       "related_kanji": [
         "練習",
         "訓練",
@@ -43394,8 +43607,8 @@
     {
       "surface": "帯",
       "onyomi": "タイ",
-      "kunyomi": "お.びる、おび",
-      "meaning": "장식띠, 벨트, 오비, 구역, 지역",
+      "kunyomi": "おびる、おび",
+      "meaning": "띠 대, 허리띠, 휴대하다(おびる), 지역, 띠(おび)",
       "related_kanji": [
         "地帯",
         "温帯",
@@ -43478,8 +43691,8 @@
     {
       "surface": "録",
       "onyomi": "ロク",
-      "kunyomi": "しる.す、と.る",
-      "meaning": "기록",
+      "kunyomi": "-",
+      "meaning": "기록할 록, 기록하다, 기록",
       "related_kanji": [
         "記録",
         "録音",
@@ -43523,8 +43736,8 @@
     {
       "surface": "改",
       "onyomi": "カイ",
-      "kunyomi": "あらた.める、あらた.まる",
-      "meaning": "개혁, 변화, 수정하다, 고치다, 갱신하다, 검토하다, 검사하다, 검색",
+      "kunyomi": "あらためる、あらたまる",
+      "meaning": "고칠 개, 개선하다(あらためる), 고치다, 새로워지다(あらたまる)",
       "related_kanji": [
         "改めて",
         "改正"
@@ -43679,8 +43892,8 @@
     {
       "surface": "丸",
       "onyomi": "ガン",
-      "kunyomi": "まる、まる.める、まる.い",
-      "meaning": "둥근, 전체 (월), 완벽함, -함, 알약, 둥글게 만들다, 말아 올리다, 웅크리다, 유혹하다, 설명하다",
+      "kunyomi": "まる、まるめる、まるい",
+      "meaning": "둥글 환, 둥글다(まるい), 둥글게하다(まるめる)",
       "related_kanji": [
         "丸",
         "丸い",
@@ -43724,8 +43937,8 @@
     {
       "surface": "量",
       "onyomi": "リョウ",
-      "kunyomi": "はか.る",
-      "meaning": "수량, 측정하다, 무게, 양, 고려하다, 추정, 추측하다",
+      "kunyomi": "はかる",
+      "meaning": "헤아릴 량, 양, 무게를 재다(はかる)",
       "related_kanji": [
         "重量",
         "測量",
@@ -43775,8 +43988,8 @@
     {
       "surface": "辺",
       "onyomi": "ヘン",
-      "kunyomi": "あた.り、ほと.り、-べ",
-      "meaning": "주변 환경, 경계, 근처",
+      "kunyomi": "あたり、べ",
+      "meaning": "가 변, 가장자리, 부근, 근처(あたり)",
       "related_kanji": [
         "周辺"
       ],
@@ -43821,7 +44034,7 @@
       "surface": "令",
       "onyomi": "レイ",
       "kunyomi": "",
-      "meaning": "주문, 법률, 명령, 법령, 좋은",
+      "meaning": "하여금 령, 명령하다",
       "related_kanji": [
         "命令",
         "令和",
@@ -43865,8 +44078,8 @@
     {
       "surface": "極",
       "onyomi": "キョク、ゴク",
-      "kunyomi": "きわ.める、きわ.まる、きわ.まり、きわ.み、き.める、-ぎ.め、き.まる",
-      "meaning": "폴대, 정착, 결론, 끝, 최고 등급, 전신주, 매우, 가장, 10**48",
+      "kunyomi": "きわめる、きわまる、きわみ",
+      "meaning": "다할 극, 극한, 극도, 한계(きわみ), 극한에 달하다(きわまる), 극한에 이르다(きわめる)",
       "related_kanji": [
         "消極的",
         "南極",
@@ -43889,8 +44102,8 @@
     {
       "surface": "細",
       "onyomi": "サイ",
-      "kunyomi": "ほそ.い、ほそ.る、こま.か、こま.かい",
-      "meaning": "섬세한, 마르다, 테이퍼, 날씬한, 좁은, 상세한, 정확한",
+      "kunyomi": "ほそい、ほそる、こまか、こまかい",
+      "meaning": "가늘 세, 가늘다(ほそい), 가늘어지다(ほそる), 세밀한(こまか), 촘촘하다(こまかい), 자세한",
       "related_kanji": [
         "細い",
         "細かい",
@@ -43916,8 +44129,8 @@
     {
       "surface": "周",
       "onyomi": "シュウ",
-      "kunyomi": "まわ.り",
-      "meaning": "둘레, 회로, 무릎",
+      "kunyomi": "まわり",
+      "meaning": "두루 주, 둘레(まわり), 주기, 돌다",
       "related_kanji": [
         "周辺"
       ],
@@ -43935,7 +44148,7 @@
       "surface": "管",
       "onyomi": "カン",
       "kunyomi": "くだ",
-      "meaning": "파이프, 튜브, 관악기, 술주정, 제어, 관할권",
+      "meaning": "대롱 관, 관리하다, 관할하다",
       "related_kanji": [
         "管理",
         "配管",
@@ -43980,7 +44193,7 @@
       "surface": "府",
       "onyomi": "フ",
       "kunyomi": "",
-      "meaning": "구역, 도시 현, 정부 사무소, 대표 기관, 창고",
+      "meaning": "마을 부, 관쳥, 일본행정구역단위",
       "related_kanji": [
         "政府",
         "府",
@@ -44006,8 +44219,8 @@
     {
       "surface": "根",
       "onyomi": "コン",
-      "kunyomi": "ね、-ね",
-      "meaning": "뿌리, 급진적인, 머리 (여드름)",
+      "kunyomi": "ね",
+      "meaning": "뿌리 근, 뿌리, 근본",
       "related_kanji": [
         "垣根"
       ],
@@ -44091,7 +44304,7 @@
       "surface": "史",
       "onyomi": "シ",
       "kunyomi": "",
-      "meaning": "역사, 연대기",
+      "meaning": "역사 사, 역사, 연대기",
       "related_kanji": [
         "歴史",
         "史実",
@@ -44163,7 +44376,7 @@
       "surface": "材",
       "onyomi": "ザイ",
       "kunyomi": "",
-      "meaning": "목재, 로그, 나무, 재료, 재능",
+      "meaning": "재목 재, 재목, 재료",
       "related_kanji": [
         "材木",
         "木材"
@@ -44228,8 +44441,8 @@
     {
       "surface": "象",
       "onyomi": "ショウ、ゾウ",
-      "kunyomi": "かたど.る",
-      "meaning": "코끼리, 이후 패턴, 모방하다, 이미지, 형태, 징조 (시대의)",
+      "kunyomi": "-",
+      "meaning": "코끼리 상, 코끼리, 형상, 심상",
       "related_kanji": [
         "抽象"
       ],
@@ -44267,8 +44480,8 @@
     {
       "surface": "希",
       "onyomi": "キ、ケ",
-      "kunyomi": "まれ、こいねが.う",
-      "meaning": "희망, 구걸하다, 요청, 기도하다, 간청하다, 그리스, 희석하다 (산), 희귀한, 몇몇, 경이로운",
+      "kunyomi": "-",
+      "meaning": "바랄 희, 바라다, 드물다",
       "related_kanji": [
         "希望",
         "希少",
@@ -44373,7 +44586,7 @@
       "surface": "戸",
       "onyomi": "コ",
       "kunyomi": "と",
-      "meaning": "문, 채, 문 방(門)",
+      "meaning": "집 호, 집, 문, 출입구",
       "related_kanji": [
         "雨戸",
         "戸棚",
@@ -44397,7 +44610,7 @@
       "surface": "歴",
       "onyomi": "レキ、レッキ",
       "kunyomi": "",
-      "meaning": "커리큘럼, 계속, 시간의 흐름",
+      "meaning": "지낼 력, 지나가다, 경과하다",
       "related_kanji": [
         "歴史",
         "経歴",
@@ -44441,8 +44654,8 @@
     {
       "surface": "賞",
       "onyomi": "ショウ",
-      "kunyomi": "ほ.める",
-      "meaning": "상금, 보상, 칭찬",
+      "kunyomi": "-",
+      "meaning": "상줄 상, 상",
       "related_kanji": [
         "賞金",
         "賞品"
@@ -44507,8 +44720,8 @@
     {
       "surface": "型",
       "onyomi": "ケイ",
-      "kunyomi": "かた、-がた",
-      "meaning": "곰팡이, 타입, 모델",
+      "kunyomi": "かた",
+      "meaning": "모형 형, 모형, 본, 모범",
       "related_kanji": [
         "型",
         "大型",
@@ -44535,7 +44748,7 @@
       "surface": "波",
       "onyomi": "ハ",
       "kunyomi": "なみ",
-      "meaning": "파도, 물결, 폴란드",
+      "meaning": "물결 파, 물결, 파동",
       "related_kanji": [
         "電波"
       ],
@@ -44552,8 +44765,8 @@
     {
       "surface": "焼",
       "onyomi": "ショウ",
-      "kunyomi": "や.く、や.き、や.き-、-や.き、や.ける",
-      "meaning": "굽다, 타는",
+      "kunyomi": "やく、やける",
+      "meaning": "불사를 소, 태우다, 굽다",
       "related_kanji": [
         "焼く",
         "焼き肉",
@@ -44607,7 +44820,7 @@
       "surface": "課",
       "onyomi": "カ",
       "kunyomi": "",
-      "meaning": "장, 수업, 섹션, 부서, 분할",
+      "meaning": "공부할 과, 과정, 부서, 할당하다",
       "related_kanji": [
         "課税",
         "課程",
@@ -44697,7 +44910,7 @@
       "surface": "副",
       "onyomi": "フク",
       "kunyomi": "",
-      "meaning": "부-, 죄송합니다, 번역할 텍스트를 제공해 주세요., 도우미, 복제하다, 복사",
+      "meaning": "버금 부, 버금, 둘째",
       "related_kanji": [
         "副",
         "副作用",
@@ -44847,7 +45060,7 @@
       "surface": "橋",
       "onyomi": "キョウ",
       "kunyomi": "はし",
-      "meaning": "다리",
+      "meaning": "다리 교, 다리",
       "related_kanji": [
         "鉄橋"
       ],
@@ -44891,8 +45104,8 @@
     {
       "surface": "児",
       "onyomi": "ジ、ニ、ゲイ",
-      "kunyomi": "こ、-こ、-っこ",
-      "meaning": "갓 태어난 아기, 아이, 동물의 새끼",
+      "kunyomi": "-",
+      "meaning": "아이 아, 아이, 아동",
       "related_kanji": [
         "育児",
         "幼児",
@@ -44915,8 +45128,8 @@
     {
       "surface": "算",
       "onyomi": "サン",
-      "kunyomi": "そろ",
-      "meaning": "계산하다, 점치는, 숫자, 주판, 확률",
+      "kunyomi": "-",
+      "meaning": "셈 산, 계산하다",
       "related_kanji": [
         "算数"
       ],
@@ -44933,8 +45146,8 @@
     {
       "surface": "囲",
       "onyomi": "イ",
-      "kunyomi": "かこ.む、かこ.う、かこ.い",
-      "meaning": "둘러싸다, 포위하다, 가게, 창백한, 울타리, 보존하다, 유지하다",
+      "kunyomi": "かこむ、かこう",
+      "meaning": "둘레 위, 두르다(かこむ), 애워싸다",
       "related_kanji": [
         "囲む",
         "周囲",
@@ -44961,7 +45174,7 @@
       "surface": "順",
       "onyomi": "ジュン",
       "kunyomi": "",
-      "meaning": "복종하다, 주문, 돌다, 오른쪽, 온순함, 행사",
+      "meaning": "순할 순, 온순한, 순종적인, 차례",
       "related_kanji": [
         "順序",
         "道順"
@@ -45026,8 +45239,8 @@
     {
       "surface": "玉",
       "onyomi": "ギョク",
-      "kunyomi": "たま、たま-、-だま",
-      "meaning": "보석, 공",
+      "kunyomi": "たま",
+      "meaning": "구슬 옥, 보석, 구슬",
       "related_kanji": [
         "玉",
         "宝玉",
@@ -45053,8 +45266,8 @@
     {
       "surface": "鉄",
       "onyomi": "テツ",
-      "kunyomi": "くろがね",
-      "meaning": "철",
+      "kunyomi": "-",
+      "meaning": "쇠 철, 철",
       "related_kanji": [
         "私鉄",
         "鉄橋"
@@ -45218,8 +45431,8 @@
     {
       "surface": "温",
       "onyomi": "オン",
-      "kunyomi": "あたた.か、あたた.かい、あたた.まる、あたた.める、ぬく",
-      "meaning": "따뜻한",
+      "kunyomi": "あたたか、あたたかい、あたたまる、あたためる",
+      "meaning": "따듯할 온, 따뜻한",
       "related_kanji": [
         "温室",
         "温まる",
@@ -45276,7 +45489,7 @@
       "surface": "輪",
       "onyomi": "リン",
       "kunyomi": "わ",
-      "meaning": "바퀴, 반지, 원, 링크, 루프, 송이",
+      "meaning": "바퀴 륜, 바퀴",
       "related_kanji": [
         "車輪"
       ],
@@ -45293,8 +45506,8 @@
     {
       "surface": "衣",
       "onyomi": "イ、エ",
-      "kunyomi": "ころも、きぬ、-ぎ",
-      "meaning": "의류, 옷, 드레싱",
+      "kunyomi": "ころも",
+      "meaning": "옷 의, 옷",
       "related_kanji": [
         "衣食住"
       ],
@@ -45356,8 +45569,8 @@
     {
       "surface": "栄",
       "onyomi": "エイ、ヨウ",
-      "kunyomi": "さか.える、は.え、-ば.え、は.える、え",
-      "meaning": "번영하다, 번영, 명예, 영광, 화려함",
+      "kunyomi": "さかえる、はえ、はえる",
+      "meaning": "영화 영, 번영하다(さかえる), 영광(はえ), 돋보이다(はえる)",
       "related_kanji": [
         "栄える",
         "栄養",
@@ -45431,8 +45644,8 @@
     {
       "surface": "委",
       "onyomi": "イ",
-      "kunyomi": "ゆだ.ねる",
-      "meaning": "위원회, 맡기다, 떠나다, 헌신하다, 버리다",
+      "kunyomi": "ゆだねる",
+      "meaning": "맡길 위, 맡기다(ゆだねる), 위임하다",
       "related_kanji": [
         "委員会",
         "委任",
@@ -45458,8 +45671,8 @@
     {
       "surface": "芸",
       "onyomi": "ゲイ、ウン",
-      "kunyomi": "う.える、のり、わざ",
-      "meaning": "기법, 예술, 공예, 성능, 연기, 속임수, 스턴트",
+      "kunyomi": "-",
+      "meaning": "재주 예, 재주, 예술",
       "related_kanji": [
         "芸能",
         "文芸",
@@ -45485,8 +45698,8 @@
     {
       "surface": "印",
       "onyomi": "イン",
-      "kunyomi": "しるし、-じるし、しる.す",
-      "meaning": "우표, 물개, 표시, 각인, 상징, 상표, 증거, 기념품, 인도",
+      "kunyomi": "しるし",
+      "meaning": "도장 인, 도장",
       "related_kanji": [
         "目印",
         "矢印"
@@ -45599,8 +45812,8 @@
     {
       "surface": "植",
       "onyomi": "ショク",
-      "kunyomi": "う.える、う.わる",
-      "meaning": "식물",
+      "kunyomi": "うえる、うわる",
+      "meaning": "심을 식, 심다(うえる), 심어지다(うわる)",
       "related_kanji": [
         "田植え",
         "植木"
@@ -45620,8 +45833,8 @@
     {
       "surface": "庫",
       "onyomi": "コ、ク",
-      "kunyomi": "くら",
-      "meaning": "창고",
+      "kunyomi": "",
+      "meaning": "고집 고, 창고",
       "related_kanji": [
         "倉庫",
         "車庫"
@@ -45641,8 +45854,8 @@
     {
       "surface": "羽",
       "onyomi": "ウ",
-      "kunyomi": "は、わ、はね",
-      "meaning": "깃털, 마리",
+      "kunyomi": "は、はね",
+      "meaning": "깃 우, 깃털, 날개",
       "related_kanji": [
         "羽",
         "羽毛",
@@ -45696,7 +45909,7 @@
       "surface": "各",
       "onyomi": "カク",
       "kunyomi": "おのおの",
-      "meaning": "각각, 매우, 어느 한 쪽",
+      "meaning": "각각 각, 각자의, 각각(おのおの)",
       "related_kanji": [
         "各自",
         "各地"
@@ -45717,7 +45930,7 @@
       "surface": "角",
       "onyomi": "カク",
       "kunyomi": "かど、つの",
-      "meaning": "각도, 구석, 정사각형, 뿔",
+      "meaning": "뿔 각, 구석, 뿔",
       "related_kanji": [
         "街角",
         "四角い",
@@ -45801,7 +46014,7 @@
       "surface": "農",
       "onyomi": "ノウ",
       "kunyomi": "",
-      "meaning": "농업, 농부들",
+      "meaning": "농사 농, 농업, 농사",
       "related_kanji": [
         "農村",
         "農薬",
@@ -45903,7 +46116,7 @@
       "surface": "秒",
       "onyomi": "ビョウ",
       "kunyomi": "",
-      "meaning": "초",
+      "meaning": "분초 초, 1초",
       "related_kanji": [
         "秒",
         "一秒",
@@ -45929,8 +46142,8 @@
     {
       "surface": "固",
       "onyomi": "コ",
-      "kunyomi": "かた.める、かた.まる、かた.まり、かた.い",
-      "meaning": "굳히다, 설정, 응고, 응고시키다",
+      "kunyomi": "かためる、かたまる、かたい",
+      "meaning": "굳을 고, 굳다(かたい), 단단하다, 딱딱하다",
       "related_kanji": [
         "固まる"
       ],
@@ -45986,8 +46199,8 @@
     {
       "surface": "競",
       "onyomi": "キョウ、ケイ",
-      "kunyomi": "きそ.う、せ.る、くら.べる",
-      "meaning": "모방하다, 경쟁하다, 입찰, 경매에 부치다, 싸움, 경쟁, 경주",
+      "kunyomi": "きそう、せる",
+      "meaning": "다툴 경, 겨루다, 경쟁하다(きそう), 다투다",
       "related_kanji": [
         "競馬"
       ],
@@ -46067,8 +46280,8 @@
     {
       "surface": "清",
       "onyomi": "セイ、ショウ、シン",
-      "kunyomi": "きよ.い、きよ.まる、きよ.める",
-      "meaning": "순수한, 정화하다, 퇴마하다, 만주 왕조",
+      "kunyomi": "きよい、きよまる、きよめる",
+      "meaning": "맑을 청, 맑다(きよい), 맑아지다(きよまる), 깨끗이하다(きよめる)",
       "related_kanji": [
         "清掃"
       ],
@@ -46086,7 +46299,7 @@
       "surface": "毒",
       "onyomi": "ドク",
       "kunyomi": "",
-      "meaning": "독, 바이러스, 독액, 세균, 해치다, 부상, 앙심",
+      "meaning": "독 독, 독",
       "related_kanji": [
         "消毒"
       ],
@@ -46128,7 +46341,7 @@
       "surface": "岩",
       "onyomi": "ガン",
       "kunyomi": "いわ",
-      "meaning": "바위, 절벽",
+      "meaning": "바위 암, 바위, 암석",
       "related_kanji": [
         "溶岩"
       ],
@@ -46200,7 +46413,7 @@
       "surface": "油",
       "onyomi": "ユ、ユウ",
       "kunyomi": "あぶら",
-      "meaning": "기름, 지방",
+      "meaning": "기름 유, 기름",
       "related_kanji": [
         "油断",
         "灯油"
@@ -46221,7 +46434,7 @@
       "surface": "坂",
       "onyomi": "ハン",
       "kunyomi": "さか",
-      "meaning": "경사, 기울이다, 언덕",
+      "meaning": "언덕 판, 언덕",
       "related_kanji": [
         "坂道",
         "下り坂",
@@ -46274,8 +46487,8 @@
     {
       "surface": "停",
       "onyomi": "テイ",
-      "kunyomi": "と.める、と.まる",
-      "meaning": "중단, 중지",
+      "kunyomi": "-",
+      "meaning": "머무를 정, 중지, 멈추다",
       "related_kanji": [
         "停電"
       ],
@@ -46319,8 +46532,8 @@
     {
       "surface": "祝",
       "onyomi": "シュク、シュウ",
-      "kunyomi": "いわ.う",
-      "meaning": "축하하다",
+      "kunyomi": "いわう",
+      "meaning": "빌 축, 축하하다",
       "related_kanji": [
         "祝日"
       ],
@@ -46400,8 +46613,8 @@
     {
       "surface": "省",
       "onyomi": "セイ、ショウ",
-      "kunyomi": "かえり.みる、はぶ.く",
-      "meaning": "초점, 정부부처, 보존하다",
+      "kunyomi": "かえりみる、はぶく",
+      "meaning": "살필 성, 살피다, 돌이켜보다(かえりみる), 줄이다(はぶく)",
       "related_kanji": [
         "反省",
         "省略"
@@ -46422,7 +46635,7 @@
       "surface": "底",
       "onyomi": "テイ",
       "kunyomi": "そこ",
-      "meaning": "바닥, 유일한, 깊이, 최저 가격, 기지, 종류, 정렬하다",
+      "meaning": "밑 저, 바닥",
       "related_kanji": [
         "底",
         "海底",
@@ -46449,7 +46662,7 @@
       "surface": "荷",
       "onyomi": "カ",
       "kunyomi": "に",
-      "meaning": "수하물, 지게짐, 견디다, 견착하다, 부하, 화물",
+      "meaning": "멜 하, 짐, 짊어지다",
       "related_kanji": [
         "荷物",
         "荷台",
@@ -46493,8 +46706,8 @@
     {
       "surface": "卒",
       "onyomi": "ソツ、シュツ",
-      "kunyomi": "そっ.する、お.える、お.わる、ついに、にわか",
-      "meaning": "졸업하다, 군인, 개인적인, 죽다",
+      "kunyomi": "-",
+      "meaning": "마칠 졸, 졸업, 마치다",
       "related_kanji": [
         "卒業",
         "卒論",
@@ -46560,7 +46773,7 @@
       "surface": "億",
       "onyomi": "オク",
       "kunyomi": "",
-      "meaning": "억, 10**8",
+      "meaning": "억 억, 1억",
       "related_kanji": [
         "億",
         "数億",
@@ -46608,7 +46821,7 @@
       "surface": "毛",
       "onyomi": "モウ",
       "kunyomi": "け",
-      "meaning": "모피, 머리카락, 깃털, 내려",
+      "meaning": "터럭 모, 털",
       "related_kanji": [
         "毛糸",
         "羊毛",
@@ -46694,8 +46907,8 @@
     {
       "surface": "勇",
       "onyomi": "ユウ",
-      "kunyomi": "いさ.む",
-      "meaning": "용기, 기운 내, 기분이 좋다, 영웅주의",
+      "kunyomi": "いさむ",
+      "meaning": "날랠 용, 용기, 용맹",
       "related_kanji": [
         "勇ましい"
       ],
@@ -46737,7 +46950,7 @@
       "surface": "倍",
       "onyomi": "バイ",
       "kunyomi": "",
-      "meaning": "더블, 두 번, 시대, 접다",
+      "meaning": "곱 배, 2배",
       "related_kanji": [
         "倍",
         "二倍",
@@ -46812,7 +47025,7 @@
       "surface": "岸",
       "onyomi": "ガン",
       "kunyomi": "きし",
-      "meaning": "해변",
+      "meaning": "언덕 안, 물가, 벼랑",
       "related_kanji": [
         "岸",
         "海岸",
@@ -46917,7 +47130,7 @@
       "surface": "央",
       "onyomi": "オウ",
       "kunyomi": "",
-      "meaning": "센터, 중간",
+      "meaning": "가운데 양, 중앙",
       "related_kanji": [
         "中央",
         "震央",
@@ -46941,7 +47154,7 @@
       "surface": "航",
       "onyomi": "コウ",
       "kunyomi": "",
-      "meaning": "탐색하다, 항해하다, 크루즈, 날다",
+      "meaning": "배 항, 항해",
       "related_kanji": [
         "航空",
         "航海",
@@ -47223,7 +47436,7 @@
       "surface": "皮",
       "onyomi": "ヒ",
       "kunyomi": "かわ",
-      "meaning": "모피, 피부, 숨다, 가죽, 피부 급진적 (번호 107)",
+      "meaning": "가죽 피, 가죽, 모피, 표면",
       "related_kanji": [
         "皮肉",
         "毛皮"
@@ -47243,8 +47456,8 @@
     {
       "surface": "照",
       "onyomi": "ショウ",
-      "kunyomi": "て.る、て.らす、て.れる",
-      "meaning": "밝히다, 빛나다, 비교하다, 수줍은",
+      "kunyomi": "てる、てらす、てれる",
+      "meaning": "비칠 조, 비치다(てる), 비추다(てらす), 수줍어하다(てれる)",
       "related_kanji": [
         "対照",
         "照る",
@@ -47294,8 +47507,8 @@
     {
       "surface": "祭",
       "onyomi": "サイ",
-      "kunyomi": "まつ.る、まつ.り、まつり",
-      "meaning": "의식, 기도를 드리다, 축하하다, 신격화하다, 모시다, 숭배",
+      "kunyomi": "まつる、まつり",
+      "meaning": "제사 제, 의식, 축제",
       "related_kanji": [
         "祭る"
       ],
@@ -47357,8 +47570,8 @@
     {
       "surface": "包",
       "onyomi": "ホウ",
-      "kunyomi": "つつ.む、くる.む",
-      "meaning": "포장하다, 짐을 싸다, 덮다, 감추다",
+      "kunyomi": "つつむ",
+      "meaning": "쌀 포, 감싸다",
       "related_kanji": [
         "包装",
         "包丁",
@@ -47445,7 +47658,7 @@
       "surface": "板",
       "onyomi": "ハン、バン",
       "kunyomi": "いた",
-      "meaning": "플랭크, 보드, 접시, 단계",
+      "meaning": "널빤지 판, 판자, 널빤지",
       "related_kanji": [
         "看板"
       ],
@@ -47480,8 +47693,8 @@
     {
       "surface": "訓",
       "onyomi": "クン、キン",
-      "kunyomi": "おし.える、よ.む、くん.ずる",
-      "meaning": "지시, 일본어 문자 읽기, 설명, 읽다",
+      "kunyomi": "-",
+      "meaning": "가르칠 훈, 가르치다",
       "related_kanji": [
         "訓読み",
         "訓練",
@@ -47562,7 +47775,7 @@
       "surface": "虫",
       "onyomi": "チュウ、キ",
       "kunyomi": "むし",
-      "meaning": "곤충, 벌레, 성질",
+      "meaning": "벌레 충, 벌레",
       "related_kanji": [
         "虫",
         "害虫",
@@ -47589,7 +47802,7 @@
       "surface": "寺",
       "onyomi": "ジ",
       "kunyomi": "てら",
-      "meaning": "불교 사원",
+      "meaning": "절 사, 절",
       "related_kanji": [
         "お寺",
         "寺院",
@@ -47612,8 +47825,8 @@
     {
       "surface": "氷",
       "onyomi": "ヒョウ",
-      "kunyomi": "こおり、ひ、こお.る",
-      "meaning": "고드름, 얼음, 우박, 얼어붙다, 응고하다",
+      "kunyomi": "こおり、ひ",
+      "meaning": "얼음 빙, 얼음",
       "related_kanji": [
         "氷",
         "氷山",
@@ -47639,8 +47852,8 @@
     {
       "surface": "黄",
       "onyomi": "コウ、オウ",
-      "kunyomi": "き、こ-",
-      "meaning": "노란색",
+      "kunyomi": "き、こ",
+      "meaning": "누를 황, 노란색",
       "related_kanji": [
         "黄色",
         "黄金",
@@ -48015,7 +48228,7 @@
       "surface": "章",
       "onyomi": "ショウ",
       "kunyomi": "",
-      "meaning": "배지, 장, 구성, 시, 디자인",
+      "meaning": "글 장, 글, 문장, 무늬",
       "related_kanji": [
         "章",
         "文章",
@@ -48273,7 +48486,7 @@
       "surface": "孫",
       "onyomi": "ソン",
       "kunyomi": "まご",
-      "meaning": "손주, 후손",
+      "meaning": "손자 손, 손주, 후손",
       "related_kanji": [
         "子孫"
       ],
@@ -48360,7 +48573,7 @@
       "surface": "札",
       "onyomi": "サツ",
       "kunyomi": "ふだ",
-      "meaning": "태그, 지폐, 채권 개수, 플래카드, 입찰",
+      "meaning": "편지 찰, 패, 문서, 편지",
       "related_kanji": [
         "札",
         "名札",
@@ -48488,8 +48701,8 @@
     {
       "surface": "浴",
       "onyomi": "ヨク",
-      "kunyomi": "あ.びる、あ.びせる",
-      "meaning": "목욕하다, 총애받다, 흠뻑 빠지다",
+      "kunyomi": "あびる、あびせる",
+      "meaning": "목욕할 욕, 목욕하다",
       "related_kanji": [
         "海水浴"
       ],
@@ -48507,7 +48720,7 @@
       "surface": "鼻",
       "onyomi": "ビ",
       "kunyomi": "はな",
-      "meaning": "코, 주둥이",
+      "meaning": "코 비, 코",
       "related_kanji": [
         "鼻",
         "鼻血",
@@ -48534,7 +48747,7 @@
       "surface": "塩",
       "onyomi": "エン",
       "kunyomi": "しお",
-      "meaning": "소금",
+      "meaning": "소금 염, 소금",
       "related_kanji": [
         "食塩",
         "塩辛い"
@@ -48729,7 +48942,7 @@
       "surface": "緑",
       "onyomi": "リョク、ロク",
       "kunyomi": "みどり",
-      "meaning": "초록색",
+      "meaning": "초록빛 록, 초록색",
       "related_kanji": [
         "緑",
         "緑化",
@@ -48780,7 +48993,7 @@
       "surface": "臣",
       "onyomi": "シン、ジン",
       "kunyomi": "",
-      "meaning": "치아 교정기, 주제",
+      "meaning": "신하 신, 신하",
       "related_kanji": [
         "総理大臣"
       ],
@@ -48818,8 +49031,8 @@
     {
       "surface": "貨",
       "onyomi": "カ",
-      "kunyomi": "たから",
-      "meaning": "화물, 상품, 재산",
+      "kunyomi": "-",
+      "meaning": "재물 화, 화폐, 재화",
       "related_kanji": [
         "通貨",
         "貨物"
@@ -49032,7 +49245,7 @@
       "surface": "童",
       "onyomi": "ドウ",
       "kunyomi": "わらべ",
-      "meaning": "청소년, 아이",
+      "meaning": "아이 동, 아이, 어린이",
       "related_kanji": [
         "童話",
         "児童"
@@ -49241,8 +49454,8 @@
     {
       "surface": "械",
       "onyomi": "カイ",
-      "kunyomi": "かせ",
-      "meaning": "장치, 구속하다, 기계, 악기",
+      "kunyomi": "-",
+      "meaning": "기계 계, 기계, 도구",
       "related_kanji": [
         "機械",
         "器械",
@@ -49292,8 +49505,8 @@
     {
       "surface": "拾",
       "onyomi": "シュウ、ジュウ",
-      "kunyomi": "ひろ.う",
-      "meaning": "집다, 모으다, 찾다, 걸어가다, 열",
+      "kunyomi": "ひろう",
+      "meaning": "주울 습, 줍다",
       "related_kanji": [
         "拾う",
         "拾得",
@@ -49362,7 +49575,7 @@
       "surface": "季",
       "onyomi": "キ",
       "kunyomi": "",
-      "meaning": "계절",
+      "meaning": "계절 계, 계절",
       "related_kanji": [
         "季節",
         "四季",
@@ -49415,8 +49628,8 @@
     {
       "surface": "粉",
       "onyomi": "フン",
-      "kunyomi": "デシメートル、こ、こな",
-      "meaning": "밀가루, 가루, 먼지",
+      "kunyomi": "こ、こな",
+      "meaning": "가루 분, 가루",
       "related_kanji": [
         "粉",
         "小麦粉",
@@ -49443,7 +49656,7 @@
       "surface": "湯",
       "onyomi": "トウ",
       "kunyomi": "ゆ",
-      "meaning": "온수, 목욕, 온천",
+      "meaning": "끓일 탕, 뜨거운 물",
       "related_kanji": [
         "湯気"
       ],
@@ -49542,7 +49755,7 @@
       "surface": "筆",
       "onyomi": "ヒツ",
       "kunyomi": "ふで",
-      "meaning": "붓, 글쓰기, 페인팅 브러시, 필체",
+      "meaning": "붓 필, 붓",
       "related_kanji": [
         "筆者",
         "随筆",
@@ -49613,8 +49826,8 @@
     {
       "surface": "浅",
       "onyomi": "セン",
-      "kunyomi": "あさ.い",
-      "meaning": "얕은, 피상적인, 경박한, 비참한, 부끄러운",
+      "kunyomi": "あさい",
+      "meaning": "얕을 천, 얕다",
       "related_kanji": [
         "浅い",
         "浅瀬",
@@ -49734,7 +49947,7 @@
       "surface": "湖",
       "onyomi": "コ",
       "kunyomi": "みずうみ",
-      "meaning": "호수",
+      "meaning": "호수 호",
       "related_kanji": [
         "湖",
         "湖畔",
@@ -49779,7 +49992,7 @@
       "surface": "炭",
       "onyomi": "タン",
       "kunyomi": "すみ",
-      "meaning": "숯, 석탄",
+      "meaning": "숯 탄, 숯, 석탄",
       "related_kanji": [
         "炭鉱"
       ],
@@ -49814,8 +50027,8 @@
     {
       "surface": "漁",
       "onyomi": "ギョ、リョウ",
-      "kunyomi": "あさ.る",
-      "meaning": "낚시, 어업",
+      "kunyomi": "-",
+      "meaning": "고기잡을 어, 낚시",
       "related_kanji": [
         "漁業",
         "漁師"
@@ -49910,8 +50123,8 @@
     {
       "surface": "貯",
       "onyomi": "チョ",
-      "kunyomi": "た.める、たくわ.える",
-      "meaning": "저축, 저장하다, 눕다, 유지하다, 콧수염을 기르다",
+      "kunyomi": "-",
+      "meaning": "쌓을 저, 저축하다, 쌓다",
       "related_kanji": [
         "貯金",
         "貯蓄",
@@ -49983,7 +50196,7 @@
       "surface": "柱",
       "onyomi": "チュウ",
       "kunyomi": "はしら",
-      "meaning": "기둥, 게시물, 실린더, 지원",
+      "meaning": "기둥 주,기둥",
       "related_kanji": [
         "電柱"
       ],
@@ -50046,7 +50259,7 @@
       "surface": "麦",
       "onyomi": "バク",
       "kunyomi": "むぎ",
-      "meaning": "보리, 밀",
+      "meaning": "보리 맥, 보리",
       "related_kanji": [
         "蕎麦"
       ],
@@ -50082,7 +50295,7 @@
       "surface": "皿",
       "onyomi": "ベイ",
       "kunyomi": "さら",
-      "meaning": "접시, 도움",
+      "meaning": "그릇 명, 접시, 도움",
       "related_kanji": [
         "皿",
         "大皿",
@@ -50109,7 +50322,7 @@
       "surface": "糸",
       "onyomi": "シ",
       "kunyomi": "いと",
-      "meaning": "실",
+      "meaning": "실 사, 실",
       "related_kanji": [
         "毛糸"
       ],
@@ -50144,8 +50357,8 @@
     {
       "surface": "兆",
       "onyomi": "チョウ",
-      "kunyomi": "きざ.す、きざ.し",
-      "meaning": "전조, 10**12, 조, 표지판, 징조, 증상",
+      "kunyomi": "きざす、きざし",
+      "meaning": "조 조, 징조(きざし), 전조, 1조, 싹트다(きざす)",
       "related_kanji": [
         "兆候",
         "前兆",
@@ -50198,8 +50411,8 @@
     {
       "surface": "灯",
       "onyomi": "トウ",
-      "kunyomi": "ひ、ほ-、ともしび、とも.す、あかり",
-      "meaning": "램프, 빛, 조명 카운터",
+      "kunyomi": "ひ",
+      "meaning": "등잔 등, 등, 등잔",
       "related_kanji": [
         "灯油",
         "灯台",
@@ -50439,7 +50652,7 @@
       "surface": "胃",
       "onyomi": "イ",
       "kunyomi": "",
-      "meaning": "위, 불룩한 배, 작물, 기어가다",
+      "meaning": "밥통 위, 위",
       "related_kanji": [
         "胃",
         "胃袋",
@@ -50667,7 +50880,7 @@
       "surface": "貝",
       "onyomi": "バイ",
       "kunyomi": "かい",
-      "meaning": "조개류",
+      "meaning": "조개 패, 조개류",
       "related_kanji": [
         "貝"
       ],
@@ -50801,8 +51014,8 @@
     {
       "surface": "刷",
       "onyomi": "サツ",
-      "kunyomi": "す.る、-ず.り、-ずり、は.く",
-      "meaning": "인쇄, 브러시",
+      "kunyomi": "する",
+      "meaning": "인쇄할 쇄, 인쇄하다",
       "related_kanji": [
         "刷る"
       ],

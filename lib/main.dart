@@ -189,6 +189,7 @@ class _QuizHomePageState extends State<QuizHomePage> {
   Map<String, int> _knowledge = {};
   String? _bookmarkCategoryKey;
   int? _bookmarkIndex;
+  bool _revealed = false;
 
   @override
   void initState() {
@@ -378,6 +379,7 @@ class _QuizHomePageState extends State<QuizHomePage> {
       _currentIndex = startIndex;
       _selectedCategoryTitle = selectedCategories.map((c) => c.label).join(' · ');
       _started = true;
+      _revealed = false;
     });
   }
 
@@ -385,6 +387,7 @@ class _QuizHomePageState extends State<QuizHomePage> {
     if (_currentIndex > 0) {
       setState(() {
         _currentIndex -= 1;
+        _revealed = false;
       });
     }
   }
@@ -396,6 +399,7 @@ class _QuizHomePageState extends State<QuizHomePage> {
     if (_currentIndex < _activeQuiz.length - 1) {
       setState(() {
         _currentIndex += 1;
+        _revealed = false;
       });
       return;
     }
@@ -436,6 +440,31 @@ class _QuizHomePageState extends State<QuizHomePage> {
     }
 
     return parts.take(maxCount).join(', ');
+  }
+
+  List<String> _getAllKoreanMeanings(String raw) {
+    final parts = raw
+        .split(RegExp(r'[;,/|]'))
+        .map((e) => e.trim())
+        .where((e) => e.isNotEmpty)
+        .toList();
+
+    final seen = <String>{};
+    final korean = <String>[];
+    for (final p in parts) {
+      if (!_containsHangul(p)) {
+        continue;
+      }
+      if (seen.add(p)) {
+        korean.add(p);
+      }
+    }
+
+    if (korean.isNotEmpty) {
+      return korean;
+    }
+
+    return parts;
   }
 
   String? _verbClassDescription(String pos) {
@@ -640,53 +669,69 @@ class _QuizHomePageState extends State<QuizHomePage> {
             const SizedBox(height: 24),
             Text(q.surface, style: const TextStyle(fontSize: 42, fontWeight: FontWeight.w700)),
             const SizedBox(height: 12),
-            if (q.isKanji) ...[
-              if (q.onyomi != null && q.onyomi!.isNotEmpty)
-                Text('음독: ${q.onyomi}', style: const TextStyle(fontSize: 20)),
-              if (q.kunyomi != null && q.kunyomi!.isNotEmpty)
-                Text('훈독: ${q.kunyomi}', style: const TextStyle(fontSize: 20)),
-            ] else ...[
-              Text('읽기: ${q.reading}', style: const TextStyle(fontSize: 22)),
-            ],
-            const SizedBox(height: 16),
-            Row(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-                  decoration: BoxDecoration(
-                    color: _posBadgeColor(q.pos, Theme.of(context).colorScheme),
-                    borderRadius: BorderRadius.circular(999),
-                  ),
-                  child: Text(
-                    _posShortLabel(q.pos),
-                    style: const TextStyle(fontWeight: FontWeight.w700),
-                  ),
-                ),
-                const SizedBox(width: 10),
-                Expanded(
-                  child: Text(shortMeaning, style: const TextStyle(fontSize: 20)),
-                ),
-              ],
-            ),
-            if (verbClass != null) ...[
-              const SizedBox(height: 8),
-              Text(verbClass, style: const TextStyle(fontSize: 15)),
-            ],
-            if (q.isKanji && q.relatedKanji.isNotEmpty) ...[
-              const SizedBox(height: 20),
-              const Text('관련 단어', style: TextStyle(fontSize: 16, fontWeight: FontWeight.w700)),
-              const SizedBox(height: 8),
-              ...List.generate(
-                q.relatedKanji.length,
-                (i) => Padding(
-                  padding: const EdgeInsets.only(bottom: 4),
-                  child: Text(
-                    '${q.relatedKanji[i]} (${i < q.relatedReading.length ? q.relatedReading[i] : ""}) - ${i < q.relatedMeaning.length ? q.relatedMeaning[i] : ""}',
-                    style: const TextStyle(fontSize: 15),
+            // 테스트 모드에서 정답 가리기
+            if (widget.mode == StudyMode.test && !_revealed) ...[
+              const SizedBox(height: 24),
+              Center(
+                child: FilledButton.icon(
+                  onPressed: () {
+                    setState(() {
+                      _revealed = true;
+                    });
+                  },
+                  icon: const Icon(Icons.visibility),
+                  label: const Text('정답 공개'),
+                  style: FilledButton.styleFrom(
+                    padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
                   ),
                 ),
               ),
+              const SizedBox(height: 24),
+            ] else ...[
+              if (q.isKanji) ...[
+                if (q.onyomi != null && q.onyomi!.isNotEmpty)
+                  Text('음독: ${q.onyomi}', style: const TextStyle(fontSize: 20)),
+                if (q.kunyomi != null && q.kunyomi!.isNotEmpty)
+                  Text('훈독: ${q.kunyomi}', style: const TextStyle(fontSize: 20)),
+              ] else ...[
+                Text('읽기: ${q.reading}', style: const TextStyle(fontSize: 22)),
+              ],
+              const SizedBox(height: 16),
+              if (q.isKanji) ...[
+                const Text('뜻:', style: TextStyle(fontSize: 16, fontWeight: FontWeight.w700)),
+                const SizedBox(height: 4),
+                ..._getAllKoreanMeanings(q.meaning).map(
+                  (m) => Padding(
+                    padding: const EdgeInsets.only(bottom: 2),
+                    child: Text('• $m', style: const TextStyle(fontSize: 18)),
+                  ),
+                ),
+              ] else ...[
+                Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                      decoration: BoxDecoration(
+                        color: _posBadgeColor(q.pos, Theme.of(context).colorScheme),
+                        borderRadius: BorderRadius.circular(999),
+                      ),
+                      child: Text(
+                        _posShortLabel(q.pos),
+                        style: const TextStyle(fontWeight: FontWeight.w700),
+                      ),
+                    ),
+                    const SizedBox(width: 10),
+                    Expanded(
+                      child: Text(shortMeaning, style: const TextStyle(fontSize: 20)),
+                    ),
+                  ],
+                ),
+                if (verbClass != null) ...[
+                  const SizedBox(height: 8),
+                  Text(verbClass, style: const TextStyle(fontSize: 15)),
+                ],
+              ],
             ],
             const Spacer(),
             Row(
